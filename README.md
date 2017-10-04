@@ -7,5 +7,5 @@ This website is powered by Jekyll and some Bootstrap, Bootwatch. We tried to mak
 Go to *aboutwebsite.md*  to learn how to copy and modidy this page for your purpose. This webpage was forked from the Allan Lab. 
 
 
-Copyright Jon Goodall. Code released under the MIT License.
+Copyright Jon Goodall 2017. Code released under the MIT License.
 
