@@ -1,17 +1,14 @@
 - name: Jonathan L. Goodall
   photo: Milan.jpg
-  info: Associate Professor, Department of Civil and Environmental Engineering
-  Associate Professor by courtesy, Department of Computer Science
-  Assistant Director, Link Lab
-  Group leader, Hyfroinformatics Research Group
-  Affiliate Faculity, Center for Fransportation Studies at the University of Virginia
+  info: Associate Professor, Department of Civil and Environmental Engineering, Associate Professor by courtesy, Department of Computer Science, Assistant Director, Link Lab
+  Group leader, Hyfroinformatics Research Group, Affiliate Faculity, Center for Fransportation Studies at the University of Virginia
   email: milan.allan@gmail.com
   number_educ: 3
   education1: PhD, Civil Engineering, University of Texax at Austin, 2005, Adviser <a href="http://www.caee.utexas.edu/prof/maidment/CAEE/maidment.htm">David R. Maidment</a>
   education2: MS, Civil Engineering, University of Texas at Austin, 2003
   education3: BS, Civil Engineering, University of Virginia, 2001
-  
-  
+
+
 - name: Doohee Cho
   photo: Doohee2.jpg
   info: Postdoc, started May 2017
@@ -20,7 +17,7 @@
   education1: B.S. Yonsei University, Korea
   education2: PhD Yonsei University, Korea with <a href="http://web.yonsei.ac.kr/nano/%ED%95%99%EA%B3%BC%EC%86%8C%EA%B0%9C.htm">In-Whan Lyo</a>
   education3: Postdoc Rutgers with <a href="http://rcem.rutgers.edu/">Sang-Wook Cheong</a>
-  
+
 - name: Irene Battisti
   photo: irene.jpg
   info: PhD student, started Jan 2015
@@ -28,7 +25,7 @@
   number_educ: 2
   education1: Master Padova University
   education2: Master thesis at Leiden University with <a href="https://www.physics.leidenuniv.nl/vanruitenbeek">Jan van Ruitenbeek</a>
-  
+
 - name: Koen M Bastiaans
   photo: Koen.jpg
   info: PhD Student, started Sep 2015
@@ -42,20 +39,20 @@
   email: M.Leeuwenhoek@tudelft.nl
   number_educ: 1
   education1: Master Leiden University with Milan Allan
-  education2: 
-  education3: 
-  education4:  
-  
+  education2:
+  education3:
+  education4:
+
 - name: Gijsbert Verdoes
   photo: verdoes.jpg
   info: Fine mechanical engineer associated with the FMD, currently working in our group
   email: verdoes@fmd.physics.leidenuniv.nl
   number_educ: 1
   education1: Leidse instrumentmakers School
-  education2: 
-  education3: 
-  education4:  
-  
+  education2:
+  education3:
+  education4:
+
 - name: Kees van Oosten
   photo: Kees.jpg
   info: Fine mechanical engineer associated with the FMD, currently working in our group
@@ -63,13 +60,13 @@
   number_educ: 2
   education1: Leidse instrumentmakers School
   education2: Associate degree Mechanical Engineering, Hogeschool Arnhem Nijmegen
- 
+
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
   email: milan.allan@gmail.com
   number_educ: 0
-  education1:  
-  education2:  
-  education3: 
-  education4:  
+  education1:
+  education2:
+  education3:
+  education4:
