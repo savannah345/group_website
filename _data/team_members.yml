@@ -8,22 +8,27 @@
   education3: BS, Civil Engineering, University of Virginia, 2001
 
 
-- name: Doohee Cho
+- name: Mohamed Morsy
   photo: Doohee2.jpg
-  info: Postdoc, started May 2017
+  info: Postdoc - Research Associate
   email: dooheecho80@gmail.com
-  number_educ: 3
-  education1: B.S. Yonsei University, Korea
-  education2: PhD Yonsei University, Korea with <a href="http://web.yonsei.ac.kr/nano/%ED%95%99%EA%B3%BC%EC%86%8C%EA%B0%9C.htm">In-Whan Lyo</a>
-  education3: Postdoc Rutgers with <a href="http://rcem.rutgers.edu/">Sang-Wook Cheong</a>
+  summary: Mohamed completed his PhD at UVA working on the HydroShare project, researching ways to represent hydrologic models within a resource-based hydrologic information system, and designing a flood warning system for VDOT. He also researched urban hydrology and stormwater management as part of his degree. Mohamed earned BS and MS degrees in CEE from Cairo University. He will continue to build the flood warning system for VDOT in his postdoc.
+  number_educ: 4
+  education1: B.S. CEE, Cairo University, Egypt
+  education2: M.S. CEE, Cairo University, Egypt
+  education3: PhD, University of Virginia
+  education4: Postdoc, Research Associate, University of Virginia
 
-- name: Irene Battisti
+- name: Bakinam Essawy
   photo: irene.jpg
-  info: PhD student, started Jan 2015
+  info: Postdoc - Research Associate
   email: Battisti@Physics.LeidenUniv.nl
-  number_educ: 2
-  education1: Master Padova University
-  education2: Master thesis at Leiden University with <a href="https://www.physics.leidenuniv.nl/vanruitenbeek">Jan van Ruitenbeek</a>
+  summary: Bakinam completed her PhD at UVA on modeling regional-scale hydrologic systems to understand water availability and drought. Her work is part of the DataNet Federation Consortium (DFC) project using iRODS to create workflows for hydrologic modeling. Bakinam earned BS and MS degrees in CEE from Cairo University. She will work on the GeoTrust project improving reproducibility in computational hydrology in her postdoc. 
+  number_educ: 4
+  education1: B.S. CEE, Cairo University, Egypt
+  education2: M.S. CEE, Cairo University, Egypt
+  education3: PhD, University of Virginia
+  education4: postdoc, University of Virginia
 
 - name: Koen M Bastiaans
   photo: Koen.jpg
@@ -32,10 +37,11 @@
   number_educ: 1
   education1: Master Leiden University with Milan Allan
 
-- name: Maarten Leeuwenhoek
+- name: Ben Bowes
   photo: Maarten.png
-  info: PhD Student, shared with the <a href="http://www.groeblacherlab.tudelft.nl">Groeblacher lab</a> at TU Delft under a NanoFront grant.
+  info: Ph.D. Student
   email: M.Leeuwenhoek@tudelft.nl
+  summary:
   number_educ: 1
   education1: Master Leiden University with Milan Allan
   education2:
@@ -68,4 +74,4 @@
   education1:
   education2:
   education3:
-  education4: 
+  education4:
