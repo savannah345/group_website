@@ -1,77 +1,109 @@
 - name: Jonathan L. Goodall
-  photo: Milan.jpg
+  photo: goodall.jpg
   info: Associate Professor, Department of Civil and Environmental Engineering | Associate Professor by courtesy, Department of Computer Science | Assistant Director, Link Lab | Group leader, Hyfroinformatics Research Group | Affiliate Faculity, Center for Fransportation Studies at the University of Virginia
-  email: milan.allan@gmail.com
+  email: jlg7h@virginia.edu
   number_educ: 3
   education1: PhD, Civil Engineering, University of Texax at Austin, 2005, Adviser <a href="http://www.caee.utexas.edu/prof/maidment/CAEE/maidment.htm">David R. Maidment</a>
   education2: MS, Civil Engineering, University of Texas at Austin, 2003
   education3: BS, Civil Engineering, University of Virginia, 2001
 
+#PostDoc 
 
 - name: Mohamed Morsy
-  photo: Doohee2.jpg
+  photo: morsy.jpg
   info: Postdoc - Research Associate
-  email: dooheecho80@gmail.com
-  summary: Mohamed completed his PhD at UVA working on the HydroShare project, researching ways to represent hydrologic models within a resource-based hydrologic information system, and designing a flood warning system for VDOT. He also researched urban hydrology and stormwater management as part of his degree. Mohamed earned BS and MS degrees in CEE from Cairo University. He will continue to build the flood warning system for VDOT in his postdoc.
+  email: mmm4dh@virginia.edu
   number_educ: 4
   education1: B.S. CEE, Cairo University, Egypt
   education2: M.S. CEE, Cairo University, Egypt
   education3: PhD, University of Virginia
-  education4: Postdoc, Research Associate, University of Virginia
-
+  education4: Current: Mohamed completed his PhD at UVA working on the HydroShare project, researching ways to represent hydrologic models within a resource-based hydrologic information system, and designing a flood warning system for VDOT. He also researched urban hydrology and stormwater management as part of his degree. 
+  
 - name: Bakinam Essawy
-  photo: irene.jpg
+  photo: essawy.jpg
   info: Postdoc - Research Associate
-  email: Battisti@Physics.LeidenUniv.nl
-  summary: Bakinam completed her PhD at UVA on modeling regional-scale hydrologic systems to understand water availability and drought. Her work is part of the DataNet Federation Consortium (DFC) project using iRODS to create workflows for hydrologic modeling. Bakinam earned BS and MS degrees in CEE from Cairo University. She will work on the GeoTrust project improving reproducibility in computational hydrology in her postdoc. 
+  email: bte2rn@virginia.edu
   number_educ: 4
   education1: B.S. CEE, Cairo University, Egypt
   education2: M.S. CEE, Cairo University, Egypt
   education3: PhD, University of Virginia
-  education4: postdoc, University of Virginia
+  education4: Current: Bakinam completed her PhD at UVA on modeling regional-scale hydrologic systems to understand water availability and drought. Her work is part of the DataNet Federation Consortium (DFC) project using iRODS to create workflows for hydrologic modeling. She will work on the GeoTrust project improving reproducibility in computational hydrology in her postdoc. 
 
-- name: Koen M Bastiaans
-  photo: Koen.jpg
-  info: PhD Student, started Sep 2015
-  email: Bastiaans@Physics.LeidenUniv.nl
-  number_educ: 1
-  education1: Master Leiden University with Milan Allan
+#PhD Students/Candidates
 
 - name: Ben Bowes
-  photo: Maarten.png
+  photo: bowes-1.jpg
   info: Ph.D. Student
-  email: M.Leeuwenhoek@tudelft.nl
-  summary:
+  email: bdb3m@virginia.edu
   number_educ: 1
-  education1: Master Leiden University with Milan Allan
-  education2:
-  education3:
-  education4:
+  education1: B.S. Environmental Science, Virginia Wesleyan College
+  education2: Current: Ben is studying urban water infrastructure. His current research is on the response of groundwater levels to changing tidal and precipitation conditions in Norfolk, VA. This research will play an important role in regional-scale flood forecasting systems.
 
-- name: Gijsbert Verdoes
-  photo: verdoes.jpg
-  info: Fine mechanical engineer associated with the FMD, currently working in our group
-  email: verdoes@fmd.physics.leidenuniv.nl
+- name: Alex Chen
+  photo: chen.jpg
+  info: Ph.D. Student
+  email: abc8fq@virginia.edu
   number_educ: 1
-  education1: Leidse instrumentmakers School
-  education2:
-  education3:
-  education4:
+  education1: M.S. Civil Engineering, National Taiwan University.
+  education2: Current: Alex is currently researching smart stormwater management for coastal communities. 
 
-- name: Kees van Oosten
-  photo: Kees.jpg
-  info: Fine mechanical engineer associated with the FMD, currently working in our group
-  email: Oosten@fmd.physics.leidenuniv.nl
+- name: Youngdon Choi
+  photo: choi.png
+  info: Ph.D Student
+  email: 
   number_educ: 2
-  education1: Leidse instrumentmakers School
-  education2: Associate degree Mechanical Engineering, Hogeschool Arnhem Nijmegen
+  education1: B.S. Civil Engineering
+  education2: M.S. Civil Engineering
+  education3: Youngdon recently joined the group after working for 10 years at K-Water in Korea. At K-Water, he worked on topics including integration of data and simulation models, computer-based data mining, and data modeling.
 
-- name: "This could be you !"
-  photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
-  number_educ: 0
-  education1:
-  education2:
-  education3:
-  education4:
+- name: Iman Maghami
+  photo: maghami.jpg
+  info: Ph.D. Student
+  email: im3vp@virginia.edu
+  number_educ: 2
+  education1: B.S. Sharif University, Iran
+  education2: M.S. University of Tehran, Iran
+
+- name: Gina ONeil
+  photo: gina-1.jpg
+  info: Ph.D. Candidate
+  email: glo6ck@virginia.edu
+  number_educ: 2
+  education1: B.S. CEE, University of Virginia
+  education2: M.S. CEE, University of Virginia
+  education3: Current: Gina is studying hydrology and wetland delineation using remote sensing and GIS. Her current research is resulting in new methods for identifying small-scale wetlands to assist in transportation planning. 
+
+- name: Jeff Sadler
+  photo: sadler.jpg
+  info: Ph.D. Candidate
+  email: jms3fb@virginia.edu
+  number_educ: 1
+  education1: M.S. CEE, Brigham Young University
+  education2: Jeff is studying urban hydrology in the Hampton Roads region of Virginia. He is currently researching the application of machine learning approaches for improving forecasting of street-scale flooding events in Norfolk, VA.
+ 
+- name: Yawen Shen
+  photo: Yawen-1.jpg
+  info: Ph.D. Candidate
+  email: ys5dv@virginia.edu
+  number_educ: 2
+  education1: B.S. Wuhan University, China
+  education2: M.S. Gerogia Tech
+  education3: Current: Yaween is studying resilient infrastructure systems. His current work addresses the risk of flooding impacts to transportation infrastructure including bridges and culverts in particular. 
+
+- name: Faria Zahura
+  photo: zahura.jpg
+  info: Ph.D Student
+  email: fz7xb@virginia.edu
+  number_educ: 1
+  education1: B.S. Civil Engineering, Bangladesh University of Engineering and Technology (BUET)
+  education2: Bangladesh Water Development Board
+
+  #name: "This could be you !"
+  #photo: rock.jpg
+  #info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
+  #email: milan.allan@gmail.com
+  #number_educ: 0
+  #education1:
+  #education2:
+  #education3:
+  #education4:
