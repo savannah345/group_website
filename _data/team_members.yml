@@ -17,7 +17,7 @@
   education1: B.S. CEE, Cairo University, Egypt
   education2: M.S. CEE, Cairo University, Egypt
   education3: PhD, University of Virginia
-  education4: Current: Mohamed completed his PhD at UVA working on the HydroShare project, researching ways to represent hydrologic models within a resource-based hydrologic information system, and designing a flood warning system for VDOT. He also researched urban hydrology and stormwater management as part of his degree. 
+  education4: Current -  Mohamed completed his PhD at UVA working on the HydroShare project, researching ways to represent hydrologic models within a resource-based hydrologic information system, and designing a flood warning system for VDOT. He also researched urban hydrology and stormwater management as part of his degree. 
   
 - name: Bakinam Essawy
   photo: essawy.jpg
@@ -27,7 +27,7 @@
   education1: B.S. CEE, Cairo University, Egypt
   education2: M.S. CEE, Cairo University, Egypt
   education3: PhD, University of Virginia
-  education4: Current: Bakinam completed her PhD at UVA on modeling regional-scale hydrologic systems to understand water availability and drought. Her work is part of the DataNet Federation Consortium (DFC) project using iRODS to create workflows for hydrologic modeling. She will work on the GeoTrust project improving reproducibility in computational hydrology in her postdoc. 
+  education4: Current - Bakinam completed her PhD at UVA on modeling regional-scale hydrologic systems to understand water availability and drought. Her work is part of the DataNet Federation Consortium (DFC) project using iRODS to create workflows for hydrologic modeling. She will work on the GeoTrust project improving reproducibility in computational hydrology in her postdoc. 
 
 #PhD Students/Candidates
 
@@ -37,7 +37,7 @@
   email: bdb3m@virginia.edu
   number_educ: 1
   education1: B.S. Environmental Science, Virginia Wesleyan College
-  education2: Current: Ben is studying urban water infrastructure. His current research is on the response of groundwater levels to changing tidal and precipitation conditions in Norfolk, VA. This research will play an important role in regional-scale flood forecasting systems.
+  education2: Current - Ben is studying urban water infrastructure. His current research is on the response of groundwater levels to changing tidal and precipitation conditions in Norfolk, VA. This research will play an important role in regional-scale flood forecasting systems.
 
 - name: Alex Chen
   photo: chen.jpg
@@ -45,7 +45,7 @@
   email: abc8fq@virginia.edu
   number_educ: 1
   education1: M.S. Civil Engineering, National Taiwan University.
-  education2: Current: Alex is currently researching smart stormwater management for coastal communities. 
+  education2: Current - Alex is currently researching smart stormwater management for coastal communities. 
 
 - name: Youngdon Choi
   photo: choi.png
@@ -71,7 +71,7 @@
   number_educ: 2
   education1: B.S. CEE, University of Virginia
   education2: M.S. CEE, University of Virginia
-  education3: Current: Gina is studying hydrology and wetland delineation using remote sensing and GIS. Her current research is resulting in new methods for identifying small-scale wetlands to assist in transportation planning. 
+  education3: Current - Gina is studying hydrology and wetland delineation using remote sensing and GIS. Her current research is resulting in new methods for identifying small-scale wetlands to assist in transportation planning. 
 
 - name: Jeff Sadler
   photo: sadler.jpg
@@ -79,7 +79,7 @@
   email: jms3fb@virginia.edu
   number_educ: 1
   education1: M.S. CEE, Brigham Young University
-  education2: Jeff is studying urban hydrology in the Hampton Roads region of Virginia. He is currently researching the application of machine learning approaches for improving forecasting of street-scale flooding events in Norfolk, VA.
+  education2: Current - Jeff is studying urban hydrology in the Hampton Roads region of Virginia. He is currently researching the application of machine learning approaches for improving forecasting of street-scale flooding events in Norfolk, VA.
  
 - name: Yawen Shen
   photo: Yawen-1.jpg
@@ -88,7 +88,7 @@
   number_educ: 2
   education1: B.S. Wuhan University, China
   education2: M.S. Gerogia Tech
-  education3: Current: Yaween is studying resilient infrastructure systems. His current work addresses the risk of flooding impacts to transportation infrastructure including bridges and culverts in particular. 
+  education3: Current - Yaween is studying resilient infrastructure systems. His current work addresses the risk of flooding impacts to transportation infrastructure including bridges and culverts in particular. 
 
 - name: Faria Zahura
   photo: zahura.jpg
