@@ -1,54 +1,59 @@
-- title: "Revisiting quasiparticle scattering interference in high-temperature superconductors: the problem of narrow peaks"
+#set up for this Data file
+#- title: 
+  #image: dummy.png
+  #description: ""
+  #authors: MA Sulangi, MP Allan, J Zaanen    
+#Nothing goes in link, it just marks the places for url and display - both of which need to be a space behind where link starts   
+  #link:
+    #url: https://arxiv.org/abs/1707.03362
+    #display:  arXiv:1707.03362 (2017)
+#Highlights are either 1 or 0 - if 1 is slected then they will show up in the fancy squares at the top of the page, if 0 the info will only show up at the list of publications at the bottom.
+  #highlight: 0
+#ability to add new news??
+  #news2: 
+
+- title: A Method for Rapidly Assessing the Overtopping Risk of Bridges due to Flooding over a Large Geographic Region.
   image: dummy.png
-  description: ""
-  authors: MA Sulangi, MP Allan, J Zaanen
+  description: 
+    Journal of the American Water Resources Association. Accepted and in Press.
+  authors: Shen, Y., J.L. Goodall, S.B. Chase 
   link:
-    url: https://arxiv.org/abs/1707.03362
-    display:  arXiv:1707.03362 (2017)
-  highlight: 0
+    url: http://faculty.virginia.edu/goodall/Shen_JAWRA_2017_Preprint.pdf
+    display: Manuscript of Article (2017)
+  highlight: 1
   news2: 
 
-- title: Robust procedure for creating and characterizing the atomic structure of scanning tunneling microscope tips
-  image: dummy.png
-  description: ""
-  authors: S Tewari, KM Bastiaans, MP Allan, JM van Ruitenbeek
-  link:
-    url: https://arxiv.org/abs/1705.08796
-    display:  arXiv:1705.08796 (2017)
-  highlight: 0
-  news2: 
-
-- title: Creating better superconductors by periodic nanopatterning
+- title: Impact of Sea Level Rise on Roadway Flooding in the Hampton Roads Region of Virginia
   image: SCAUweb.jpg
-  description:
-    We  propose  an approach to transform a ‘pristine’ material into a better (meta-) superconductor by making use of modern fabrication techniques -- designing and engineering the electronic properties of thin films via periodic patterning on the nanoscale. 
+  description: 
+    Journal of Infrastructure Systems. Accepted and in Press.
   authors:
-    MP Allan, MH Fischer, O Ostojic, A Andringa
+    Sadler, J.M., N. Haselden, K. Mellon, A. Hackel, V. Son, J. Mayfield, A. Blase, J.L. Goodall 
   link:
-    url: https://scipost.org/SciPostPhys.3.2.010/pdf
-    display: SciPost Phys. 3, 010 (2017)
+    url: http://faculty.virginia.edu/goodall/Sadler_JIS_2017_Preprint.pdf
+    display: Manuscript of Article (2017)
   highlight: 1
   
-- title: Poor electronic screening in lightly doped Mott insulators observed with scanning tunneling microscopy
+- title: Effect of Rain Gauge Proximity on Rainfall Estimation for Problematic Urban Coastal Watersheds in Virginia Beach, VA USA.
   image: TIBB.png
   description:
-    We develop a simple model to interpret STM results on lightly doped Mott insulators, and find that the effective Mott gap measured by STM correspons to the one measured with other techniques when taking into account the poor electronic screeing. 
+    Journal of Hydrologic Engineering
   authors:
-    I Battisti, V Fedoseev, KM Bastiaans, A de la Torre, RS Perry, F Baumberger, MP Allan
+    Sadler, J.M., J.L. Goodall, M.M. Morsy
   link:
-    url: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.95.235141
-    display: Phys. Rev. B 95, 235141, Editors' suggestion (2017)
+    url: http://faculty.virginia.edu/goodall/Sadler_JoHE_2017_Preprint.pdf
+    display: 22(9). doi:10.1061/(ASCE)HE.1943-5584.0001563 (2017)
   highlight: 1
 
-- title: Universality of pseudo gap and emergent order in lightly doped Mott insulators
+- title: The Impact of Projected Climate Change Scenarios on Nitrogen Yield at a Regional-Scale for the Contiguous United States
   image: Mott_phase_sep.jpg
   description:
-    We discover of electronic order, pseudo gap phase separation and an impurity-band Mott transition in an iridate compound, cuprate-style. Along the way, we gained unique knowledge on how a Mott state collapses.
+    Journal of the American Water Resources Association <a href="http://onlinelibrary.wiley.com/doi/10.1111/1752-1688.12537/abstract;jsessionid=C1180791DEEC80E215C979D267BC19FC.f04t01"> 53(4), pp.854–870. doi:10.1111/1752-1688.12537 </a>
   authors:
-    I. Battisti* & K.M. Bastiaans*, V. Fedoseev, A. de la Torre, N. Iliopoulos, A. Tamai, E.C. Hunter, R.S. Perry, J. Zaanen, F. Baumberger, M.P. Allan
+    Sadler, J.M., J.L. Goodall, M.M. Morsy 
   link:
-    url: http://www.nature.com/nphys/journal/vaop/ncurrent/full/nphys3894.html
-    display: Nature Physics 13, 21 (2017)
+    url: http://faculty.virginia.edu/goodall/Sadler_JoHE_2017_Preprint.pdf
+    display: Manuscript of Articsle (2017)
   highlight: 1
   news2: See also <a href="https://www.universiteitleiden.nl/en/news/2016/09/melting-of-frozen-electrons-visualized"> Leiden University news </a> by Erik Arends, <a href="http://phys.org/news/2016-09-frozen-electrons-visualized.html"> Phys.org </a> 
 
@@ -181,12 +186,11 @@
     display: Nanoscale Research Letters 2, 94 (2007)
   highlight: 1
 
-- title: Photoelectron Diffraction for a Look inside Nanostructures
+- title: 
   image: dummy.png
   description: ""
   authors:
-    J Osterwalder, A Tamai, W AuwÃ¤rter; MP Allan, T Greber
   link:
-    url: hhttp://www.ingentaconnect.com/content/scs/chimia/2006/00000060/00000011/art00013
-    display: CHIMIA 11, 759 (2006)
+    url: 
+    display: 
   highlight: 0
