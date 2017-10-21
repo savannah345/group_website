@@ -11,6 +11,7 @@
   #highlight: 0
 #ability to add new news??
   #news2: 
+  #news1: <a style="color:#FF0000; text-decoration:underline" href="http://science.sciencemag.org/content/345/6203/twil">News item in Science</a> 
 
 - title: A Method for Rapidly Assessing the Overtopping Risk of Bridges due to Flooding over a Large Geographic Region.
   image: dummy.png
@@ -21,7 +22,7 @@
     url: http://faculty.virginia.edu/goodall/Shen_JAWRA_2017_Preprint.pdf
     display: Manuscript of Article (2017)
   highlight: 1
-  news2: 
+
 
 - title: Impact of Sea Level Rise on Roadway Flooding in the Hampton Roads Region of Virginia
   image: SCAUweb.jpg
@@ -33,7 +34,8 @@
     url: http://faculty.virginia.edu/goodall/Sadler_JIS_2017_Preprint.pdf
     display: Manuscript of Article (2017)
   highlight: 1
-  
+ 
+ 
 - title: Effect of Rain Gauge Proximity on Rainfall Estimation for Problematic Urban Coastal Watersheds in Virginia Beach, VA USA.
   image: TIBB.png
   description:
@@ -41,151 +43,443 @@
   authors:
     Sadler, J.M., J.L. Goodall, M.M. Morsy
   link:
-    url: http://faculty.virginia.edu/goodall/Sadler_JoHE_2017_Preprint.pdf
-    display: 22(9). doi:10.1061/(ASCE)HE.1943-5584.0001563 (2017)
+    url: http://ascelibrary.org/doi/10.1061/%28ASCE%29HE.1943-5584.0001563
+    display: Journal of Hydrologic Engineering 22(9). doi:10.1061/(ASCE)HE.1943-5584.0001563
   highlight: 1
+  news2: See also <a href="http://faculty.virginia.edu/goodall/Sadler_JoHE_2017_Preprint.pdf"> Manuscript of Article (2017)</a>
+
 
 - title: The Impact of Projected Climate Change Scenarios on Nitrogen Yield at a Regional-Scale for the Contiguous United States
   image: Mott_phase_sep.jpg
   description:
-    Journal of the American Water Resources Association <a href="http://onlinelibrary.wiley.com/doi/10.1111/1752-1688.12537/abstract;jsessionid=C1180791DEEC80E215C979D267BC19FC.f04t01"> 53(4), pp.854–870. doi:10.1111/1752-1688.12537 </a>
+    Journal of the American Water Resources Association 
   authors:
     Sadler, J.M., J.L. Goodall, M.M. Morsy 
   link:
-    url: http://faculty.virginia.edu/goodall/Sadler_JoHE_2017_Preprint.pdf
-    display: Manuscript of Articsle (2017)
-  highlight: 1
-  news2: See also <a href="https://www.universiteitleiden.nl/en/news/2016/09/melting-of-frozen-electrons-visualized"> Leiden University news </a> by Erik Arends, <a href="http://phys.org/news/2016-09-frozen-electrons-visualized.html"> Phys.org </a> 
+    url: http://onlinelibrary.wiley.com/doi/10.1111/1752-1688.12537/abstract;jsessionid=C1180791DEEC80E215C979D267BC19FC.f04t01
+    display: Journal of American Water Resources Association 53(4), pp.854–870. doi:10.1111/1752-1688.12537 
+  highlight: 1 
+  news2: See also <a href="http://faculty.virginia.edu/goodall/Alam_JAWRA_2017_Preprint.pdf"> Manuscript of Article (2017)</a>
 
-- title: Identifying the fingerprint of antiferromagnetic spin fluctuations in iron pnictide superconductors
+
+- title: Design of a metadata framework for environmental models with an example hydrologic application in HydroShare
   image: Pub_FP.png
   description:
-    Both the density of states and the QPI dispersion of LiFeAs shows signatures of electron-boson coupling. Comparing these with fingerprints of different boson couplings to conclude that these signatures stem from AF spin fluctuations.
+    Environmental Modelling and Software
   authors:
-    MP Allan* & Kyungmin Lee* & AW Rost*, MH Fischer, F Massee, K Kihou, C-H Lee, A Iyo, H Eisaki, T-M Chuang, AP Mackenzie, JC Davis, DJ Scalapino, E-A Kim
+   Morsy, M.M., J.L.Goodall, A.M. Castronova, P. Dash, V. Merwade, J.M. Sadler, M.A. Rajib, J.S. Horsburgh, and D.G. Tarboton 
   link:
-    url: http://www.nature.com/nphys/journal/v11/n2/full/nphys3187.html
-    display: Nature Physics 11, 177 (2015)
+    url: http://dx.doi.org/10.1016/j.envsoft.2017.02.028
+    display: Environmental Modelling & Software, 93, pp.13-28. doi:10.1016/j.envsoft .2017.02.028
   highlight: 1
-  news1:
-  news2: See also <a href="http://www.news.cornell.edu/stories/2015/01/high-temperature-superconductor-fingerprint-found"> Cornell Chronicle </a> by Anne Ju, <a href="http://phys.org/news/2015-01-high-temperature-superconductor-fingerprint.html"> Phys.org </a> 
-
-- title: Direct evidence for a magnetic f-electron mediated Cooper pairing mechanism of heavy fermion superconductivity in CeCoIn5
+  news2: See also <a href="http://faculty.virginia.edu/goodall/Morsy_EMS_2016_Preprint.pdf"> Manuscript of Article (2017)</a>
+  
+  
+- title: Evaluation of the OntoSoft Ontology for describing metadata for legacy hydrologic modeling software
   image: dummy.png
-  description: ""
+  description: Environmental Modeling and Software
   authors:
-    J Van Dyke, F Massee, MP Allan, JC Davis, C Petrovic, and DK Morr
+    Essawy, B.T., J.L. Goodall, H. Xu, and Y. Gil
   link:
-    url: http://www.pnas.org/content/111/32/11663
-    display: PNAS 111, 11663 (2014)
+    url: http://dx.doi.org/10.1016/j.envsoft.2017.01.024
+    display: Environmental Modelling & Software, 92, pp.317-329. doi:10.1016/j.envsoft .2017.01.024
   highlight: 0
-  news1: <a style="color:#FF0000; text-decoration:underline" href="http://science.sciencemag.org/content/345/6203/twil">News item in Science</a> 
-  news2:
+  news2: See also <a href="http://faculty.virginia.edu/goodall/Essawy_EMS_2016_Preprint.pdf"> Manuscript of Article (2017) </a>
 
-- title: Imaging Cooper pairing of heavy fermions in CeCoIn5
+
+- title: Comparing Costs of Onsite Best Management Practices to Nutrient Credits for Stormwater Management: A Case Study in Virginia
   image: Pub_CeCoIn5.png
-  description:
-    The heavy Fermion superconductor CeCoIn5 has a d-wave gap with nodes along the (1,1) direction, as we find using QPI.
-  authors:
-    MP Allan* & F Massee*, DK Morr, J van Dyke, AW Rost, AP Mackenzie, C Petrovic, JC Davis
+  description: JAWRA Journal of the American Water Resources Association
+  authors: Nobles, A.L., J.L. Goodall, and G.M. Fitch
   link:
-    url: http://www.nature.com/nphys/journal/vaop/ncurrent/abs/nphys2671.html
-    display: Nature Physics 9, 468 (2013) 
+    url: http://dx.doi.org/10.1111/1752-1688.12487
+    display: JAWRA Journal of the American Water Resources Association. 53(1), pp. 131-143. doi:10.1111/1752-1688.12487 
   highlight: 1
-  news1: <a style="color:#FF0000; text-decoration:underline" href="http://www.nature.com/nphys/journal/v9/n8/full/nphys2708.html">Featured in 'News and Views' by L Taillefer</a>
-  news2: See also <a href="http://phys.org/news/2013-07-imaging-electron-pairing-simple-magnetic.html"> Phys.org</a>, <a href="http://davisgroup.lassp.cornell.edu/CeCoIn5_DoE.html">DoE headliner</a>
+  news2: See also <a href="http://faculty.virginia.edu/goodall/Nobles_JAWRA_2016_Preprint.pdf"> Manuscript of Article (2017)</a>
+  
 
-- title: Formation of heavy d-electron quasiparticles in Sr3Ru2O7
+- title: Toward the Geoscience Paper of the Future: Best practices for documenting and sharing research from data to software to provenance
   image: Pub_327.png
   description:
-    Using APRES, we find that the bands in Sr3Ru2O7 look more like in heavy fermion material than in a normal metal. We present a detailed investigation into the formation of this particular electronic  structure.
+    Earth and Space science
   authors:
-    MP Allan, A Tamai, E Rozbicki, MH Fischer, J Voss, PDC King, W Meevasana, S Thirupathaiah, E Rienks, J Fink, A Tennant, RS Perry, JF Mercure, MA Wang, J Lee, CJ Fennie, E-A Kim, MJ Lawler, KM Shen, AP Mackenzie, Z-X Shen, F Baumberger
+    Gil, Y., C.H. David, I. Demir, B. T. Essawy, R. W. Fulweiler, J. L. Goodall, L. Karlstrom, H. Lee, H. J. Mills, J .H. Oh, and S. A. Pierce 
   link:
-    url: http://iopscience.iop.org/1367-2630/15/6/063029
-    display: New Journal of Physics 15, 063029 (2013) 
+    url: http://dx.doi.org/10.1002/2015EA000136
+    display: Earth and Space Science, 3, 388—415, doi:10.1002/2015EA000136 
   highlight: 1
-  news: <a style="color:#FF0000; text-decoration:underline" href="http://iopscience.iop.org/1367-2630/15/6/063029"> Video abstract available</a>
+  news2: See also <a href="http://faculty.virginia.edu/goodall/Gil_ESS_2016_FinalPaper.pdf"> Manuscript of Article (2016)</a>
 
-- title: Anisotropic impurity states, quasiparticle scattering and nematic transport in underdoped Ca(Fe1−xCox)2As2
+- title: Distributed Stormwater Controls for Flood Mitigation within Urbanized Watersheds: Case Study of Rocky Branch Watershed in Columbia, South Carolina
   image: Pub_nemat2b.png
   description:
-    We elucidate on the formation of the electronic nematic state in Co-CaFe2As2, finding that the Cobalt dopant atoms play a key role.
+    Journal of Hydrologic Engineering
   authors:
-    MP Allan, T-M Chuang, F Massee, Y Xie, N Ni, SL Bud’ko, GS Boebinger, Q Wang, DS Dessau, PC Canfield, MS Golden, JC Davis
+    Morsy, M. M., J. L. Goodall, F. Shatnawi, and M. E. Meadows
   highlight: 1    
   link:
-    url: http://www.nature.com/nphys/journal/v9/n4/full/nphys2544.html
-    display: Nature Physics 9, 220 (2013)
-  news2: See also <a href="http://www.techconnect.org/news/entry.html?id=243"> Tech Connect </a> by Jennifer Rocha, <a href="http://phys.org/news/2013-02-iron-based-superconductor-advances-theory.html"> Phys.org</a> by Bill Steele
+    url: http://dx.doi.org/10.1061/(ASCE)HE.1943-5584.0001430
+    display: Journal of Hydrologic Engineering, 05016025. doi:10.1061/( ASCE)HE.1943-5584.0001430
+  news2: See also <a href="http://faculty.virginia.edu/goodall/Morsy_JoHE_2016_Preprint.pdf"> Manuscript of Article (2016)</a>
+  
 
-- title: Anisotropic energy gaps of iron-based superconductivity from intraband quasiparticle interference in LiFeAs
+- title: Server-side workflow execution using data grid technology for reproducible analyses of data-intensive hydrologic systems
   image: Pub_LiFeAs.png
   description:
-    In contrast to earlier photoemission reports, we show that the gaps in iron based superconductors are not isotropic but modulated with angle.
+    Earth and Space Science
   authors:
-    MP Allan⋆ & AW Rost⋆, AP Mackenzie, Y Xie, JC Davis, K Kihou, CH Lee, A Iyo, H Eisaki, T-M Chuang
+    Essawy, B. T., J. L. Goodall, H. Xu, A. Rajasekar, J. D. Myers, T. A. Kugler, M. M. Billah, M. C. Whitton, and R. W. Moore
   link:
-    url: http://www.sciencemag.org/content/336/6081/563
-    display: Science 336, 563 (2012)
+    url: http://dx.doi.org/10.1002/2015EA000139
+    display: Earth and Space Science, 3, 163-175, doi:10.1002/2015EA000139
   highlight: 1
-  news2: See also <a href="http://www.news.cornell.edu/stories/2012/05/new-clues-how-iron-superconductors-work"> Cornell Cornincle </a> by Bill Steele, <a href="http://www.eurekalert.org/pub_releases/2012-05/dnl-avo050312.php"> Eureka Alert </a>
-
-- title: How Kondo-holes create intense nanoscale heavy-fermion hybridization disorder
+  news2: See also <a href="http://faculty.virginia.edu/goodall/Essawy_ESS_2016_FinalPaper.pdf"> Manuscript of Article (2016)
+  
+  
+- title: Design and implementation of a general software library for using NSGA-II with SWAT for multi-objective model calibration
   image: dummy.png
-  description: ""
-  authors: MH Hamidian, AR Schmidt, IA Firmo, MP Allan, P Bradley, JD Garrett, TJ Williams, GM Luke, Y Dubi, AV Balatsky, JC Davis
+  description: Environmental Modelling and Software
+  authors: Ercan M. B., J. L. Goodall
   link:
-    url: http://www.pnas.org/content/108/45/18233
-    display:  PNAS 108, 18233 (2011)
+    url: http://dx.doi.org/10.1016/j.envsoft.2016.06.017
+    display: Environmental Modelling & Software, 84, 112-20. doi:10.1016/j.envsoft .2016.06.017
   highlight: 0
-  news2: 
+  news2: See also <a href="http://faculty.virginia.edu/goodall/Ercan_EMS_2016_Preprint.pdf"> Manuscript of Article (2016)</a>
 
-- title: Nematic electronic structure in the “parent” state of the iron-based superconductor Ca(Fe1−xCox)2As2
+- title: Hydroshare: Sharing Diverse Environmental Data Types and Models as Social Objects with Application to the Hydrology Domain
   image: Pub_nemat1.png
   description:
-    We discovered an electronic nematic in the iron based superconductor Co-CaFe2As2! This state is by now confirmed and quite well characterized  by transport, photoemission, and more SI-STM experiments.
+    Journal of the American Water Resources Association
   authors:
-    T-M Chuang* & MP Allan*, J Lee, Y Xie, N Ni, SL Bud’ko, GS Boebinger PC Canfield, JC Davis
+    Horsburgh, J. S., M. M. Morsy, A. M. Castronova, J. L. Goodall, T. Gan, H. Yi, M. J. Stealey, D. G. Tarboton
   link:
-    url: http://www.sciencemag.org/content/327/5962/181
-    display: Science 327, 181 (2010) 
+    url: http://dx.doi.org/10.1111/1752-1688.12363
+    display: Journal of the American Water Resources Association, 52(4), 873-889. doi:10.1111/1752-1688.12363 
   highlight: 1
-  news1: <a style="color:#FF0000" href="http://www.sciencemag.org/content/327/5962/155"> Featured in a ‘Perspective’ by E Fradkin &amp; SA Kivelson</a> 
-  news2: See also <a  href="https://www.newscientist.com/article/dn18354-electron-spotting-could-explain-warm-superconductors/">Article on NewScientist</a> by Colin Barras
+  news2: See also <a href="http://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=2183&context=cee_facpub"> Manuscript of Article (2016)</a>
 
-- title: Heavy d-electron quasiparticle interference and real-space electronic structure of Sr3Ru2O7
-  image: Pub_hBN.png
+
+- title: Using a data grid to automate data preparation pipelines required for regional-scale hydrologic modeling
   description:
-    QPI in Sr327.
-  authors: Jinho Lee* & M. P. Allan*, M. A.Wang, J. Farrell, S. A. Grigera, F. Baumberger, J. C. Davis and A. P. Mackenzie 
+    Environmental Modelling and Software
+  authors: Billah, M. M., J. L. Goodall, U. Narayan, B. T. Essawy, V. Lakshmi, A. Rajasekar, R. Moore
   link:
-    url: https://www.nature.com/nphys/journal/v5/n11/full/nphys1397.html
-    display: Nature Physics 5, 800 (2009)
+    url: http://dx.doi.org/10.1016/j.envsoft.2015.12.010
+    display: Environmental Modelling & Software, 78, 31-39. doi:10.1016/j.envsoft .2015.12.010
   highlight: 0
+  news2: See also <a href="http://faculty.virginia.edu/goodall/Billah_EMS_2016_Preprint.pdf"> Manuscrip of Article (2016)</a>
+  
 
-- title: Fermi surface and van Hove singularities in the itinerant metamagnet Sr3Ru2O7
+- title: Simulation of integrated urban infrastructure systems: A service-oriented approach
   image: Pub_hBN.png
   description:
-    We determine the Fermi surface of Sr327.
+    Journal of Computing in Civil Engineering
   authors:
-    A Tamai, MP Allan, JF Mercure, W Meevasana, R Dunkel, DH Lu, RS Perry, AP Mackenzie, David J Singh, Z-X Shen, F Baumberger
+    Goodall, J.L., A. M. Castronova, N. N. Huynh, and J. M. Caicedo, R. Hall 
   link:
-    url: http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.101.026407
-    display: Phys. Rev. Lett. 101, 026407 (2008)
+    url: http://dx.doi.org/10.1061/(ASCE)CP.1943-5487.0000364
+    display: Journal of Computing in Civil Engineering, 29(5). doi:10.1061/( ASCE)CP.1943-5487.0000364
   highlight: 0
+  news2: See also <a href="http://faculty.virginia.edu/goodall/Goodall_JCCE_2015_Preprint.pdf"> Manuscript of Article (2015)</a>
 
-- title: Tunable  self-assembly of one-dimensional nanostructures with orthogonal directions
+
+- title: A methodology for evaluating evapotranspiration estimates at the watershed-scale using GRACE,
   image: Pub_hBN.png
   description:
-    Hexagonal boron nitride shows fancy superstructures on the Mo(111) surface.
+   Journal of Hydrology
   authors:
-    MP Allan, S Berner, M Corso, T Greber, J Osterwalder
+    Billah, M.M., J. L. Goodall, U. Narayan, J. T. Reager, V. Lakshmi, J. S. Famiglietti 
   link:
-    url: http://www.nanoscalereslett.com/content/2/2/94
-    display: Nanoscale Research Letters 2, 94 (2007)
+    url: http://dx.doi.org/10.1016/j.jhydrol.2015.01.066
+    display: Journal of Hydrology, 574-586. doi:10.1016/j.jhydrol .2015.01.066523
   highlight: 1
+  news2: See also <a href="http://escholarship.org/uc/item/3sw9d167"> Manuscript of Article (2015)</a>
+  
+  
+- title: Calibration of SWAT models using the cloud
+  image: Pub_hBN.png
+  description:
+    Environmental Modelling and Software
+  authors:
+    Ercan, M.B., J.L. Goodall, A.M. Castronova, M. Humphrey, and N. Beekwilder 
+  link:
+    url: http://dx.doi.org/10.1016/j.envsoft.2014.09.002
+    display: Environmental Modelling & Software, 62, 188-196. doi:10.1016/j.envsoft .2014.09.002
+  highlight: 0
+  news2: See also <a href="http://faculty.virginia.edu/goodall/Ercan_EMS_2014_Preprint.pdf"> Manuscript of Article (2014)</a>
+  
+  
+- title: A hierarchical network-based algorithm for multi-scale watershed delineation
+  image: Pub_hBN.png
+  description:
+    Computers and Geosciences
+  authors:
+    Castronova, A.M. and J.L. Goodall
+  link:
+    url: http://faculty.virginia.edu/goodall/Castronova_CompGeo_2014_Preprint.pdf
+    display: Manuscript of Article (2014)
+  highlight: 0
+  
+  
+- title: An ontology for component-based models of water resource systems
+  image: Pub_hBN.png
+  description:
+    Water Resources research 
+  authors:
+    Elag, M. and Goodall, J. L.
+  link:
+    url: http://dx.doi.org/10.1002/wrcr.20401
+    display: Water Resources Research, 49(8), 5077-5091, 2013. doi:10.1002/wrcr.20401
+  highlight: 0
+  news2: See also <a href="http://faculty.virginia.edu/goodall/Elag_WRR_2013_Preprint.pdf"> Manuscript of Article (2013)</a>
 
+
+- title: Coupling climate and hydrological models: Interoperability through Web services
+  image: Pub_hBN.png
+  description:
+    Environmental Modelling and Software
+  authors:
+    Goodall, J. L., K. D. Saint, M. B. Ercan, L. J. Baily, S. Murphy, C. DeLuca, R. B. Rood
+  link:
+    url: http://dx.doi.org/10.1016/j.envsoft.2013.03.019
+    display: Environmental Modelling & Software, 46, 250-259, 2013. doi:10.1016/j.envsoft .2013.03.019
+  highlight: 0
+  news2: See also <a href="http://faculty.virginia.edu/goodall/Goodall_EMS_2013_Preprint.pdf"> Manuscript of Article (2013)</a>
+
+
+- title: Models as Web services using the Open Geospatial Consortium (OGC) Web Processing Service (WPS) standard
+  image: Pub_hBN.png
+  description:
+    Environmental Modelling and Software
+  authors:
+    Castronova, A.M., J.L. Goodall, and M. M. Elag 
+  link:
+    url: http://dx.doi.org/10.1016/j.envsoft.2012.11.010
+    display: Environmental Modelling & Software, 41, 72-83, doi:10.1016/j.envsoft .2012.11.010
+  highlight: 0
+  news2: See also <a href="http://faculty.virginia.edu/goodall/Castronova_EMS_2013_Preprint.pdf"> Manuscript of Article (2013)</a>
+  
+  
+- title: Estimating watershed-scale precipitation by combining gauge and radar derived observations, 
+  image: Pub_hBN.png
+  description:
+    Journal of Hydrologic engineering 
+  authors:
+    Eran, M. B. and J. L. Goodall
+  link:
+    url: http://dx.doi.org/10.1061/(ASCE)HE.1943-5584.0000687
+    display: Journal of Hydrologic Engineering (ASCE), 18(8), 983-994, doi:10.1061/( ASCE)HE.1943-5584.0000687
+  highlight: 0
+  news2: See also <a href="http://faculty.virginia.edu/goodall/Ercan_JoHE_2013_Preprint.pdf"> Manuscript of Article (2013)</a>
+  
+  
+- title: Driving plug-and-play models with data from Web services: A demonstration of interoperability between CSDMS and CUAHSI-HIS
+  image: Pub_hBN.png
+  description:
+    Compruters and Geosciences
+  authors:
+    Peckham, S. D. and J. L. Goodall  
+  link:
+    url: http://dx.doi.org/10.1016/j.cageo.2012.04.019
+    display: Computers & Geosciences, 53, 154-161, doi:10.1016/j.cageo. 2012.04.019
+  highlight: 0
+  news2: See also <a href="https://www.researchgate.net/profile/Scott_Peckham2/publication/256821579_Driving_plug-and-play_models_with_data_from_web_services_A_demonstration_of_interoperability_between_CSDMS_and_CUAHSI-HIS/links/02e7e523cb6cd20aeb000000.pdf"> Manuscript of Article (2013)</a>
+  
+  
+- title: Integrated environmental modeling: A vision and roadmap for the future,
+  image: Pub_hBN.png
+  description:
+    Environmental Modelling and Software
+  authors:
+    Laniak, G. F., G. Olchin, J. L. Goodall, A. Voinov, M. Hill, P. Glynn, G. Geller, N. Quinn, M. Blind, S. Peckham, S. Reaney, N. Gaber, R. Kennedy, and A. Hughes 
+  link:
+    url: http://dx.doi.org/10.1016/j.envsoft.2012.09.006
+    display: Environmental Modelling & Software, 39, 3-23, doi:10.1016/j.envsoft .2012.09.006
+  highlight: 0
+  news2: See also <a href="http://faculty.virginia.edu/goodall/Laniak_EMS_2013_FinalPaper.pdf"> Manuscript of Article (2013)</a>
+  
+  
+- title: Calibration of SWAT models using the cloud
+  image: Pub_hBN.png
+  description:
+    Environmental Modelling and Software
+  authors:
+    Ercan, M.B., J.L. Goodall, A.M. Castronova, M. Humphrey, and N. Beekwilder 
+  link:
+    url: http://dx.doi.org/10.1016/j.envsoft.2014.09.002
+    display: Environmental Modelling & Software, 62, 188-196. doi:10.1016/j.envsoft .2014.09.002
+  highlight: 0
+  news2: See also <a href="http://faculty.virginia.edu/goodall/Ercan_EMS_2014_Preprint.pdf"> Manuscript of Article (2014)</a>
+  
+  
+- title: Calibration of SWAT models using the cloud
+  image: Pub_hBN.png
+  description:
+    Environmental Modelling and Software
+  authors:
+    Ercan, M.B., J.L. Goodall, A.M. Castronova, M. Humphrey, and N. Beekwilder 
+  link:
+    url: http://dx.doi.org/10.1016/j.envsoft.2014.09.002
+    display: Environmental Modelling & Software, 62, 188-196. doi:10.1016/j.envsoft .2014.09.002
+  highlight: 0
+  news2: See also <a href="http://faculty.virginia.edu/goodall/Ercan_EMS_2014_Preprint.pdf"> Manuscript of Article (2014)</a>
+  
+  
+- title: Calibration of SWAT models using the cloud
+  image: Pub_hBN.png
+  description:
+    Environmental Modelling and Software
+  authors:
+    Ercan, M.B., J.L. Goodall, A.M. Castronova, M. Humphrey, and N. Beekwilder 
+  link:
+    url: http://dx.doi.org/10.1016/j.envsoft.2014.09.002
+    display: Environmental Modelling & Software, 62, 188-196. doi:10.1016/j.envsoft .2014.09.002
+  highlight: 0
+  news2: See also <a href="http://faculty.virginia.edu/goodall/Ercan_EMS_2014_Preprint.pdf"> Manuscript of Article (2014)</a>
+  
+  
+- title: Calibration of SWAT models using the cloud
+  image: Pub_hBN.png
+  description:
+    Environmental Modelling and Software
+  authors:
+    Ercan, M.B., J.L. Goodall, A.M. Castronova, M. Humphrey, and N. Beekwilder 
+  link:
+    url: http://dx.doi.org/10.1016/j.envsoft.2014.09.002
+    display: Environmental Modelling & Software, 62, 188-196. doi:10.1016/j.envsoft .2014.09.002
+  highlight: 0
+  news2: See also <a href="http://faculty.virginia.edu/goodall/Ercan_EMS_2014_Preprint.pdf"> Manuscript of Article (2014)</a>
+  
+  
+- title: Calibration of SWAT models using the cloud
+  image: Pub_hBN.png
+  description:
+    Environmental Modelling and Software
+  authors:
+    Ercan, M.B., J.L. Goodall, A.M. Castronova, M. Humphrey, and N. Beekwilder 
+  link:
+    url: http://dx.doi.org/10.1016/j.envsoft.2014.09.002
+    display: Environmental Modelling & Software, 62, 188-196. doi:10.1016/j.envsoft .2014.09.002
+  highlight: 0
+  news2: See also <a href="http://faculty.virginia.edu/goodall/Ercan_EMS_2014_Preprint.pdf"> Manuscript of Article (2014)</a>
+  
+  
+- title: Calibration of SWAT models using the cloud
+  image: Pub_hBN.png
+  description:
+    Environmental Modelling and Software
+  authors:
+    Ercan, M.B., J.L. Goodall, A.M. Castronova, M. Humphrey, and N. Beekwilder 
+  link:
+    url: http://dx.doi.org/10.1016/j.envsoft.2014.09.002
+    display: Environmental Modelling & Software, 62, 188-196. doi:10.1016/j.envsoft .2014.09.002
+  highlight: 0
+  news2: See also <a href="http://faculty.virginia.edu/goodall/Ercan_EMS_2014_Preprint.pdf"> Manuscript of Article (2014)</a>
+  
+  
+- title: Calibration of SWAT models using the cloud
+  image: Pub_hBN.png
+  description:
+    Environmental Modelling and Software
+  authors:
+    Ercan, M.B., J.L. Goodall, A.M. Castronova, M. Humphrey, and N. Beekwilder 
+  link:
+    url: http://dx.doi.org/10.1016/j.envsoft.2014.09.002
+    display: Environmental Modelling & Software, 62, 188-196. doi:10.1016/j.envsoft .2014.09.002
+  highlight: 0
+  news2: See also <a href="http://faculty.virginia.edu/goodall/Ercan_EMS_2014_Preprint.pdf"> Manuscript of Article (2014)</a>
+  
+  
+- title: Calibration of SWAT models using the cloud
+  image: Pub_hBN.png
+  description:
+    Environmental Modelling and Software
+  authors:
+    Ercan, M.B., J.L. Goodall, A.M. Castronova, M. Humphrey, and N. Beekwilder 
+  link:
+    url: http://dx.doi.org/10.1016/j.envsoft.2014.09.002
+    display: Environmental Modelling & Software, 62, 188-196. doi:10.1016/j.envsoft .2014.09.002
+  highlight: 0
+  news2: See also <a href="http://faculty.virginia.edu/goodall/Ercan_EMS_2014_Preprint.pdf"> Manuscript of Article (2014)</a>
+  
+  
+- title: Calibration of SWAT models using the cloud
+  image: Pub_hBN.png
+  description:
+    Environmental Modelling and Software
+  authors:
+    Ercan, M.B., J.L. Goodall, A.M. Castronova, M. Humphrey, and N. Beekwilder 
+  link:
+    url: http://dx.doi.org/10.1016/j.envsoft.2014.09.002
+    display: Environmental Modelling & Software, 62, 188-196. doi:10.1016/j.envsoft .2014.09.002
+  highlight: 0
+  news2: See also <a href="http://faculty.virginia.edu/goodall/Ercan_EMS_2014_Preprint.pdf"> Manuscript of Article (2014)</a>
+  
+  
+- title: Calibration of SWAT models using the cloud
+  image: Pub_hBN.png
+  description:
+    Environmental Modelling and Software
+  authors:
+    Ercan, M.B., J.L. Goodall, A.M. Castronova, M. Humphrey, and N. Beekwilder 
+  link:
+    url: http://dx.doi.org/10.1016/j.envsoft.2014.09.002
+    display: Environmental Modelling & Software, 62, 188-196. doi:10.1016/j.envsoft .2014.09.002
+  highlight: 0
+  news2: See also <a href="http://faculty.virginia.edu/goodall/Ercan_EMS_2014_Preprint.pdf"> Manuscript of Article (2014)</a>
+  
+  
+- title: Calibration of SWAT models using the cloud
+  image: Pub_hBN.png
+  description:
+    Environmental Modelling and Software
+  authors:
+    Ercan, M.B., J.L. Goodall, A.M. Castronova, M. Humphrey, and N. Beekwilder 
+  link:
+    url: http://dx.doi.org/10.1016/j.envsoft.2014.09.002
+    display: Environmental Modelling & Software, 62, 188-196. doi:10.1016/j.envsoft .2014.09.002
+  highlight: 0
+  news2: See also <a href="http://faculty.virginia.edu/goodall/Ercan_EMS_2014_Preprint.pdf"> Manuscript of Article (2014)</a>
+  
+  
+- title: Calibration of SWAT models using the cloud
+  image: Pub_hBN.png
+  description:
+    Environmental Modelling and Software
+  authors:
+    Ercan, M.B., J.L. Goodall, A.M. Castronova, M. Humphrey, and N. Beekwilder 
+  link:
+    url: http://dx.doi.org/10.1016/j.envsoft.2014.09.002
+    display: Environmental Modelling & Software, 62, 188-196. doi:10.1016/j.envsoft .2014.09.002
+  highlight: 0
+  news2: See also <a href="http://faculty.virginia.edu/goodall/Ercan_EMS_2014_Preprint.pdf"> Manuscript of Article (2014)</a>
+  
+  
+- title: Calibration of SWAT models using the cloud
+  image: Pub_hBN.png
+  description:
+    Environmental Modelling and Software
+  authors:
+    Ercan, M.B., J.L. Goodall, A.M. Castronova, M. Humphrey, and N. Beekwilder 
+  link:
+    url: http://dx.doi.org/10.1016/j.envsoft.2014.09.002
+    display: Environmental Modelling & Software, 62, 188-196. doi:10.1016/j.envsoft .2014.09.002
+  highlight: 0
+  news2: See also <a href="http://faculty.virginia.edu/goodall/Ercan_EMS_2014_Preprint.pdf"> Manuscript of Article (2014)</a>
+  
+  
+- title: Calibration of SWAT models using the cloud
+  image: Pub_hBN.png
+  description:
+    Environmental Modelling and Software
+  authors:
+    Ercan, M.B., J.L. Goodall, A.M. Castronova, M. Humphrey, and N. Beekwilder 
+  link:
+    url: http://dx.doi.org/10.1016/j.envsoft.2014.09.002
+    display: Environmental Modelling & Software, 62, 188-196. doi:10.1016/j.envsoft .2014.09.002
+  highlight: 0
+  news2: See also <a href="http://faculty.virginia.edu/goodall/Ercan_EMS_2014_Preprint.pdf"> Manuscript of Article (2014)</a>
+    
 - title: 
   image: dummy.png
   description: ""
