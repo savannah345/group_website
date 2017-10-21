@@ -299,186 +299,184 @@
   news2: See also <a href="http://faculty.virginia.edu/goodall/Laniak_EMS_2013_FinalPaper.pdf"> Manuscript of Article (2013)</a>
   
   
-- title: Calibration of SWAT models using the cloud
+- title: Integrated modeling within a Hydrologic Information System - An OpenMI based approach
   image: Pub_hBN.png
   description:
     Environmental Modelling and Software
   authors:
-    Ercan, M.B., J.L. Goodall, A.M. Castronova, M. Humphrey, and N. Beekwilder 
+    Castronova, A. M., J. L. Goodall, and M. Ercan
   link:
-    url: http://dx.doi.org/10.1016/j.envsoft.2014.09.002
-    display: Environmental Modelling & Software, 62, 188-196. doi:10.1016/j.envsoft .2014.09.002
+    url: http://dx.doi.org/10.1016/j.envsoft.2012.02.011
+    display: Environmental Modelling & Software, doi:10.1016/j.envsoft .2012.02.011, 39, 263-273
   highlight: 0
-  news2: See also <a href="http://faculty.virginia.edu/goodall/Ercan_EMS_2014_Preprint.pdf"> Manuscript of Article (2014)</a>
+  news2: See also <a href="http://faculty.virginia.edu/goodall/Castronova_EMS_2013a_Preprint.pdf"> Manuscript of Article (2013)</a>
   
   
-- title: Calibration of SWAT models using the cloud
+- title: Simulating watersheds using loosely integrated model components - Evaluation of computational scaling using OpenMI
   image: Pub_hBN.png
   description:
     Environmental Modelling and Software
   authors:
-    Ercan, M.B., J.L. Goodall, A.M. Castronova, M. Humphrey, and N. Beekwilder 
+    Castronova, A. M. and J. L. Goodall 
   link:
-    url: http://dx.doi.org/10.1016/j.envsoft.2014.09.002
-    display: Environmental Modelling & Software, 62, 188-196. doi:10.1016/j.envsoft .2014.09.002
+    url: http://dx.doi.org/10.1016/j.envsoft.2012.01.020
+    display: Environmental Modelling & Software, 39, 304-313. doi:10.1016/j.envsoft .2012.01.020
   highlight: 0
-  news2: See also <a href="http://faculty.virginia.edu/goodall/Ercan_EMS_2014_Preprint.pdf"> Manuscript of Article (2014)</a>
+  news2: See also <a href="http://faculty.virginia.edu/goodall/Castronova_EMS_2013b_Preprint.pdf"> Manuscript of Article (2013)</a>
   
   
-- title: Calibration of SWAT models using the cloud
+- title: Toward disentangling the effect of hydrologic and nitrogen source changes from 1992 to 2001 on incremental nitrogen yield in the contiguous United States
+  image: Pub_hBN.png
+  description: Water Resources Research
+  authors:
+    Alam, M. J. and J. L. Goodall 
+  link:
+    url: http://dx.doi.org/10.1029/2011WR010967
+    display: Water Resources Research, 48, W04507, doi:10.1029/2011WR010967
+  highlight: 0
+  news2: See also <a href="http://faculty.virginia.edu/goodall/Alam_WRR_2012_Preprint.pdf"> Manuscript of Article (2012)</a>
+  
+  
+- title: Feedback loops and temporal misalignment in component-based hydrologic modeling
   image: Pub_hBN.png
   description:
-    Environmental Modelling and Software
+    Water Resources Research
   authors:
-    Ercan, M.B., J.L. Goodall, A.M. Castronova, M. Humphrey, and N. Beekwilder 
+    Elag, M. M., J. L. Goodall, and A. M. Castronova
   link:
-    url: http://dx.doi.org/10.1016/j.envsoft.2014.09.002
-    display: Environmental Modelling & Software, 62, 188-196. doi:10.1016/j.envsoft .2014.09.002
+    url: http://dx.doi.org/10.1029/2011WR010792
+    display: Water Resources Research, 47, W12520, doi:10.1029/2011WR010792
   highlight: 0
-  news2: See also <a href="http://faculty.virginia.edu/goodall/Ercan_EMS_2014_Preprint.pdf"> Manuscript of Article (2014)</a>
+  news2: See also <a href="http://faculty.virginia.edu/goodall/Elag_WRR_2011_Preprint.pdf"> Manuscript of Article (2011)</a>
   
   
-- title: Calibration of SWAT models using the cloud
+- title: Annual and interannual variations in terrestrial water storage during and following a period of drought in South Carolina, USA
   image: Pub_hBN.png
   description:
-    Environmental Modelling and Software
+    Journal of Hydrology
   authors:
-    Ercan, M.B., J.L. Goodall, A.M. Castronova, M. Humphrey, and N. Beekwilder 
+    Billah, M. M. and J. L. Goodall
   link:
-    url: http://dx.doi.org/10.1016/j.envsoft.2014.09.002
-    display: Environmental Modelling & Software, 62, 188-196. doi:10.1016/j.envsoft .2014.09.002
+    url: http://dx.doi.org/10.1016/j.jhydrol.2011.08.045
+    display: Journal of Hydrology, 409(1-2), 472-482, doi:10.1016/j.jhydrol.2011.08.045
   highlight: 0
-  news2: See also <a href="http://faculty.virginia.edu/goodall/Ercan_EMS_2014_Preprint.pdf"> Manuscript of Article (2014)</a>
+  news2: See also <a href="http://faculty.virginia.edu/goodall/Billah_JoH_2011_Preprint.pdf"> Manuscript of Article (2011)</a>
   
   
-- title: Calibration of SWAT models using the cloud
+- title: Modeling water resource systems using a service oriented computing paradigm
   image: Pub_hBN.png
   description:
-    Environmental Modelling and Software
+    Environ
   authors:
-    Ercan, M.B., J.L. Goodall, A.M. Castronova, M. Humphrey, and N. Beekwilder 
+    Goodall, J. L., B. F. Robinson, and A. M. Castronova
   link:
-    url: http://dx.doi.org/10.1016/j.envsoft.2014.09.002
-    display: Environmental Modelling & Software, 62, 188-196. doi:10.1016/j.envsoft .2014.09.002
+    url: http://dx.doi.org/10.1016/j.envsoft.2010.11.013
+    display: Environ. Modell. Softw., 26(5), 573-582, doi:10.1016/j.envsoft.2010.11.013
   highlight: 0
-  news2: See also <a href="http://faculty.virginia.edu/goodall/Ercan_EMS_2014_Preprint.pdf"> Manuscript of Article (2014)</a>
+  news2: See also <a href="http://faculty.virginia.edu/goodall/Goodall_EMS_2011_Preprint.pdf"> Manuscript of Article (2011)</a>
   
   
-- title: Calibration of SWAT models using the cloud
+- title: A software library for quantifying regional-scale nitrogen transport within river basin systems
   image: Pub_hBN.png
   description:
-    Environmental Modelling and Software
+    Environ
   authors:
-    Ercan, M.B., J.L. Goodall, A.M. Castronova, M. Humphrey, and N. Beekwilder 
+    Goodall, J. L., J. P. Fay, and D. L. Bollinger, Jr. 
   link:
-    url: http://dx.doi.org/10.1016/j.envsoft.2014.09.002
-    display: Environmental Modelling & Software, 62, 188-196. doi:10.1016/j.envsoft .2014.09.002
+    url: http://dx.doi.org/10.1016/j.envsoft.2010.04.007
+    display: Environ. Modell. Softw., 25(12), 1713-1721, doi:10.1016/j.envsoft.2010.04.007
   highlight: 0
-  news2: See also <a href="http://faculty.virginia.edu/goodall/Ercan_EMS_2014_Preprint.pdf"> Manuscript of Article (2014)</a>
+  news2: See also <a href="http://faculty.virginia.edu/goodall/Goodall_EMS_2010_Preprint.pdf"> Manuscript of Article (2010)</a>
   
   
-- title: Calibration of SWAT models using the cloud
+- title: A generic approach for developing process-level hydrologic modeling components
+  image: Pub_hBN.png
+  description: Environ
+  authors:
+    Castronova, A. M. and J. L. Goodall 
+  link:
+    url: http://dx.doi.org/10.1016/j.envsoft.2010.04.007
+    display: Environ. Modell. Softw., 25(7), 819-825, doi:10.1016/j.envsoft.2010.01.003
+  highlight: 0
+  news2: See also <a href="http://faculty.virginia.edu/goodall/Castronova_EMS_2010_Preprint.pdf"> Manuscript of Article (2010)</a>
+  
+  
+- title: Comparison of flood top width predictions using surveyed and LiDAR-derived channel geometries
   image: Pub_hBN.png
   description:
-    Environmental Modelling and Software
+    J. Hydrol. Eng.
   authors:
-    Ercan, M.B., J.L. Goodall, A.M. Castronova, M. Humphrey, and N. Beekwilder 
+    Shatnawi, F. M. and J. L. Goodall 
   link:
-    url: http://dx.doi.org/10.1016/j.envsoft.2014.09.002
-    display: Environmental Modelling & Software, 62, 188-196. doi:10.1016/j.envsoft .2014.09.002
+    url: http://dx.doi.org/10.1061/(ASCE)HE.1943-5584.0000161
+    display: J. Hydrol. Eng., 15(2), 97-106, doi:10.1061/(ASCE)HE.1943-5584.0000161
   highlight: 0
-  news2: See also <a href="http://faculty.virginia.edu/goodall/Ercan_EMS_2014_Preprint.pdf"> Manuscript of Article (2014)</a>
+  news2: See also <a href="http://faculty.virginia.edu/goodall/Shatnawi_JoHE_2010_Preprint.pdf"> Manuscript of Article (2010)</a>
   
   
-- title: Calibration of SWAT models using the cloud
+- title: A spatiotemporal data model for river basin-scale hydrologic systems
   image: Pub_hBN.png
   description:
-    Environmental Modelling and Software
+    Int. J. Geogr. Inf. Sci.
   authors:
-    Ercan, M.B., J.L. Goodall, A.M. Castronova, M. Humphrey, and N. Beekwilder 
+    Goodall, J. L. and D. R. Maidment
   link:
-    url: http://dx.doi.org/10.1016/j.envsoft.2014.09.002
-    display: Environmental Modelling & Software, 62, 188-196. doi:10.1016/j.envsoft .2014.09.002
+    url: http://dx.doi.org/10.1080/13658810802032193
+    display: Int. J. Geogr. Inf. Sci., 23(2), 233-247, doi:10.1080/13658810802032193
   highlight: 0
-  news2: See also <a href="http://faculty.virginia.edu/goodall/Ercan_EMS_2014_Preprint.pdf"> Manuscript of Article (2014)</a>
+  news2: See also <a href="http://faculty.virginia.edu/goodall/Goodall_IJGIS_2009_FinalPaper.pdf"> Manuscript of Article (2009)</a>
   
   
-- title: Calibration of SWAT models using the cloud
+- title: Applications of network analysis for adaptive management of artificial drainage systems in landscapes vulnerable to sea level rise
   image: Pub_hBN.png
   description:
-    Environmental Modelling and Software
+    J. Hydrol.
   authors:
-    Ercan, M.B., J.L. Goodall, A.M. Castronova, M. Humphrey, and N. Beekwilder 
+    Poulter, B., J. L. Goodall, and P. H. Halpin 
   link:
-    url: http://dx.doi.org/10.1016/j.envsoft.2014.09.002
-    display: Environmental Modelling & Software, 62, 188-196. doi:10.1016/j.envsoft .2014.09.002
+    url: http://dx.doi.org/10.1016/j.jhydrol.2008.05.022
+    display: J. Hydrol., 357(3-4), 207-217, doi:10.1016/j.jhydrol.2008.05.022
   highlight: 0
-  news2: See also <a href="http://faculty.virginia.edu/goodall/Ercan_EMS_2014_Preprint.pdf"> Manuscript of Article (2014)</a>
+  news2: See also <a href="https://www.researchgate.net/profile/Benjamin_Poulter/publication/222245025_Application_of_Network_Analysis_for_Adaptive_Management_of_Artificial_Drainage_Systems_in_Landscape_Vulnerable_to_Sea_Level_Rise/links/09e415118b57adcfe6000000.pdf"> Manuscript of Article (2008)</a>
   
   
-- title: Calibration of SWAT models using the cloud
+- title: A first approach to web services for the National Water Information System
   image: Pub_hBN.png
   description:
-    Environmental Modelling and Software
+    Environ
   authors:
-    Ercan, M.B., J.L. Goodall, A.M. Castronova, M. Humphrey, and N. Beekwilder 
+    Goodall, J. L., J. S. Horsburgh, T. L. Whiteaker, D. R. Maidment, and I. Zaslavsky
   link:
     url: http://dx.doi.org/10.1016/j.envsoft.2014.09.002
     display: Environmental Modelling & Software, 62, 188-196. doi:10.1016/j.envsoft .2014.09.002
   highlight: 0
-  news2: See also <a href="http://faculty.virginia.edu/goodall/Ercan_EMS_2014_Preprint.pdf"> Manuscript of Article (2014)</a>
+  news2: See also <a href="http://dx.doi.org/10.1016/j.envsoft.2007.01.005"> Manuscript of Article (2008)</a>
   
   
-- title: Calibration of SWAT models using the cloud
+- title: Integrating Arc Hydro features with a schematic network
   image: Pub_hBN.png
   description:
-    Environmental Modelling and Software
+    Trans. GIS
   authors:
-    Ercan, M.B., J.L. Goodall, A.M. Castronova, M. Humphrey, and N. Beekwilder 
+   Whiteaker, T. L., D. R. Maidment, J. L. Goodall, and M. Takamatsu 
   link:
-    url: http://dx.doi.org/10.1016/j.envsoft.2014.09.002
-    display: Environmental Modelling & Software, 62, 188-196. doi:10.1016/j.envsoft .2014.09.002
+    url: http://dx.doi.org/10.1111/j.1467-9671.2006.00254.x
+    display: Trans. GIS, 10(2), 219-237, doi:10.1111/j.1467-9671.2006.00254
   highlight: 0
-  news2: See also <a href="http://faculty.virginia.edu/goodall/Ercan_EMS_2014_Preprint.pdf"> Manuscript of Article (2014)</a>
+  news2: See also <a href="http://faculty.virginia.edu/goodall/Whiteaker_TGIS_2006_Preprint.pdf"> Manuscript of Article (2006)</a>
   
   
-- title: Calibration of SWAT models using the cloud
+- title: Multi-decadal synthesis of benthic pelagic coupling in the western arctic - Role of cross-shelf advective processes
   image: Pub_hBN.png
   description:
-    Environmental Modelling and Software
+    Deep-Sea Res. Pt. II
   authors:
-    Ercan, M.B., J.L. Goodall, A.M. Castronova, M. Humphrey, and N. Beekwilder 
+    Dunton, K. H., J. L. Goodall, S. V. Schonberg, J. M. Grebmeier, and D. R. Maidment
   link:
-    url: http://dx.doi.org/10.1016/j.envsoft.2014.09.002
-    display: Environmental Modelling & Software, 62, 188-196. doi:10.1016/j.envsoft .2014.09.002
+    url: http://dx.doi.org/10.1016/j.dsr2.2005.09.007
+    display: Deep-Sea Res. Pt. II, 52(24-26), 3462-3477, doi:10.1016/j.dsr2.2005.09.007
   highlight: 0
-  news2: See also <a href="http://faculty.virginia.edu/goodall/Ercan_EMS_2014_Preprint.pdf"> Manuscript of Article (2014)</a>
-  
-  
-- title: Calibration of SWAT models using the cloud
-  image: Pub_hBN.png
-  description:
-    Environmental Modelling and Software
-  authors:
-    Ercan, M.B., J.L. Goodall, A.M. Castronova, M. Humphrey, and N. Beekwilder 
-  link:
-    url: http://dx.doi.org/10.1016/j.envsoft.2014.09.002
-    display: Environmental Modelling & Software, 62, 188-196. doi:10.1016/j.envsoft .2014.09.002
-  highlight: 0
-  news2: See also <a href="http://faculty.virginia.edu/goodall/Ercan_EMS_2014_Preprint.pdf"> Manuscript of Article (2014)</a>
-  
-  
-- title: Calibration of SWAT models using the cloud
-  image: Pub_hBN.png
-  description:
-    Environmental Modelling and Software
-  authors:
-    Ercan, M.B., J.L. Goodall, A.M. Castronova, M. Humphrey, and N. Beekwilder 
-  link:
-    url: http://dx.doi.org/10.1016/j.envsoft.2014.09.002
-    display: Environmental Modelling & Software, 62, 188-196. doi:10.1016/j.envsoft .2014.09.002
-  highlight: 0
-  news2: See also <a href="http://faculty.virginia.edu/goodall/Ercan_EMS_2014_Preprint.pdf"> Manuscript of Article (2014)</a>
+  news2: See also <a href="https://www.researchgate.net/profile/Kenneth_Dunton/publication/253665040_Multi-decadal_synthesis_of_benthic-pelagic_coupling_in_the_western_arctic_Role_of_cross-shelf_advective_processes/links/004635278d0ae4f995000000.pdf"> Manuscript of Article (2005)</a>
     
 - title: 
   image: dummy.png
