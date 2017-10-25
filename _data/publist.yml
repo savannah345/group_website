@@ -14,7 +14,7 @@
   #news1: <a style="color:#FF0000; text-decoration:underline" href="http://science.sciencemag.org/content/345/6203/twil">News item in Science</a> 
 
 - title: A Method for Rapidly Assessing the Overtopping Risk of Bridges due to Flooding over a Large Geographic Region.
-  image: dummy.png
+  image: Bridge_Flooding.PNG
   description: 
     Journal of the American Water Resources Association. Accepted and in Press.
   authors: Shen, Y., J.L. Goodall, S.B. Chase 
@@ -25,7 +25,7 @@
 
 
 - title: Impact of Sea Level Rise on Roadway Flooding in the Hampton Roads Region of Virginia
-  image: SCAUweb.jpg
+  image: sea_level_rise_HR.PNG
   description: 
     Journal of Infrastructure Systems. Accepted and in Press.
   authors:
@@ -37,7 +37,7 @@
  
  
 - title: Effect of Rain Gauge Proximity on Rainfall Estimation for Problematic Urban Coastal Watersheds in Virginia Beach, VA USA.
-  image: TIBB.png
+  image: rain_aguge_VB.PNG
   description:
     Journal of Hydrologic Engineering
   authors:
@@ -50,7 +50,7 @@
 
 
 - title: The Impact of Projected Climate Change Scenarios on Nitrogen Yield at a Regional-Scale for the Contiguous United States
-  image: Mott_phase_sep.jpg
+  image: climate_change_nitrogen.png
   description:
     Journal of the American Water Resources Association 
   authors:
@@ -63,7 +63,7 @@
 
 
 - title: Design of a metadata framework for environmental models with an example hydrologic application in HydroShare
-  image: Pub_FP.png
+  image: metadata_framework.jpg
   description:
     Environmental Modelling and Software
   authors:
@@ -76,30 +76,30 @@
   
   
 - title: Evaluation of the OntoSoft Ontology for describing metadata for legacy hydrologic modeling software
-  image: dummy.png
+  image: ontosoft_modeling.jpg
   description: Environmental Modeling and Software
   authors:
     Essawy, B.T., J.L. Goodall, H. Xu, and Y. Gil
   link:
     url: http://dx.doi.org/10.1016/j.envsoft.2017.01.024
     display: Environmental Modelling & Software, 92, pp.317-329. doi:10.1016/j.envsoft .2017.01.024
-  highlight: 0
+  highlight: 1
   news2: See also <a href="http://faculty.virginia.edu/goodall/Essawy_EMS_2016_Preprint.pdf"> Manuscript of Article (2017) </a>
 
 
 - title: Comparing Costs of Onsite Best Management Practices to Nutrient Credits for Stormwater Management - A Case Study in Virginia
-  image: Pub_CeCoIn5.png
+  image: dummy.png
   description: JAWRA Journal of the American Water Resources Association
   authors: Nobles, A.L., J.L. Goodall, and G.M. Fitch
   link:
     url: http://dx.doi.org/10.1111/1752-1688.12487
     display: JAWRA Journal of the American Water Resources Association. 53(1), pp. 131-143. doi:10.1111/1752-1688.12487 
-  highlight: 1
+  highlight: 0
   news2: See also <a href="http://faculty.virginia.edu/goodall/Nobles_JAWRA_2016_Preprint.pdf"> Manuscript of Article (2017)</a>
   
 
 - title: Toward the Geoscience Paper of the Future - Best practices for documenting and sharing research from data to software to provenance
-  image: Pub_327.png
+  image: dummy.png
   description:
     Earth and Space science
   authors:
@@ -107,16 +107,16 @@
   link:
     url: http://dx.doi.org/10.1002/2015EA000136
     display: Earth and Space Science, 3, 388—415, doi:10.1002/2015EA000136 
-  highlight: 1
+  highlight: 0
   news2: See also <a href="http://faculty.virginia.edu/goodall/Gil_ESS_2016_FinalPaper.pdf"> Manuscript of Article (2016)</a>
 
 - title: Distributed Stormwater Controls for Flood Mitigation within Urbanized Watersheds - Case Study of Rocky Branch Watershed in Columbia, South Carolina
-  image: Pub_nemat2b.png
+  image: dummy.png
   description:
     Journal of Hydrologic Engineering
   authors:
     Morsy, M. M., J. L. Goodall, F. Shatnawi, and M. E. Meadows
-  highlight: 1    
+  highlight: 0    
   link:
     url: http://dx.doi.org/10.1061/(ASCE)HE.1943-5584.0001430
     display: Journal of Hydrologic Engineering, 05016025. doi:10.1061/( ASCE)HE.1943-5584.0001430
@@ -124,7 +124,7 @@
   
 
 - title: Server-side workflow execution using data grid technology for reproducible analyses of data-intensive hydrologic systems
-  image: Pub_LiFeAs.png
+  image: dummy.png
   description:
     Earth and Space Science
   authors:
@@ -132,7 +132,7 @@
   link:
     url: http://dx.doi.org/10.1002/2015EA000139
     display: Earth and Space Science, 3, 163-175, doi:10.1002/2015EA000139
-  highlight: 1
+  highlight: 0
   news2: See also <a href="http://faculty.virginia.edu/goodall/Essawy_ESS_2016_FinalPaper.pdf"> Manuscript of Article (2016)
   
   
@@ -147,7 +147,7 @@
   news2: See also <a href="http://faculty.virginia.edu/goodall/Ercan_EMS_2016_Preprint.pdf"> Manuscript of Article (2016)</a>
 
 - title: Hydroshare - Sharing Diverse Environmental Data Types and Models as Social Objects with Application to the Hydrology Domain
-  image: Pub_nemat1.png
+  image: dummy.png
   description:
     Journal of the American Water Resources Association
   authors:
@@ -155,11 +155,12 @@
   link:
     url: http://dx.doi.org/10.1111/1752-1688.12363
     display: Journal of the American Water Resources Association, 52(4), 873-889. doi:10.1111/1752-1688.12363 
-  highlight: 1
+  highlight: 0
   news2: See also <a href="http://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=2183&context=cee_facpub"> Manuscript of Article (2016)</a>
 
 
 - title: Using a data grid to automate data preparation pipelines required for regional-scale hydrologic modeling
+  image: dummy.png
   description:
     Environmental Modelling and Software
   authors: Billah, M. M., J. L. Goodall, U. Narayan, B. T. Essawy, V. Lakshmi, A. Rajasekar, R. Moore
@@ -168,10 +169,34 @@
     display: Environmental Modelling & Software, 78, 31-39. doi:10.1016/j.envsoft .2015.12.010
   highlight: 0
   news2: See also <a href="http://faculty.virginia.edu/goodall/Billah_EMS_2016_Preprint.pdf"> Manuscrip of Article (2016)</a>
-  
+
+
+- title:  Documenting Models for Interoperability and Reusability 
+  image: Pub_hBN.png
+  description:
+    Confrence Proceedings Papers. International Environmental Modelling and Software Society (iEMSs) 8th Intl. Congress on Env. Modelling and Software, Toulouse, France 
+  authors:
+    Parmar, R., K. Wolfe, G. Whelan, G. F. Laniak, M Galvin, and J. L. Goodall 
+  link:
+    url: http://scholarsarchive.byu.edu/iemssconference/2016/Stream-A/2
+    display: Session Papers (2016)
+  highlight: 0
+
+
+- title: HydroShare - Promoting Collaborative Publication, Interoperability, and Reuse of Hydrologic Data and Research Products
+  image: dummy.png
+  description:
+   Confrence Proceedings Papers. International Environmental Modelling and Software Society (iEMSs) 8th Intl. Congress on Env. Modelling and Software, Toulouse, France 
+  authors:
+    Horsburgh, J. S., D. G. Tarboton, R. Idaszak, D. P. Ames, J. L. Goodall, V. Merwade, A. Couch, R. P. Hooper, P. Dash, M. J. Stealey, and H. Yi
+  link:
+    url: http://scholarsarchive.byu.edu/iemssconference/2016/Stream-A/25
+    display: Session Papers (2016)
+  highlight: 0
+
 
 - title: Simulation of integrated urban infrastructure systems - A service-oriented approach
-  image: Pub_hBN.png
+  image: dummy.png
   description:
     Journal of Computing in Civil Engineering
   authors:
@@ -184,7 +209,7 @@
 
 
 - title: A methodology for evaluating evapotranspiration estimates at the watershed-scale using GRACE
-  image: Pub_hBN.png
+  image: dummy.png
   description:
    Journal of Hydrology
   authors:
@@ -197,7 +222,7 @@
   
   
 - title: Calibration of SWAT models using the cloud
-  image: Pub_hBN.png
+  image: dummy.png
   description:
     Environmental Modelling and Software
   authors:
@@ -210,7 +235,7 @@
   
   
 - title: A hierarchical network-based algorithm for multi-scale watershed delineation
-  image: Pub_hBN.png
+  image: dummy.png
   description:
     Computers and Geosciences
   authors:
@@ -219,10 +244,33 @@
     url: http://faculty.virginia.edu/goodall/Castronova_CompGeo_2014_Preprint.pdf
     display: Manuscript of Article (2014)
   highlight: 0
-  
+
+
+- title: A Python Tool for Multi-Gage Calibration of SWAT Models using the NSGA-II Algorithm
+  image: dummy.png
+  description:
+   Confrence Proceedings Papers. International Environmental Modelling and Software Society (iEMSs) 7th Intl. Congress on Env. Modelling and Software, San Diego, CA, USA, Daniel P. Ames, Nigel W.T. Quinn and Andrea E. Rizzoli (Eds.) 
+  authors:
+    Ercan, M.B. and J.L. Goodall
+  link:
+    url: http://www.iemss.org/sites/iemss2014/papers/iemss2014_submission_212.pdf
+    display: Session Papers (2014)
+  highlight: 0
+
+
+- title: Metadata for Describing Water Models
+  image: dummy.png
+  description:
+   Confrence Proceedings Papers. International Environmental Modelling and Software Society (iEMSs) 7th Intl. Congress on Env. Modelling and Software, San Diego, CA, USA, Daniel P. Ames, Nigel W.T. Quinn and Andrea E. Rizzoli (Eds.) 
+  authors: Morsy, M.M., J.L. Goodall, C. Bandaragoda, A. Castronova, and J. Greenberg
+  link:
+    url: http://www.iemss.org/sites/iemss2014/papers/iemss2014_submission_259.pdf
+    display: Session Papers (2014)
+  highlight: 0
+
   
 - title: An ontology for component-based models of water resource systems
-  image: Pub_hBN.png
+  image: dummy.png
   description:
     Water Resources research 
   authors:
@@ -235,7 +283,7 @@
 
 
 - title: Coupling climate and hydrological models - Interoperability through Web services
-  image: Pub_hBN.png
+  image: dummy.png
   description:
     Environmental Modelling and Software
   authors:
@@ -248,7 +296,7 @@
 
 
 - title: Models as Web services using the Open Geospatial Consortium (OGC) Web Processing Service (WPS) standard
-  image: Pub_hBN.png
+  image: dummy.png
   description:
     Environmental Modelling and Software
   authors:
@@ -261,7 +309,7 @@
   
   
 - title: Estimating watershed-scale precipitation by combining gauge and radar derived observations 
-  image: Pub_hBN.png
+  image: dummy.png
   description:
     Journal of Hydrologic engineering 
   authors:
@@ -274,7 +322,7 @@
   
   
 - title: Driving plug-and-play models with data from Web services - A demonstration of interoperability between CSDMS and CUAHSI-HIS
-  image: Pub_hBN.png
+  image: dummy.png
   description:
     Compruters and Geosciences
   authors:
@@ -287,7 +335,7 @@
   
   
 - title: Integrated environmental modeling - A vision and roadmap for the future,
-  image: Pub_hBN.png
+  image: dummy.png
   description:
     Environmental Modelling and Software
   authors:
@@ -300,7 +348,7 @@
   
   
 - title: Integrated modeling within a Hydrologic Information System - An OpenMI based approach
-  image: Pub_hBN.png
+  image: dummy.png
   description:
     Environmental Modelling and Software
   authors:
@@ -313,7 +361,7 @@
   
   
 - title: Simulating watersheds using loosely integrated model components - Evaluation of computational scaling using OpenMI
-  image: Pub_hBN.png
+  image: dummy.png
   description:
     Environmental Modelling and Software
   authors:
@@ -326,7 +374,7 @@
   
   
 - title: Toward disentangling the effect of hydrologic and nitrogen source changes from 1992 to 2001 on incremental nitrogen yield in the contiguous United States
-  image: Pub_hBN.png
+  image: dummy.png
   description: Water Resources Research
   authors:
     Alam, M. J. and J. L. Goodall 
@@ -335,10 +383,22 @@
     display: Water Resources Research, 48, W04507, doi:10.1029/2011WR010967
   highlight: 0
   news2: See also <a href="http://faculty.virginia.edu/goodall/Alam_WRR_2012_Preprint.pdf"> Manuscript of Article (2012)</a>
-  
+
+
+- title: Calibration of watershed models using Cloud Computing
+  image: dummy.png
+  description:
+   Confrence Proceedings Papers. 8th IEEE International Conference on eScience 2012, Chicago, IL
+  authors:
+    Humphry, M., N. Beekwilder, J. L. Goodall, and M. B. Ercan
+  link:
+    url: http://dx.doi.org/10.1109/eScience.2012.6404420
+    display: Session Papers (2012)
+  highlight: 0
+
   
 - title: Feedback loops and temporal misalignment in component-based hydrologic modeling
-  image: Pub_hBN.png
+  image: dummy.png
   description:
     Water Resources Research
   authors:
@@ -351,7 +411,7 @@
   
   
 - title: Annual and interannual variations in terrestrial water storage during and following a period of drought in South Carolina, USA
-  image: Pub_hBN.png
+  image: dummy.png
   description:
     Journal of Hydrology
   authors:
@@ -364,7 +424,7 @@
   
   
 - title: Modeling water resource systems using a service oriented computing paradigm
-  image: Pub_hBN.png
+  image: dummy.png
   description:
     Environ
   authors:
@@ -377,7 +437,7 @@
   
   
 - title: A software library for quantifying regional-scale nitrogen transport within river basin systems
-  image: Pub_hBN.png
+  image: dummy.png
   description:
     Environ
   authors:
@@ -390,7 +450,7 @@
   
   
 - title: A generic approach for developing process-level hydrologic modeling components
-  image: Pub_hBN.png
+  image: dummy.png
   description: Environ
   authors:
     Castronova, A. M. and J. L. Goodall 
@@ -402,7 +462,7 @@
   
   
 - title: Comparison of flood top width predictions using surveyed and LiDAR-derived channel geometries
-  image: Pub_hBN.png
+  image: dummy.png
   description:
     J. Hydrol. Eng.
   authors:
@@ -415,7 +475,7 @@
   
   
 - title: A spatiotemporal data model for river basin-scale hydrologic systems
-  image: Pub_hBN.png
+  image: dummy.png
   description:
     Int. J. Geogr. Inf. Sci.
   authors:
@@ -428,7 +488,7 @@
   
   
 - title: Applications of network analysis for adaptive management of artificial drainage systems in landscapes vulnerable to sea level rise
-  image: Pub_hBN.png
+  image: dummy.png
   description:
     J. Hydrol.
   authors:
@@ -441,7 +501,7 @@
   
   
 - title: A first approach to web services for the National Water Information System
-  image: Pub_hBN.png
+  image: dummy.png
   description:
     Environ
   authors:
@@ -454,7 +514,7 @@
   
   
 - title: Integrating Arc Hydro features with a schematic network
-  image: Pub_hBN.png
+  image: dummy.png
   description:
     Trans. GIS
   authors:
@@ -467,7 +527,7 @@
   
   
 - title: Multi-decadal synthesis of benthic pelagic coupling in the western arctic - Role of cross-shelf advective processes
-  image: Pub_hBN.png
+  image: dummy.png
   description:
     Deep-Sea Res. Pt. II
   authors:
