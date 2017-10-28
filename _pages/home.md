@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "Hydroinformatics Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "The Hydroinformatics Lab and the University of Virginia."
 sitemap: false
 permalink: /
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Home"
 layout: textlay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "The Hydroinformatics Lab and the University of Virginia."
 sitemap: false
 permalink: /allnews.html
 ---
