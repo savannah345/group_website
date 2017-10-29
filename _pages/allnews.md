@@ -1,7 +1,7 @@
 ---
 title: "Home"
 layout: textlay
-excerpt: "The Hydroinformatics Lab and the University of Virginia."
+excerpt: "The Hydroinformatics Lab at the University of Virginia."
 sitemap: false
 permalink: /allnews.html
 ---

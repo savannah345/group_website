@@ -1,12 +1,12 @@
 ---
 title: "Hydroinformatics Lab - Home"
 layout: homelay
-excerpt: "The Hydroinformatics Lab and the University of Virginia."
+excerpt: "The Hydroinformatics Lab at the University of Virginia."
 sitemap: false
 permalink: /
 ---
 
-We are a small, dynamic group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter. 
+We are a small, dynamic group at the [University of Virginia](https://engineering.virginia.edu/). Our aim is to explore and understand 
  
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
