@@ -8,7 +8,7 @@ permalink: /research/
 
 # Research
 
-My group’s research broadly focuses on analyzing civil infrastructure and environmental systems as cyber-physical systems. We use observational data, physical models, and statistical models to better understand civil infrastructure and environmental systems. Our goal is to create new methodologies and tools that can be implemented by infrastructure owners and environmental managers to improve the resiliency and sustainability of these systems. Within this broad theme, our research can be categorized into three main topics: hydroinformatics, integrated environmental modeling, and resilient infrastructure systems.
+Our research broadly focuses on analyzing civil infrastructure and environmental systems as cyber-physical systems. We use observational data, physical models, and statistical models to better understand civil infrastructure and environmental systems. Our goal is to create new methodologies and tools that can be implemented by infrastructure owners and environmental managers to improve the resiliency and sustainability of these systems. Within this broad theme, our research can be categorized into three main topics: hydroinformatics, integrated environmental modeling, and resilient infrastructure systems.
  
 Hydroinformatics
 
