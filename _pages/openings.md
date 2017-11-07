@@ -8,18 +8,11 @@ permalink: /vacancies
 
 # Open positions
 
-We are currently looking for new group members with passion, talent, and grit! 
+The Hydroinformatics Group at the University of Virginia is seeking applications for one or more undergraduate and graduate research assistants. 
 
-You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
+Our lab uses computing to advance understanding of water systems. Openings are available for students interested in research in water resources engineering or in applying data science and software engineering to water systems. We especially seek students with experience using Python, R, and GIS, but experience with these tools is not required. Students in civil and environmental engineering, computer science, systems engineering, and environmental science are encouraged to apply. 
 
-If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:milan.allan@gmail.com). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line.
-
-There are some postdoc scholarship available.  
-
-If you are a Master student at Leiden University looking for a Master project, contact me (or any group member) per email or stop by my office. If you are interested in pursuing a Master degree at Leiden University, see [mastersinleiden.nl](http://www.mastersinleiden.nl/programmes/physics/en/introduction).
-
-
-
+Undergraduate research assistant positions are available starting immediately. Graduate research assistants are available starting as early as the spring semester. Interested applicants should send a cover letter and resume to Professor Jon Goodall (goodall@virginia.edu).
 
 
 <figure>

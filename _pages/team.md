@@ -70,7 +70,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 
 
-## Bachelor Students 
+## Masters and Bachelor Students 
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -128,47 +128,37 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 <table align="center" style="width:100%">
 <tr><th>Visitors</th>
     <th>Master Students</th> 
-    <th>Bachelor Students</th>
+    <th>Ph.D. Students</th>
   </tr>
   <tr>
-    <td>Nikolaos Iliopoulos, Spring 2016</td>
-    <td>Tjerk Benschop, Summer 2017</td>
-    <td>Vishnu Saj, Spring 2017</td>
+    <td>Mehmet Ercan, 2015</td>
+    <td>Stuart Sheffield, 2016</td>
+    <td></td>
   </tr>
   <tr>
-    <td>Vitaly Fedoseev, all of 2016</td>
-    <td>Oliver Ostojic, Spring 2016</td>
-    <td>Joey Braspenning, Spring 2017</td>
+    <td>Md. Jahangir Alam, 2013</td>
+    <td>Ben Felton, 2015</td>
+    <td></td>
   </tr>
   <tr>
+    <td>Phillis Mbewe, 2013</td>
+    <td>Alicia Nobles, 2014</td>
     <td></td>
-    <td>Farshaad Hoeseni, Fall 2015</td>
-    <td>Margot Leemker, Spring 2017</td>
   </tr>
   <tr>
+    <td>Mirza Billah, 2013</td>
     <td></td>
     <td></td>
-    <td>Sietske Lensen, Spring 2017</td>
   </tr>
   <tr>
+    <td>Mostafa Elag, 2013</td>
     <td></td>
     <td></td>
-    <td>Alexander Vanstone, Spring 2016</td>
   </tr>
   <tr>
+    <td>Tony Castronova</td>
     <td></td>
     <td></td>
-    <td>Tjerk Benschop, Spring 2016</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td>Arjo Andringa, Spring 2016</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td>Daniëlle van Klink, Spring 2016</td>
   </tr>
 </table>
 
