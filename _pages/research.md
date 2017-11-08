@@ -11,14 +11,6 @@ permalink: /research/
 Our research broadly focuses on analyzing civil infrastructure and environmental systems as cyber-physical systems. We use observational data, physical models, and statistical models to better understand civil infrastructure and environmental systems. Our goal is to create new methodologies and tools that can be implemented by infrastructure owners and environmental managers to improve the resiliency and sustainability of these systems. Within this broad theme, our research can be categorized into three main topics: hydroinformatics, integrated environmental modeling, and resilient infrastructure systems.
  
  
-<table align="center" style="width:100%">
-    <tr>
-        <td><img src="{{ site.url }}{{ site.vaseurl}}/images/dummy.png"></td>
-        <td> ### Hydroinformatics
-            As the quantity of data available for digitally describing water systems grows, so does the need to formally organize the data so that it can be made accessible for scientific studies and management decision making. Many approaches and tools have been developed in the broader information science community. We are interested in applying these approaches and tailoring them to best accommodate water systems. This effort includes merging approaches for geospatial data developed in the geographic information sciences and for observed and modeled hydrologic data. The ultimate goal is to advance our ability to digitally describe real-world water systems with the motivation that this will lead to improved predicative capabilities.</td>
-    </tr>
-    
- 
 ### Hydroinformatics
 
 As the quantity of data available for digitally describing water systems grows, so does the need to formally organize the data so that it can be made accessible for scientific studies and management decision making. Many approaches and tools have been developed in the broader information science community. We are interested in applying these approaches and tailoring them to best accommodate water systems. This effort includes merging approaches for geospatial data developed in the geographic information sciences and for observed and modeled hydrologic data. The ultimate goal is to advance our ability to digitally describe real-world water systems with the motivation that this will lead to improved predicative capabilities.
@@ -30,3 +22,4 @@ Water scientist and engineers have developed many models for predicting the beha
 ### Resilient Infrastructure Systems
 
 Urban infrastructure systems are impacted and are impacted by environmental and water resources systems.  We are interested in developing tools and approaches that allow for civil infrastructure and environmental systems to be considered as integrated systems to better capture these system interdependencies.  We are researching off-site mitigation policies to mitigate the impact of transportation infrastructure on the environment, improving the forecasting of flooding impacts on transportation systems, and the use of inexpensive sensor networks and remote sensing data collection strategies to improve real-time and integrated management of civil infrastructure and environmental systems. A particular interest is infrastructure for coastal cities where building resilient civil infrastructure systems is particularly challenging given changing environmental conditions.
+
