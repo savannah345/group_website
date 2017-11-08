@@ -26,7 +26,7 @@ We are a group based at the [University of Virginia](https://engineering.virgini
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Essawy_Morsy.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Bridge_Flooding.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Bridge_Flooding.PNG" alt="Slide 2" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Thornton_Hall.jpg" alt="Slide 3" />
@@ -35,7 +35,7 @@ We are a group based at the [University of Virginia](https://engineering.virgini
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/sea_level_rise_HR.PNG" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/ontosoft_modeling.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/metadata_framework.jpg" alt="Slide 5" />
         </div>
     </div> 
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
