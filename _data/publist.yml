@@ -37,7 +37,7 @@
  
  
 - title: Effect of Rain Gauge Proximity on Rainfall Estimation for Problematic Urban Coastal Watersheds in Virginia Beach, VA USA.
-  image: rain_aguge_VB.PNG
+  image: rain_gauge_VB.PNG
   description:
     Journal of Hydrologic Engineering
   authors:
@@ -217,7 +217,7 @@
   link:
     url: http://dx.doi.org/10.1016/j.jhydrol.2015.01.066
     display: Journal of Hydrology, 574-586. doi:10.1016/j.jhydrol .2015.01.066523
-  highlight: 1
+  highlight: 0
   news2: See also <a href="http://escholarship.org/uc/item/3sw9d167"> Manuscript of Article (2015)</a>
   
   
