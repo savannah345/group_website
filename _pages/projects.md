@@ -2,6 +2,7 @@
 title: "Hydroinformatics Lab - Projects"
 layout: textlay
 excerpt: "Hydroinformatics Lab -- Projects"
+sitemap: false
 permalink: /projects/
 ---
 
