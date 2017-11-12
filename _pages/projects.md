@@ -9,9 +9,9 @@ permalink: /projects/
 
 ### An Interactive Software Infrastructure for Sustaining Collaborative Community Innovation in the Hydrologic Sciences
 
-###### Sponsor - National Science Foundation
-###### Role - Co-PI
-###### PI - David Tarboton, Utah State
+##### Sponsor - National Science Foundation
+##### Role - Co-PI
+##### PI - David Tarboton, Utah State
 
 Water, its quality, quantity, accessibility, and management, is crucial to society.
 However, our ability to model and quantitatively understand the complex interwoven
@@ -38,9 +38,9 @@ of freshwater resources both above and below ground.
 
 ### Using the Cloud to Model and Manage Large Watershed Systems
 
-###### Sponsor - National Science Foundation
-###### Role - PI
-###### Co-PI - Marty Humphrey, University of Virginia
+##### Sponsor - National Science Foundation
+##### Role - PI
+##### Co-PI - Marty Humphrey, University of Virginia
 
 We aim to advance hydrologic science and water resource management by uniquely leveraging
 cloud computing for modeling and managing large watershed systems. The project will
@@ -54,9 +54,9 @@ be used to model hydrologic systems and other scientific applications.
 
 ### Simulation of Integrated Urban Infrastructure Systems using Component-based Modeling
 
-###### Sponsor - National Science Foundation
-###### Role - PI
-###### Co-PIs - Juan Caicedo and Nathan Huynh
+##### Sponsor - National Science Foundation
+##### Role - PI
+##### Co-PIs - Juan Caicedo and Nathan Huynh
 
 The focus of this work is on the standardization of system integration protocols
 for the purpose of simulating and managing civil infrastructure systems. The primary
@@ -76,8 +76,8 @@ and operation of urban infrastructure systems?
 
 ### CAREER - Integrated Modeling for Watershed Management
 
-###### Sponsor - National Science Foundation
-###### Role - PI
+##### Sponsor - National Science Foundation
+##### Role - PI
 
 The principal objective of this project is to advance integrated modeling as an
 approach for building next generation watershed models to support environmental
@@ -104,9 +104,9 @@ U.S. and abroad.
 
 ### DataNet Federation Consortium
 
-###### Sponsor - National Science Foundation
-###### Role - Co-PI
-###### PI - Reagan Moore, University of North Carolina – Chapel Hill
+##### Sponsor - National Science Foundation
+##### Role - Co-PI
+##### PI - Reagan Moore, University of North Carolina – Chapel Hill
 
 Major science and engineering initiatives are dependent upon massive data collections
 that comprise observational data, experimental data, simulation data, and engineering
@@ -120,3 +120,4 @@ from the data management requirements of the NSF Ocean Observatories Initiative
 for Advancement of Hydrologic Science (point data), engineering projects in education
 and CAD/CAM/CAE archives, the iPlant collaborative (genome databases), the Odum
 social science institute (statistics), and the NSF Science of Learning Centers.
+
