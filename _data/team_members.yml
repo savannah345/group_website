@@ -35,7 +35,7 @@
   photo: bowes-1.jpg
   info: Ph.D. Student
   email: bdb3m@virginia.edu
-  number_educ: 1
+  number_educ: 2
   education1: B.S. Environmental Science, Virginia Wesleyan College
   education2: Current - Ben is studying urban water infrastructure. His current research is on the response of groundwater levels to changing tidal and precipitation conditions in Norfolk, VA. This research will play an important role in regional-scale flood forecasting systems.
 
@@ -43,15 +43,15 @@
   photo: chen.jpg
   info: Ph.D. Student
   email: abc8fq@virginia.edu
-  number_educ: 1
+  number_educ: 2
   education1: M.S. Civil Engineering, National Taiwan University.
-  education2: Current, Alex is currently researching smart stormwater management for coastal communities. 
+  education2: Current - Alex is currently researching smart stormwater management for coastal communities. 
 
 - name: Youngdon Choi
   photo: choi.png
   info: Ph.D Student
   email: 
-  number_educ: 2
+  number_educ: 3
   education1: B.S. Civil Engineering
   education2: M.S. Civil Engineering
   education3: Youngdon recently joined the group after working for 10 years at K-Water in Korea. At K-Water, he worked on topics including integration of data and simulation models, computer-based data mining, and data modeling.
@@ -68,7 +68,7 @@
   photo: gina-1.jpg
   info: Ph.D. Candidate
   email: glo6ck@virginia.edu
-  number_educ: 2
+  number_educ: 3
   education1: B.S. CEE, University of Virginia
   education2: M.S. CEE, University of Virginia
   education3: Current - Gina is studying hydrology and wetland delineation using remote sensing and GIS. Her current research is resulting in new methods for identifying small-scale wetlands to assist in transportation planning. 
@@ -77,7 +77,7 @@
   photo: sadler.jpg
   info: Ph.D. Candidate
   email: jms3fb@virginia.edu
-  number_educ: 1
+  number_educ: 2
   education1: M.S. CEE, Brigham Young University
   education2: Current - Jeff is studying urban hydrology in the Hampton Roads region of Virginia. He is currently researching the application of machine learning approaches for improving forecasting of street-scale flooding events in Norfolk, VA.
  
@@ -85,7 +85,7 @@
   photo: Yawen-1.jpg
   info: Ph.D. Candidate
   email: ys5dv@virginia.edu
-  number_educ: 2
+  number_educ: 3
   education1: B.S. Wuhan University, China
   education2: M.S. Gerogia Tech
   education3: Current - Yaween is studying resilient infrastructure systems. His current work addresses the risk of flooding impacts to transportation infrastructure including bridges and culverts in particular. 
@@ -94,7 +94,7 @@
   photo: zahura.jpg
   info: Ph.D Student
   email: fz7xb@virginia.edu
-  number_educ: 1
+  number_educ: 2
   education1: B.S. Civil Engineering, Bangladesh University of Engineering and Technology (BUET)
   education2: Bangladesh Water Development Board
 
