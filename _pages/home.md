@@ -53,7 +53,7 @@ We are a group based at the [University of Virginia](https://engineering.virgini
 
 Our Research is focused in three main areas: Hydroinformatics, Integrated Environmental Modeling, and Resilient Infrastructure System. For more information about these see [the Research page](research).
 
-We are located at the University of Virginia in Charlottesvill, Virginia.  Within the University we collaborate with [the Link Lab](https://linklab.virginia.edu/). We exchange ideas and work with our neighbors from [Quantum Matter & Optics](http://www.physics.leidenuniv.nl/qo-home), as well as with the colleagues from our [world-class theory section](https://www.lorentz.leidenuniv.nl).
+We are located at the University of Virginia in Charlottesville, Virginia. Within the University we collaborate with [the Link Lab](https://linklab.virginia.edu/).
 
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
  
