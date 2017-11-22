@@ -19,6 +19,9 @@ figcaption {
     margin-bottom: 20px;
 }
 
+.panel{
+    margin-bottom: 0px;
+}
 
 
 /* Top navigation bar */
@@ -76,6 +79,11 @@ firstp {
 .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12 {
 	padding-left: 16px;
 	padding-right: 16px;
+    padding-bottom: 15px;
+}
+
+.col-sm-8 {
+    text-align: center;
 }
 
 /* Grid overrides */
