@@ -60,12 +60,12 @@ We are located at the University of Virginia in Charlottesville, Virginia. Withi
  
 <!---We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).--->
 
-<figure class="fourth">
+<!---<figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/University_of_Virginia_Logo.jpg" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UVA-Engineering.jpg" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dummy.png" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dummy.png" style="width: 110px">
-</figure>
+</figure>--->
 
 
 

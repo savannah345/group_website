@@ -11,9 +11,9 @@ permalink: /team/
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+Jump to [team](#team), [alumni](#alumni).
 
-## Staff
+## Team
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -70,7 +70,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 
 
-## Masters and Bachelor Students 
+<!--## Masters and Bachelor Students 
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -121,14 +121,14 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
-{% endif %}
+{% endif %}-->
 
 
 ## Alumni
 <table align="center" style="width:100%">
-<tr><th>Visitors</th>
+<tr><th>Ph.D. Students</th>
     <th>Master Students</th> 
-    <th>Ph.D. Students</th>
+    <th>Bachelor Students</th>
   </tr>
   <tr>
     <td>Mehmet Ercan, 2015</td>
@@ -162,9 +162,6 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   </tr>
 </table>
 
-## Administrative Support
 
-
-## Lab Guests
 
 
