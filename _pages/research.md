@@ -1,6 +1,6 @@
 ---
 title: "Hydroinformatics Lab - Research"
-layout: textlay
+layout: projects
 excerpt: "Hydroinformatics Lab -- Research"
 sitemap: false
 permalink: /research/
