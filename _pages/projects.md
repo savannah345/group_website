@@ -1,12 +1,12 @@
 ---
-title: "Hydroinformatics Lab - Projects"
+title: "Hydroinformatics Group - Projects"
 layout: textlay
-excerpt: "Hydroinformatics Lab -- Projects"
+excerpt: "Hydroinformatics Group -- Projects"
 sitemap: false
 permalink: /projects/
 ---
 
-# Recent Projects
+# Current and Recent Projects
 
 ### An Interactive Software Infrastructure for Sustaining Collaborative Community Innovation in the Hydrologic Sciences
 

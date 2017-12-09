@@ -1,5 +1,5 @@
 ---
-title: "Hydroinformatics Lab - AOA"
+title: "Hydroinformatics Group - AOA"
 layout: textlay
 excerpt: "AOA"
 sitemap: false

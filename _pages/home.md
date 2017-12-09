@@ -1,12 +1,12 @@
 ---
-title: "Hydroinformatics Lab - Home"
+title: "Hydroinformatics Group - Home"
 layout: homelay
-excerpt: "The Hydroinformatics Lab at the University of Virginia."
+excerpt: "The Hydroinformatics Group at the University of Virginia."
 sitemap: false
 permalink: /
 ---
 
-We are a group based at the [University of Virginia](https://engineering.virginia.edu/). Our aim is to understand and analyze civil infrastructure and environmental systems as cyber-physical systems.
+Our aim is to address some of society’s most challenging water resources problems by understanding, analyzing, and managing water systems as cyber-physical systems. We are part of the interdisciplinary Link Lab, a center of excellence in cyber-physical systems housed within the [Engineering School](https://engineering.virginia.edu/) at the [University of Virginia](https://engineering.virginia.edu/).
  
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -26,16 +26,16 @@ We are a group based at the [University of Virginia](https://engineering.virgini
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/hydroinfo_logo.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Essawy_Morsy.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Thornton_Hall.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Thornton_Hall.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/UVA_Rotunda2.jpg" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Thornton_Hall.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lawn2.jpg" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/metadata_framework.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Essawy_Morsy.jpg" alt="Slide 5" />
         </div>
     </div> 
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -51,11 +51,9 @@ We are a group based at the [University of Virginia](https://engineering.virgini
 
 
 
-Our Research is focused in three main areas: Hydroinformatics, Integrated Environmental Modeling, and Resilient Infrastructure System. For more information about these see [the Research page](research).
+<!--Our Research is focused in three main areas: Hydroinformatics, Integrated Environmental Modeling, and Resilient Infrastructure System. For more information about these see [the Research page](research).
+We are located at the University of Virginia in Charlottesville, Virginia. Within the University we collaborate with [the Link Lab](https://linklab.virginia.edu/).-->
 
-We are located at the University of Virginia in Charlottesville, Virginia. Within the University we collaborate with [the Link Lab](https://linklab.virginia.edu/).
-
- <!---**We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**--->
  
  
 <!---We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).--->

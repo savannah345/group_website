@@ -1,7 +1,7 @@
 ---
-title: "Hydroinformatics Lab - Pictures"
+title: "Hydroinformatics Group - Pictures"
 layout: piclay
-excerpt: "Hydroinformatics Lab -- Pictures"
+excerpt: "Hydroinformatics Group -- Pictures"
 permalink: /pictures/
 ---
 

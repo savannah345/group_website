@@ -1,6 +1,17 @@
+ #name: "This could be you !"
+  #photo: rock.jpg
+  #info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
+  #email: milan.allan@gmail.com
+  #number_educ: 0
+  #education1:
+  #education2:
+  #education3:
+  #education4:
+
+
 - name: Jonathan L. Goodall
   photo: goodall.jpg
-  info: Associate Professor, Department of Civil and Environmental Engineering | Associate Professor by courtesy, Department of Computer Science | Assistant Director, Link Lab | Group leader, Hyfroinformatics Research Group | Affiliate Faculity, Center for Fransportation Studies at the University of Virginia
+  info: Associate Professor, Department of Civil and Environmental Engineering | Associate Professor by courtesy, Department of Computer Science | Assistant Director, Link Lab | Group leader, Hydroinformatics Research Group | Affiliate Faculity, Center for Transportation Studies at the University of Virginia
   email: jlg7h@virginia.edu
   number_educ: 3
   education1: PhD, Civil Engineering, University of Texaxs at Austin, 2005, Adviser <a href="http://www.caee.utexas.edu/prof/maidment/CAEE/maidment.htm">David R. Maidment</a>
@@ -43,17 +54,18 @@
   photo: chen.jpg
   info: Ph.D. Student
   email: abc8fq@virginia.edu
-  number_educ: 2
-  education1: M.S. Civil Engineering, National Taiwan University.
-  education2: Current - Alex is currently researching smart stormwater management for coastal communities. 
+  number_educ: 3
+  education1: B.S. Hydraulic and Ocean Engineering, National Cheng Kung University, Taiwan
+  education2: M.S. Bioenvironmental Systems Engineering, National Taiwan University, Taiwan.
+  education3: Current - Alex is currently researching smart stormwater management for coastal communities. 
 
 - name: Youngdon Choi
   photo: choi.png
   info: Ph.D Student
-  email: 
+  email: yc5ef@virginia.edu
   number_educ: 3
-  education1: B.S. Civil Engineering
-  education2: M.S. Civil Engineering
+  education1: B.S. Civil Engineering, Pusan National University, Republic of Korea
+  education2: M.S. Civil Engineering, Pusan National University, Republic of Korea
   education3: Current - Youngdon recently joined the group after working for 10 years at K-Water in Korea. At K-Water, he worked on topics including integration of data and simulation models, computer-based data mining, and data modeling.
 
 - name: Iman Maghami
@@ -98,6 +110,8 @@
   education1: B.S. Civil Engineering, Bangladesh University of Engineering and Technology (BUET)
   education2: Bangladesh Water Development Board
   
+#Undergrad Students  
+  
 - name: Julia Davatzes
   photo: Julia-Davatzes.jpg
   info: B.S. Student - Civil and Environmental Engineering
@@ -141,12 +155,3 @@
   number_educ: 1
   education1: Current - Website Management 
 
-  #name: "This could be you !"
-  #photo: rock.jpg
-  #info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  #email: milan.allan@gmail.com
-  #number_educ: 0
-  #education1:
-  #education2:
-  #education3:
-  #education4:

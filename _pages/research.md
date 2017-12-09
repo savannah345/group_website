@@ -1,7 +1,7 @@
 ---
-title: "Hydroinformatics Lab - Research"
-layout: projects
-excerpt: "Hydroinformatics Lab -- Research"
+title: "Hydroinformatics Group - Research"
+layout: textlay
+excerpt: "Hydroinformatics Group -- Research"
 sitemap: false
 permalink: /research/
 ---

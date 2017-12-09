@@ -1,5 +1,5 @@
 ---
-title: "Hydroinformatics Lab - Vacancies"
+title: "Hydroinformatics Group - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false

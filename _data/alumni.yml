@@ -12,13 +12,13 @@
   photo: sheffield.jpg
   number_educ: 2
   education1: M.S, University of Virginia, 2016 with his thesis on creating distributed environmental decision support systems.
-  education2: Stuart is an engineer with Bohler Engineering.
+  education2: Stuart is an engineer with <a href="https://bohlerengineering.com/">Bohler Engineering</a>.
 
 - name: Mehmet Ercan 
   photo: ercan.jpg
   number_educ: 2
   education1: Ph.D., University of South Carolina-Columbia, 2015
-  eduication2: Mehmet was an engineer with ARCADIS after completing his PhD degree. He is now an assistant professor at Inonu University in Turkey. 
+  education2: Mehmet was an engineer with ARCADIS after completing his Ph.D. degree. He is now an assistant professor at Inonu University in Turkey and a consultant for <a href="https://www.emnet.net">EmNet</a>. 
 
 - name: Ben Felton
   photo: felton.jpg
@@ -37,18 +37,18 @@
   photo: alam.jpg
   number_educ: 2
   education1: Ph.D., University of South Carolina-Columbia, 2013
-  education2: Alam was an engineer with Arcadis after completing his PhD degree and is now an engineer with Hazen and Sawyer. 
+  education2: Alam was an engineer with Arcadis after completing his PhD degree and is now an engineer with <a href="http://www.hazenandsawyer.com/">Hazen and Sawyer</a>. 
 
 - name: Phillis Mbewe
   photo: mbewe.jpg
   number_educ: 2
   education1: M.E., University of South Carolina-Columbia, 2013
-  education2: Phillis is now an engineer with Naismith Engineering
+  education2: Phillis is now an engineer with <a href="http://www.naismith-engineering.com/">Naismith Engineering</a>
   
 - name: Mirza Billah
   photo: billah.jpg
   number_educ: 3
-  education1: Ph.d., University of South Carolina-Columbia, 2013
+  education1: Ph.D., University of South Carolina-Columbia, 2013
   education2: Mirza was a hydrologist with the South Carolina Department of Health and Environmental Control after completing his PhD degree.
   education3: Mirza later accepted a postdoc at Virginia Tech and is now a Senior Hydrologic Modeler for the South Florida Water Management District.
   
@@ -57,10 +57,10 @@
   photo: elag.jpg
   number_educ: 2
   education1: Ph.d., University of South Carolina-Columbia, 2013
-  education2: Mostafa is not an engineer at Arcadis
+  education2: Mostafa is now an engineer at <a href="https://www.arcadis.com/en/united-states/">Arcadis</a>
   
 - name: Tony Castronova
   photo: castronova.jpg
   number_educ: 2
   education1: Ph.d., University of South Carolina-Columbia
-  education2: Tony is now a hydrologist at CUAHSI
+  education2: Tony is now a hydrologist at <a href="https://www.cuahsi.org/">CUAHSI</a>

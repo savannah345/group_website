@@ -1,4 +1,4 @@
-# UVA Hydroinformatics Lab Website
+# UVA Hydroinformatics Group Website
 
 This is the website of the hydroinformatics research group at the University of Virginia.
 
