@@ -1,12 +1,12 @@
-#- name: 
+#- name:
 #  photo: rock.jpg
 #  info:
 #  email:
-#  number_educ: 
-#  education1:  
-#  education2:  
-#  education3: 
-#  education4:  
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
 
 - name: Stuart Sheffield
   photo: sheffield.jpg
@@ -14,51 +14,51 @@
   education1: M.S, University of Virginia, 2016 with his thesis on creating distributed environmental decision support systems.
   education2: Stuart is an engineer with <a href="https://bohlerengineering.com/">Bohler Engineering</a>.
 
-- name: Mehmet Ercan 
+- name: Mehmet Ercan
   photo: ercan.jpg
   number_educ: 2
   education1: Ph.D., University of South Carolina-Columbia, 2015
-  education2: Mehmet was an engineer with ARCADIS after completing his Ph.D. degree. He is now an assistant professor at Inonu University in Turkey and a consultant for <a href="https://www.emnet.net">EmNet</a>. 
+  education2: Mehmet was an engineer with ARCADIS after completing his Ph.D. degree. He is now an assistant professor at Inonu University in Turkey and a consultant for <a href="https://www.emnet.net">EmNet</a>.
 
 - name: Ben Felton
   photo: felton.jpg
   number_educ: 2
   education1: M.S., University of Virginia, 2015 with his thesis on GIS and remote sensing approaches for wetland screening.
-  education2: Ben is now an engineer with Watershed Consulting. 
+  education2: Ben is now an engineer with Watershed Consulting.
 
 - name: Alicia Nobles
   photo: nobles.jpg
   number_educ: 2
   education1: M.S., University of Virginia, 2014 with her thesis on the cost effectiveness of structure best management practices compared to purchasing nutrient credits.
-  education2: Alicia is now a Ph.D. student in Systems and Information Engineering at the University of Virginia.  
-  
-  
+  education2: Alicia is now a Ph.D. student in Systems and Information Engineering at the University of Virginia.
+
+
 - name: Md. Jahangir Alam
   photo: alam.jpg
   number_educ: 2
   education1: Ph.D., University of South Carolina-Columbia, 2013
-  education2: Alam was an engineer with Arcadis after completing his PhD degree and is now an engineer with <a href="http://www.hazenandsawyer.com/">Hazen and Sawyer</a>. 
+  education2: Alam was an engineer with Arcadis after completing his PhD degree and is now an engineer with <a href="http://www.hazenandsawyer.com/">Hazen and Sawyer</a>.
 
 - name: Phillis Mbewe
   photo: mbewe.jpg
   number_educ: 2
   education1: M.E., University of South Carolina-Columbia, 2013
   education2: Phillis is now an engineer with <a href="http://www.naismith-engineering.com/">Naismith Engineering</a>
-  
+
 - name: Mirza Billah
   photo: billah.jpg
   number_educ: 3
   education1: Ph.D., University of South Carolina-Columbia, 2013
   education2: Mirza was a hydrologist with the South Carolina Department of Health and Environmental Control after completing his PhD degree.
   education3: Mirza later accepted a postdoc at Virginia Tech and is now a Senior Hydrologic Modeler for the South Florida Water Management District.
-  
-  
+
+
 - name: Mostafa Elag
   photo: elag.jpg
   number_educ: 2
   education1: Ph.d., University of South Carolina-Columbia, 2013
   education2: Mostafa is now an engineer at <a href="https://www.arcadis.com/en/united-states/">Arcadis</a>
-  
+
 - name: Tony Castronova
   photo: castronova.jpg
   number_educ: 2
