@@ -6,7 +6,7 @@ permalink: /pictures/
 ---
 
 # Pictures
-Jump to: [Gallery](#Gallery)
+<!--Jump to: [Gallery](#Gallery)-->
 
 
 #### Gallery

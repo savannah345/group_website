@@ -6211,6 +6211,10 @@ pubtit {
   padding-left: 26px;
   padding-right: 26px; }
 
+/*gallery*/
+.img-responsive {
+  width: 1000px; }
+
 /* Carusel */
 .carousel {
   border-radius: 3px 3px 3px 3px;
