@@ -7,9 +7,6 @@
   #link:
     #url: https://arxiv.org/abs/1707.03362
     #display:  arXiv:1707.03362 (2017)
-  #linkpdf
-    #pdf
-    #display
 #Highlights are either 1 or 0 - if 1 is selected then they will show up in the fancy squares at the top of the page, if 0 the info will only show up at the list of publications at the bottom.
   #highlight: 0
 #ability to add new news??
@@ -22,10 +19,7 @@
     Journal of the American Water Resources Association. Accepted and in Press.
   authors: Shen, Y., J.L. Goodall, S.B. Chase
   link:
-    url:
-    display:
-  linkpdf:
-    pdf: Shen_JAWRA_2017_Preprint.pdf
+    url: http://faculty.virginia.edu/goodall/Shen_JAWRA_2017_Preprint.pdf
     display: Preprint of Article 2017
   highlight: 1
 
@@ -37,10 +31,7 @@
   authors:
     Sadler, J.M., N. Haselden, K. Mellon, A. Hackel, V. Son, J. Mayfield, A. Blase, J.L. Goodall
   link:
-    url:
-    display:
-  linkpdf:
-    pdf: Sadler_JIS_2017_Preprint.pdf
+    url: http://faculty.virginia.edu/goodall/Sadler_JoHE_2017_Preprint.pdf
     display: Preprint of Article 2017
   highlight: 1
 
@@ -54,10 +45,8 @@
   link:
     url: http://ascelibrary.org/doi/10.1061/%28ASCE%29HE.1943-5584.0001563
     display: Journal of Hydrologic Engineering 22(9). doi:10.1061/(ASCE)HE.1943-5584.0001563
-  linkpdf:
-    pdf: Sadler_JoHE_2017_Preprint.pdf
-    display: Preprint of Article 2017
   highlight: 1
+  news2: <a href="http://faculty.virginia.edu/goodall/Sadler_JIS_2017_Preprint.pdf">Preprint of Article 2017</a>
 
 
 - title: The Impact of Projected Climate Change Scenarios on Nitrogen Yield at a Regional-Scale for the Contiguous United States
@@ -69,7 +58,7 @@
     url: http://onlinelibrary.wiley.com/doi/10.1111/1752-1688.12537/abstract;jsessionid=C1180791DEEC80E215C979D267BC19FC.f04t01
     display: Journal of American Water Resources Association 53(4), pp.854–870. doi:10.1111/1752-1688.12537
   linkpdf:
-    pdf: Alam_JAWRA_2017_Preprint.pdf
+    pdf: http://faculty.virginia.edu/goodall/Alam_JAWRA_2017_Preprint.pdf
     display: Preprint of Article 2017
   highlight: 1
   
@@ -84,7 +73,7 @@
     url: http://dx.doi.org/10.1016/j.envsoft.2017.02.028
     display: Environmental Modelling & Software, 93, pp.13-28. doi:10.1016/j.envsoft .2017.02.028
   linkpdf:
-    pdf: Morsy_EMS_2016_Preprint.pdf
+    pdf: http://faculty.virginia.edu/goodall/Morsy_EMS_2016_Preprint.pdf
     display: Preprent of Article 2017
   highlight: 1
   
@@ -98,7 +87,7 @@
     url: http://dx.doi.org/10.1016/j.envsoft.2017.01.024
     display: Environmental Modelling & Software, 92, pp.317-329. doi:10.1016/j.envsoft .2017.01.024
   linkpdf:
-    pdf: Essawy_EMS_2016_Preprint.pdf
+    pdf: http://faculty.virginia.edu/goodall/Essawy_EMS_2016_Preprint.pdf
     display: Preprint of Article 2017
   highlight: 1
   
@@ -111,7 +100,7 @@
     url: http://dx.doi.org/10.1111/1752-1688.12487
     display: JAWRA Journal of the American Water Resources Association. 53(1), pp. 131-143. doi:10.1111/1752-1688.12487
   linkpdf:
-    pdf: Nobles_JAWRA_2016_Preprint.pdf
+    pdf: http://faculty.virginia.edu/goodall/Nobles_JAWRA_2016_Preprint.pdf
     display: Preprint of Article 2017
   highlight: 0
   
@@ -126,7 +115,7 @@
     url: http://dx.doi.org/10.1002/2015EA000136
     display: Earth and Space Science, 3, 388—415, doi:10.1002/2015EA000136
   linkpdf:
-    pdf: Gil_ESS_2016_FinalPaper.pdf
+    pdf: http://faculty.virginia.edu/goodall/Gil_ESS_2016_FinalPaper.pdf
     display: Preprint of Article 2016
   highlight: 0
 
@@ -142,7 +131,7 @@
     url: http://dx.doi.org/10.1061/(ASCE)HE.1943-5584.0001430
     display: Journal of Hydrologic Engineering, 05016025. doi:10.1061/( ASCE)HE.1943-5584.0001430
   linkpdf:
-    pdf: Morsy_JoHE_2016_Preprint.pdf
+    pdf: http://faculty.virginia.edu/goodall/Morsy_JoHE_2016_Preprint.pdf
     display: Preprint of Article 2016
 
 
@@ -156,7 +145,7 @@
     url: http://dx.doi.org/10.1002/2015EA000139
     display: Earth and Space Science, 3, 163-175, doi:10.1002/2015EA000139
   linkpdf:
-    pdf: Essawy_ESS_2016_FinalPaper.pdf
+    pdf: http://faculty.virginia.edu/goodall/Essawy_ESS_2016_FinalPaper.pdf
     display: Preprint of Article 2016
   highlight: 0
   
@@ -169,7 +158,7 @@
     url: http://dx.doi.org/10.1016/j.envsoft.2016.06.017
     display: Environmental Modelling & Software, 84, 112-20. doi:10.1016/j.envsoft .2016.06.017
   linkpdf:
-    pdf: Ercan_EMS_2016_Preprint.pdf
+    pdf: http://faculty.virginia.edu/goodall/Ercan_EMS_2016_Preprint.pdf
     display: Preprint of Article 2016
   highlight: 0
 
@@ -184,7 +173,7 @@
     url: http://dx.doi.org/10.1111/1752-1688.12363
     display: Journal of the American Water Resources Association, 52(4), 873-889. doi:10.1111/1752-1688.12363
   linkpdf:
-    pdf: HydroShare_ Sharing Diverse Environmental Data Types and Models a.pdf
+    pdf: http://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=2183&context=cee_facpub
     display: Manuscript of Article 2016
   highlight: 0
 
@@ -198,7 +187,7 @@
     url: http://dx.doi.org/10.1016/j.envsoft.2015.12.010
     display: Environmental Modelling & Software, 78, 31-39. doi:10.1016/j.envsoft .2015.12.010
   linkpdf:
-    pdf: Billah_EMS_2016_Preprint.pdf
+    pdf: http://faculty.virginia.edu/goodall/Billah_EMS_2016_Preprint.pdf
     display: Preprint of Article 2016
   highlight: 0
   
@@ -237,7 +226,7 @@
     url: http://dx.doi.org/10.1061/(ASCE)CP.1943-5487.0000364
     display: Journal of Computing in Civil Engineering, 29(5). doi:10.1061/( ASCE)CP.1943-5487.0000364
   linkpdf:
-    pdf: Goodall_JCCE_2015_Preprint.pdf
+    pdf: http://faculty.virginia.edu/goodall/Goodall_JCCE_2015_Preprint.pdf
     display: Preprint of Article 2015
   highlight: 0
 
@@ -265,7 +254,7 @@
     url: http://dx.doi.org/10.1016/j.envsoft.2014.09.002
     display: Environmental Modelling & Software, 62, 188-196. doi:10.1016/j.envsoft .2014.09.002
   linkpdf:
-    pdf: Ercan_EMS_2014_Preprint.pdf
+    pdf: http://faculty.virginia.edu/goodall/Ercan_EMS_2014_Preprint.pdf
     display: Preprint of Article 2014
   highlight: 0
 
@@ -280,7 +269,7 @@
     url: https://www.researchgate.net/publication/264312910_A_hierarchical_network-based_algorithm_for_multi-scale_watershed_delineation
     display:  Computers & Geosciences, 72, 156-166. doi:10.1016/j.cageo.2014.07.014
   linkpdf:
-    pdf: Castronova_CompGeo_2014_Preprint.pdf
+    pdf: http://faculty.virginia.edu/goodall/Castronova_CompGeo_2014_Preprint.pdf
     display: Preprint of Article 2014
   highlight: 0
 
@@ -318,7 +307,7 @@
     url: http://dx.doi.org/10.1002/wrcr.20401
     display: Water Resources Research, 49(8), 5077-5091, 2013. doi:10.1002/wrcr.20401
   linkpdf:
-    pdf: Elag_WRR_2013_Preprint.pdf
+    pdf: http://faculty.virginia.edu/goodall/Elag_WRR_2013_Preprint.pdf
     display: Preprint of Article 2013
   highlight: 0
 
@@ -333,7 +322,7 @@
     url: http://dx.doi.org/10.1016/j.envsoft.2013.03.019
     display: Environmental Modelling & Software, 46, 250-259, 2013. doi:10.1016/j.envsoft .2013.03.019
   linkpdf:
-    pdf: Goodall_EMS_2013_Preprint.pdf
+    pdf: http://faculty.virginia.edu/goodall/Goodall_EMS_2013_Preprint.pdf
     display: Preprint of Article 2013
   highlight: 0
 
@@ -348,7 +337,7 @@
     url: http://dx.doi.org/10.1016/j.envsoft.2012.11.010
     display: Environmental Modelling & Software, 41, 72-83, doi:10.1016/j.envsoft .2012.11.010
   linkpdf:
-    pdf: Castronova_EMS_2013_Preprint.pdf
+    pdf: http://faculty.virginia.edu/goodall/Castronova_EMS_2013_Preprint.pdf
     display: Preprint of Article 2013
   highlight: 0
 
@@ -363,7 +352,7 @@
     url: http://dx.doi.org/10.1061/(ASCE)HE.1943-5584.0000687
     display: Journal of Hydrologic Engineering (ASCE), 18(8), 983-994, doi:10.1061/( ASCE)HE.1943-5584.0000687
   linkpdf:
-    pdf: Ercan_JoHE_2013_Preprint.pdf
+    pdf: http://faculty.virginia.edu/goodall/Ercan_JoHE_2013_Preprint.pdf
     display: Preprint of Article 2013
   highlight: 0
 
@@ -391,7 +380,7 @@
     url: http://dx.doi.org/10.1016/j.envsoft.2012.09.006
     display: Environmental Modelling & Software, 39, 3-23, doi:10.1016/j.envsoft .2012.09.006
   linkpdf:
-    pdf: Laniak_EMS_2013_FinalPaper.pdf
+    pdf: http://faculty.virginia.edu/goodall/Laniak_EMS_2013_FinalPaper.pdf
     display: Preprint of Article 2013
   highlight: 0
   
@@ -406,7 +395,7 @@
     url: http://dx.doi.org/10.1016/j.envsoft.2012.02.011
     display: Environmental Modelling & Software, doi:10.1016/j.envsoft .2012.02.011, 39, 263-273
   linkpdf:
-    pdf: Castronova_EMS_2013a_Preprint.pdf
+    pdf: http://faculty.virginia.edu/goodall/Castronova_EMS_2013a_Preprint.pdf
     display: Preprint of Article 2013
   highlight: 0
   
@@ -421,7 +410,7 @@
     url: http://dx.doi.org/10.1016/j.envsoft.2012.01.020
     display: Environmental Modelling & Software, 39, 304-313. doi:10.1016/j.envsoft .2012.01.020
   linkpdf:
-    pdf: Castronova_EMS_2013b_Preprint.pdf
+    pdf: http://faculty.virginia.edu/goodall/Castronova_EMS_2013b_Preprint.pdf
     display: Preprint of Article 2013
   highlight: 0
   
@@ -435,7 +424,7 @@
     url: http://dx.doi.org/10.1029/2011WR010967
     display: Water Resources Research, 48, W04507, doi:10.1029/2011WR010967
   linkpdf:
-    pdf: Alam_WRR_2012_Preprint.pdf
+    pdf: http://faculty.virginia.edu/goodall/Alam_WRR_2012_Preprint.pdf
     display: Preprint of Article 2012
   highlight: 0
 
@@ -462,7 +451,7 @@
     url: http://dx.doi.org/10.1029/2011WR010792
     display: Water Resources Research, 47, W12520, doi:10.1029/2011WR010792
   linkpdf:
-    pdf: Elag_WRR_2011_Preprint.pdf
+    pdf: http://faculty.virginia.edu/goodall/Elag_WRR_2011_Preprint.pdf
     display: Preprint of Article 2011
   highlight: 0
   
@@ -477,7 +466,7 @@
     url: http://dx.doi.org/10.1016/j.jhydrol.2011.08.045
     display: Journal of Hydrology, 409(1-2), 472-482, doi:10.1016/j.jhydrol.2011.08.045
   linkpdf:
-    pdf: Billah_JoH_2011_Preprint.pdf
+    pdf: http://faculty.virginia.edu/goodall/Billah_JoH_2011_Preprint.pdf
     display: Preprint of Article 2011
   highlight: 0
  
@@ -492,7 +481,7 @@
     url: http://dx.doi.org/10.1016/j.envsoft.2010.11.013
     display: Environ. Modell. Softw., 26(5), 573-582, doi:10.1016/j.envsoft.2010.11.013
   linkpdf:
-    pdf: Goodall_EMS_2011_Preprint.pdf
+    pdf: http://faculty.virginia.edu/goodall/Goodall_EMS_2011_Preprint.pdf
     display: Preprint of Article 2011
   highlight: 0
 
@@ -507,7 +496,7 @@
     url: http://dx.doi.org/10.1016/j.envsoft.2010.04.007
     display: Environ. Modell. Softw., 25(12), 1713-1721, doi:10.1016/j.envsoft.2010.04.007
   linkpdf:
-    pdf: Goodall_EMS_2010_Preprint.pdf
+    pdf: http://faculty.virginia.edu/goodall/Goodall_EMS_2010_Preprint.pdf
     display: Preprint of Article 2010
   highlight: 0
   
@@ -521,7 +510,7 @@
     url: http://dx.doi.org/10.1016/j.envsoft.2010.04.007
     display: Environ. Modell. Softw., 25(7), 819-825, doi:10.1016/j.envsoft.2010.01.003
   linkpdf:
-    pdf: Castronova_EMS_2010_Preprint.pdf
+    pdf: http://faculty.virginia.edu/goodall/Castronova_EMS_2010_Preprint.pdf
     display: Preprint of Article 2010
   highlight: 0
   
@@ -536,7 +525,7 @@
     url: http://dx.doi.org/10.1061/(ASCE)HE.1943-5584.0000161
     display: J. Hydrol. Eng., 15(2), 97-106, doi:10.1061/(ASCE)HE.1943-5584.0000161
   linkpdf:
-    pdf: Shatnawi_JoHE_2010_Preprint.pdf
+    pdf: http://faculty.virginia.edu/goodall/Shatnawi_JoHE_2010_Preprint.pdf
     display: Preprint of Article 2010
   highlight: 0
 
@@ -551,7 +540,7 @@
     url: http://dx.doi.org/10.1080/13658810802032193
     display: Int. J. Geogr. Inf. Sci., 23(2), 233-247, doi:10.1080/13658810802032193
   linkpdf:
-    pdf: Goodall_IJGIS_2009_FinalPaper.pdf
+    pdf: http://faculty.virginia.edu/goodall/Goodall_IJGIS_2009_FinalPaper.pdf
     display: Preprint of Article 2009
   highlight: 0
   
@@ -579,7 +568,7 @@
     url: http://dx.doi.org/10.1016/j.envsoft.2014.09.002
     display: Environmental Modelling & Software, 62, 188-196. doi:10.1016/j.envsoft .2014.09.002
   linkpdf:
-    pdf: 10.1.1.468.817.pdf
+    pdf: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.468.817&rep=rep1&type=pdf
     display: Manuscript of Article 2008
   highlight: 0
 
@@ -594,7 +583,7 @@
     url: http://dx.doi.org/10.1111/j.1467-9671.2006.00254.x
     display: Trans. GIS, 10(2), 219-237, doi:10.1111/j.1467-9671.2006.00254
   linkpdf:
-    pdf: Whiteaker_TGIS_2006_Preprint.pdf
+    pdf: http://faculty.virginia.edu/goodall/Whiteaker_TGIS_2006_Preprint.pdf
     display: Preprint of Article 2006
   highlight: 0
   
