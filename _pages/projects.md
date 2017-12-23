@@ -8,7 +8,7 @@ permalink: /projects/
 
 # Current and Recent Projects
 
-### Data-driven Management for Interdependent Stormwater and Transportation Systems
+### dMIST: Data-driven Management for Interdependent Stormwater and Transportation Systems
 
 ##### Sponsor - National Science Foundation
 ##### Role - PI

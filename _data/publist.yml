@@ -13,13 +13,26 @@
   #news2:
   #news1: <a style="color:#FF0000; text-decoration:underline" href="http://science.sciencemag.org/content/345/6203/twil">News item in Science</a>
 
+- title: Feasibility of using existing web services for on-demand data access within distributed environmental decision support systems
+  image: hydroinfo_logl.png
+  description: Journal of Hydroinformatics, International Water Association. Accepted and in Press.
+  authors: Stuart F. Sheffield, Jonathan L. Goodall, Mohamed M. Morsy, Alexander B. Chen
+  link:
+    url: http://jh.iwaponline.com/content/early/2017/11/29/hydro.2017.092
+    display: Journal of Hydroinformatics, doi:10.2166/hydro.2017.092
+  highlight: 1    
+
+
 - title: A Method for Rapidly Assessing the Overtopping Risk of Bridges due to Flooding over a Large Geographic Region.
   image: Bridge_Flooding.PNG
   description:
     Journal of the American Water Resources Association. Accepted and in Press.
   authors: Shen, Y., J.L. Goodall, S.B. Chase
   link:
-    url: http://faculty.virginia.edu/goodall/Shen_JAWRA_2017_Preprint.pdf
+    url: http://onlinelibrary.wiley.com/doi/10.1111/1752-1688.12583/full
+    display: Journal of American Water Resources Association, doi:10.1111/1752-1688.12583
+  linkpdf:
+    pdf: http://faculty.virginia.edu/goodall/Shen_JAWRA_2017_Preprint.pdf
     display: Preprint of Article 2017
   highlight: 1
 
@@ -31,7 +44,10 @@
   authors:
     Sadler, J.M., N. Haselden, K. Mellon, A. Hackel, V. Son, J. Mayfield, A. Blase, J.L. Goodall
   link:
-    url: http://faculty.virginia.edu/goodall/Sadler_JoHE_2017_Preprint.pdf
+    url: https://ascelibrary.org/doi/full/10.1061/(ASCE)IS.1943-555X.0000397
+    display: Journal of Infrastructure Systems, ASCE
+  linkpdf:
+    pdf: http://faculty.virginia.edu/goodall/Sadler_JoHE_2017_Preprint.pdf
     display: Preprint of Article 2017
   highlight: 1
 
@@ -89,7 +105,7 @@
   linkpdf:
     pdf: http://faculty.virginia.edu/goodall/Essawy_EMS_2016_Preprint.pdf
     display: Preprint of Article 2017
-  highlight: 1
+  highlight: 0
   
 
 - title: Comparing Costs of Onsite Best Management Practices to Nutrient Credits for Stormwater Management - A Case Study in Virginia
