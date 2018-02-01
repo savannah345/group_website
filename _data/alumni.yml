@@ -24,7 +24,7 @@
   photo: felton.jpg
   number_educ: 2
   education1: M.S., University of Virginia, 2015 with his thesis on GIS and remote sensing approaches for wetland screening.
-  education2: Ben is now an engineer with Watershed Consulting.
+  education2: Ben is now an engineer with <a href="http://amtengineering.com/">A. Morton Thomas and Associates</a>.
 
 - name: Alicia Nobles
   photo: nobles.jpg
@@ -47,20 +47,18 @@
 
 - name: Mirza Billah
   photo: billah.jpg
-  number_educ: 3
+  number_educ: 2
   education1: Ph.D., University of South Carolina-Columbia, 2013
-  education2: Mirza was a hydrologist with the South Carolina Department of Health and Environmental Control after completing his PhD degree.
-  education3: Mirza later accepted a postdoc at Virginia Tech and is now a Senior Hydrologic Modeler for the South Florida Water Management District.
-
+  education2: Mirza is now a hydrologist with the <a href="https://www.sfwmd.gov/">South Flordia Water Management District</a>.
 
 - name: Mostafa Elag
   photo: elag.jpg
   number_educ: 2
-  education1: Ph.d., University of South Carolina-Columbia, 2013
+  education1: Ph.D., University of South Carolina-Columbia, 2013
   education2: Mostafa is now an engineer at <a href="https://www.arcadis.com/en/united-states/">Arcadis</a>
 
 - name: Tony Castronova
   photo: castronova.jpg
   number_educ: 2
-  education1: Ph.d., University of South Carolina-Columbia
+  education1: Ph.D., University of South Carolina-Columbia
   education2: Tony is now a hydrologist at <a href="https://www.cuahsi.org/">CUAHSI</a>

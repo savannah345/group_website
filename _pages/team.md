@@ -28,29 +28,29 @@ Jump to [team](#team), [alumni](#alumni).
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
-  
+
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
-  
+
   {% if member.number_educ == 2 %}
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   {% endif %}
-  
+
   {% if member.number_educ == 3 %}
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
   {% endif %}
-  
+
   {% if member.number_educ == 4 %}
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
   <li> {{ member.education4 }} </li>
   {% endif %}
-  
+
   </ul>
 </div>
 
@@ -70,7 +70,7 @@ Jump to [team](#team), [alumni](#alumni).
 
 
 
-## Alumni 
+## Alumni
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni %}
 
@@ -84,29 +84,29 @@ Jump to [team](#team), [alumni](#alumni).
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <ul style="overflow: hidden">
-  
+
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
-  
+
   {% if member.number_educ == 2 %}
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   {% endif %}
-  
+
   {% if member.number_educ == 3 %}
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
   {% endif %}
-  
+
   {% if member.number_educ == 4 %}
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   <li> {{ member.education3 }} </li>
   <li> {{ member.education4 }} </li>
   {% endif %}
-  
+
   </ul>
 </div>
 
@@ -122,48 +122,3 @@ Jump to [team](#team), [alumni](#alumni).
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
-
-<!--
-## Alumni
-<table align="center" style="width:100%">
-<tr><th>Ph.D. Students</th>
-    <th>Master Students</th> 
-    <th>Bachelor Students</th>
-  </tr>
-  <tr>
-    <td>Mehmet Ercan, 2015</td>
-    <td>Stuart Sheffield, 2016</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Md. Jahangir Alam, 2013</td>
-    <td>Ben Felton, 2015</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Phillis Mbewe, 2013</td>
-    <td>Alicia Nobles, 2014</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Mirza Billah, 2013</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Mostafa Elag, 2013</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Tony Castronova</td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
--->
-
-
-
-

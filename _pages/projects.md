@@ -18,7 +18,7 @@ The overarching objective of this Critical Resilient Interdependent Infrastructu
 
 ### Overcoming Social and Technical Barriers for the Broad Adoption of Smart Stormwater Systems
 
-##### - Sponsor - Fational Science Foundation
+##### Sponsor - National Science Foundation
 ##### Role - Co-PI
 ##### PI - Branko Kerkez, University  of Michigan Ann Arbor
 
@@ -29,7 +29,7 @@ The overarching objective of this Critical Resilient Interdependent Infrastructu
 
 ##### Sponsor - National Science Foundation
 ##### Role - Co-PI
-##### PI - David Tarboton, Utah State
+##### PI - David Tarboton, Utah State University
 
 Water, its quality, quantity, accessibility, and management, is crucial to society.
 However, our ability to model and quantitatively understand the complex interwoven
@@ -138,4 +138,3 @@ from the data management requirements of the NSF Ocean Observatories Initiative
 for Advancement of Hydrologic Science (point data), engineering projects in education
 and CAD/CAM/CAE archives, the iPlant collaborative (genome databases), the Odum
 social science institute (statistics), and the NSF Science of Learning Centers.
-
