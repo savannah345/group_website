@@ -23,7 +23,7 @@ Our goal is to solve society’s most challenging water resources problems by us
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/house.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lawn2.jpg" alt="Slide 1" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/posters2.jpg" alt="Slide 1a" />
@@ -35,7 +35,7 @@ Our goal is to solve society’s most challenging water resources problems by us
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Essawy_Morsy.jpg" alt="Slide 5" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lawn2.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/house.jpg" alt="Slide 5" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/UVA_Rotunda2.jpg" alt="Slide 3" />

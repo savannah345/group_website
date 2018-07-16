@@ -29,8 +29,7 @@ For a full list see [below](#full-list) or go to [Google Scholar](https://schola
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
-  <p><a href="{{ publi.linkpdf.pdf }}">{{ publi.linkpdf.display }}</a></p>
+  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong>  ~  <strong><a href="{{ publi.linkpdf.pdf }}">{{ publi.linkpdf.display }}</a></strong></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
  </div>
@@ -57,6 +56,6 @@ For a full list see [below](#full-list) or go to [Google Scholar](https://schola
 
 {% for publi in site.data.publist %}
 
-  {{ publi.authors }}, {{ publi.title }}, <a href="{{ publi.link.url }}">{{ publi.link.display }}</a> <br /> <a href="{{ publi.linkpdf.pdf }}">{{ publi.linkpdf.display }} {{ publi.news2 }}
+  {{ publi.authors }}, {{ publi.title }}, {{ publi.description }}. <a href="{{ publi.link.url }}">{{ publi.link.display }}</a> ~ <a href="{{ publi.linkpdf.pdf }}">{{ publi.linkpdf.display }}</a> {{ publi.news2 }}
 
 {% endfor %}

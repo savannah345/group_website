@@ -38,7 +38,7 @@
   email: bdb3m@virginia.edu
   number_educ: 2
   education1: B.S. Environmental Science, Virginia Wesleyan College
-  education2: Ben is studying urban water infrastructure. His current research is on the response of groundwater levels to changing tidal and precipitation conditions in Norfolk, VA. This research will play an important role in regional-scale flood forecasting systems.
+  education2: Ben is studying urban water infrastructure. His current research is on the response of groundwater levels to changing tidal and precipitation conditions in Norfolk, VA. This research will play an important role in regional-scale flood forecasting systems in environments with a high groundwater table.
 
 - name: Alex Chen
   photo: chen.jpg
@@ -47,7 +47,7 @@
   number_educ: 3
   education1: B.S. Hydraulic and Ocean Engineering, National Cheng Kung University, Taiwan
   education2: M.S. Bioenvironmental Systems Engineering, National Taiwan University, Taiwan.
-  education3: Alex is currently researching smart stormwater management for coastal communities. 
+  education3: Alex is currently researching smart stormwater management for coastal communities. He has been investigating the use of Personal Weather Stations (PWS) for capturing rainfall during extreme weather events in Norfolk, VA.
 
 - name: Youngdon Choi
   photo: choi.png
@@ -65,7 +65,7 @@
   number_educ: 3
   education1: B.S. Civil Engineering, Sharif University, Iran
   education2: M.S. Civil Engineering, University of Tehran, Iran
-  education3: Iman is working on using power harvesting and dynamic power management for stream stage monitoring in flooding and water quality applications.
+  education3: Iman is working on using power harvesting and dynamic power management for water monitoring in flooding and water quality applications.
 
 - name: Gina O'Neil
   photo: gina-1.jpg
@@ -83,7 +83,7 @@
   number_educ: 3
   education1: B.S. CEE, Brigham Young University
   education2: M.S. CEE, Brigham Young University
-  education3: Jeff is currently researching the application of cyber-physical systems approaches for mitigating flooding events in Norfolk, VA.
+  education3: Jeff is currently researching the application of cyber-physical systems approaches for smart stormwater management to migitate flooding impacts. His work is uses watersheds in Norfolk, VA as testbeds.
 
 - name: Yawen Shen
   photo: Yawen-1.jpg
@@ -92,7 +92,7 @@
   number_educ: 3
   education1: B.S. Civil Engineering, Wuhan University, China
   education2: M.S. Civil Engineering, Georgia Tech
-  education3: Yaween is studying resilient infrastructure systems. His current work addresses the risk of flooding impacts to transportation infrastructure including bridges and culverts in particular. 
+  education3: Yaween is studying resilient infrastructure systems. His current work addresses the risk of flooding impacts to transportation infrastructure including bridges and culverts in particular. His current work is using 2D hydrodynamic models to simulate flooding in urban costal environments.
 
 - name: Faria Zahura
   photo: zahura.jpg
@@ -100,7 +100,7 @@
   email: fz7xb@virginia.edu
   number_educ: 2
   education1: B.S. Civil Engineering, Bangladesh University of Engineering and Technology (BUET)
-  education2: Faria is working on better understanding transportation disruptions due to flooding in the Hampton Roads region of Virginia.
+  education2: Faria is working on better understanding transportation disruptions due to flooding in the Hampton Roads region of Virginia using social media data like Google Waze.
 
 - name: Linnea Saby
   photo: saby.jpg
@@ -108,7 +108,7 @@
   email: ls3en@virginia.edu
   number_educ: 2
   education1: B.A. Environmental Studies, Guilford
-  education2: Linnea is studying watershed modeling and market-based pollution control. She is co-advised with Prof. Larry Band.
+  education2: Linnea is studying watershed modeling and market-based pollution control. She is currently working with VDOT to create a nutrient credit decision support system using ArcGIS Online. She is co-advised with Prof. Larry Band.
 
 #Undergrad Students
 
@@ -147,10 +147,21 @@
   number_educ: 1
   education1: Danny is building software for water and environmental management applications.
 
-
 - name: Meredith Sutton
   photo: Sutton3.jpg
   info: B.S. Student - Civil and Environmental Engineering
   email: mks7ad@virginia.edu
   number_educ: 1
   education1: Meredith is researching the use of Python notebooks and HPC for hydrologic modeling.
+
+#name: Rodney Hawkings
+#  photo: Hawkins.jpg
+#  info: B.S. Student - Engineering
+#  number_educ: 1
+#  education1: Rodney is researching environmental justice issues related to sea level rise and flooding in coastal communities.
+#
+#- name: Sean Allen
+#  photo: Allen.jpg
+#  info: B.S. Student - Civil and Environmental Engineering
+#  number_educ: 1
+#  education1: Sean is researching the Things Network as a way to connect smart devices for stormwater monitoring.
