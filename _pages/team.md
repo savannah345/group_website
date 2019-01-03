@@ -23,7 +23,9 @@ Jump to [team](#team), [alumni](#alumni).
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
+  <i>{{ member.info }}<br />email: {{ member.email }}{% if member.website %} <br /> website: <a href="{{ member.website }}">{{ member.website }}</a> {% endif %}</i>
+
+
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
@@ -49,6 +51,7 @@ Jump to [team](#team), [alumni](#alumni).
   {% endif %}
 
   </ul>
+  <p>{{ member.statement }} </p>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
@@ -105,6 +108,8 @@ Jump to [team](#team), [alumni](#alumni).
   {% endif %}
 
   </ul>
+
+  <p>{{ member.statement }} </p>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}

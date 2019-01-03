@@ -56,6 +56,9 @@ For a full list see [below](#full-list) or go to [Google Scholar](https://schola
 
 {% for publi in site.data.publist %}
 
-  {{ publi.authors }}, {{ publi.title }}, {{ publi.description }}. <a href="{{ publi.link.url }}">{{ publi.link.display }}</a> ~ <a href="{{ publi.linkpdf.pdf }}">{{ publi.linkpdf.display }}</a> {{ publi.news2 }}
+  <b>{{publi.title}}</b><br />
+  {{ publi.authors }}<br />
+  {{ publi.description }}, {{publi.date}}<br />
+  <a href="{{ publi.link.url }}">{{ publi.link.display }}</a> ~ <a href="{{ publi.linkpdf.pdf }}">{{ publi.linkpdf.display }}</a> {{ publi.news2 }}
 
 {% endfor %}

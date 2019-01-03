@@ -8,57 +8,83 @@
 #  education3:
 #  education4:
 
+- name: Edward Morgan
+  photo: morgan.jpg
+  email: ewm4bc@virginia.edu
+  number_educ: 1
+  education1: B.S., Computer Engineering
+  statement: Edward designed inexpensive, durable rainfall measurement devices for flood detection.
+
+- name: Mary-Michael Robertson
+  photo: marymichael.jpg
+  email: mr4rb@virginia.edu
+  number_educ: 1
+  education1: B.S., Civil and Environmental Engineering
+  statement: Mary-Michael researchered remote sensing and GIS-based methods for wetland screening.
+
+- name: Rodney Hawkings
+  photo: Hawkins.jpg
+  number_educ: 1
+  education1: B.S., Engineering
+  statement: Rodney researched environmental justice issues related to sea level rise and flooding in coastal communities.
+
+- name: Sean Allen
+  photo: Allen.jpg
+  number_educ: 1
+  education1: B.S., Civil and Environmental Engineering
+  statement: Sean explored the Things Network as a way to connect smart devices for stormwater monitoring.
+
 - name: Stuart Sheffield
   photo: sheffield.jpg
-  number_educ: 2
+  number_educ: 1
   education1: M.S, University of Virginia, 2016 with his thesis on creating distributed environmental decision support systems.
-  education2: Stuart is an engineer with <a href="https://bohlerengineering.com/">Bohler Engineering</a>.
+  statement: Stuart is an engineer with <a href="https://bohlerengineering.com/">Bohler Engineering</a>.
 
 - name: Mehmet Ercan
   photo: ercan.jpg
-  number_educ: 2
+  number_educ: 1
   education1: Ph.D., University of South Carolina-Columbia, 2015
-  education2: Mehmet was an engineer with ARCADIS after completing his Ph.D. degree. He is now an assistant professor at Inonu University in Turkey and a consultant for <a href="https://www.emnet.net">EmNet</a>.
+  statement: Mehmet was an engineer with ARCADIS after completing his Ph.D. degree. He is now an assistant professor at Inonu University in Turkey and a consultant for <a href="https://www.emnet.net">EmNet</a>.
 
 - name: Ben Felton
   photo: felton.jpg
-  number_educ: 2
+  number_educ: 1
   education1: M.S., University of Virginia, 2015 with his thesis on GIS and remote sensing approaches for wetland screening.
-  education2: Ben is now an engineer with <a href="http://amtengineering.com/">A. Morton Thomas and Associates</a>.
+  statement: Ben is now an engineer with <a href="http://amtengineering.com/">A. Morton Thomas and Associates</a>.
 
 - name: Alicia Nobles
   photo: nobles.jpg
-  number_educ: 2
+  number_educ: 1
   education1: M.S., University of Virginia, 2014 with her thesis on the cost effectiveness of structure best management practices compared to purchasing nutrient credits.
-  education2: Alicia is now a Ph.D. student in Systems and Information Engineering at the University of Virginia.
+  statement: Alicia completed her Ph.D. in Systems and Information Engineering at the University of Virginia. She is now a postdoc at UC-San Diego.
 
 
 - name: Md. Jahangir Alam
   photo: alam.jpg
-  number_educ: 2
+  number_educ: 1
   education1: Ph.D., University of South Carolina-Columbia, 2013
-  education2: Alam was an engineer with Arcadis after completing his PhD degree and is now an engineer with <a href="http://www.hazenandsawyer.com/">Hazen and Sawyer</a>.
+  statement: Alam was an engineer with Arcadis after completing his PhD degree and is now an engineer with <a href="http://www.hazenandsawyer.com/">Hazen and Sawyer</a>.
 
 - name: Phillis Mbewe
   photo: mbewe.jpg
-  number_educ: 2
+  number_educ: 1
   education1: M.E., University of South Carolina-Columbia, 2013
-  education2: Phillis is now an engineer with <a href="http://www.naismith-engineering.com/">Naismith Engineering</a>
+  statement: Phillis is now an engineer with <a href="http://www.naismith-engineering.com/">Naismith Engineering</a>
 
 - name: Mirza Billah
   photo: billah.jpg
-  number_educ: 2
+  number_educ: 1
   education1: Ph.D., University of South Carolina-Columbia, 2013
-  education2: Mirza is now a hydrologist with the <a href="https://www.sfwmd.gov/">South Flordia Water Management District</a>.
+  statement: Mirza is now a hydrologist with the <a href="https://www.sfwmd.gov/">South Florida Water Management District</a>.
 
 - name: Mostafa Elag
   photo: elag.jpg
-  number_educ: 2
+  number_educ: 1
   education1: Ph.D., University of South Carolina-Columbia, 2013
-  education2: Mostafa is now an engineer at <a href="https://www.arcadis.com/en/united-states/">Arcadis</a>
+  statement: Mostafa is now an engineer at <a href="https://www.arcadis.com/en/united-states/">Arcadis</a>
 
 - name: Tony Castronova
   photo: castronova.jpg
-  number_educ: 2
+  number_educ: 1
   education1: Ph.D., University of South Carolina-Columbia
-  education2: Tony is now a hydrologist at <a href="https://www.cuahsi.org/">CUAHSI</a>
+  statement: Tony is now a hydrologist at <a href="https://www.cuahsi.org/">CUAHSI</a>

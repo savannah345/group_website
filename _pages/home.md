@@ -6,8 +6,12 @@ sitemap: false
 permalink: /
 ---
 
-
-Our goal is to solve society’s most challenging water resources problems by using concepts from <a href="https://en.wikipedia.org/wiki/Cyber-physical_system">cyber-physical systems</a> to advance understanding, analysis, and management of built and natural water systems. We are housed within the interdisciplinary [Link Lab](http://linklab.virginia.edu/), a cross-cutting initiative within the [Engineering School](https://engineering.virginia.edu/) at the [University of Virginia](https://engineering.virginia.edu/) that brings together faculty and students from across five departments with a shared focus on cyber-physical systems.
+<p align="left" padding-bottom="5px">
+<b>Welcome to the Hydroinformatics Research Group at the University of Virginia</b>
+</p>
+<p align="left" padding-bottom="10px">
+ We are a team of researchers exploring new ways to bring advancements in computing and informatics to society's most challenging water resources management problems.  
+</p>
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -18,6 +22,10 @@ Our goal is to solve society’s most challenging water resources problems by us
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
+        <li data-target="#carousel" data-slide-to="5"></li>
+        <li data-target="#carousel" data-slide-to="6"></li>
+        <li data-target="#carousel" data-slide-to="7"></li>
+        <li data-target="#carousel" data-slide-to="8"></li>
     </ol>
 
     <!-- Items -->
@@ -26,22 +34,25 @@ Our goal is to solve society’s most challenging water resources problems by us
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lawn2.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/posters2.jpg" alt="Slide 1a" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/posters2.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/hiking.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/hiking.jpg" alt="Slide 3" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/UVA_Rotunda2.jpg" alt="Slide 4" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Essawy_Morsy.jpg" alt="Slide 5" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/house.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/AGU_2018.jpg" alt="Slide 6" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/UVA_Rotunda2.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Thornton_Hall.jpg" alt="Slide 7" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Thornton_Hall.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/house.jpg" alt="Slide 8" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -55,18 +66,6 @@ Our goal is to solve society’s most challenging water resources problems by us
 </div>
 
 
-
-
-<!--Our Research is focused in three main areas: Hydroinformatics, Integrated Environmental Modeling, and Resilient Infrastructure System. For more information about these see [the Research page](research).
-We are located at the University of Virginia in Charlottesville, Virginia. Within the University we collaborate with [the Link Lab](https://linklab.virginia.edu/).-->
-
-
-
-<!---We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).--->
-
-<!---<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/University_of_Virginia_Logo.jpg" style="width: 210px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/UVA-Engineering.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dummy.png" style="width: 120px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/dummy.png" style="width: 110px">
-</figure>--->
+<p align="left">
+Our group is housed within the interdisciplinary [Link Lab](http://linklab.virginia.edu/), a 17,000 square foot laboratory in the [Engineering School](https://engineering.virginia.edu/) at the [University of Virginia](https://engineering.virginia.edu/) that brings together faculty and students from across departments and disciplines with a shared interest in cyber-physical systems.
+</p>
