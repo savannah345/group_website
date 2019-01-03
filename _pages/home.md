@@ -6,10 +6,10 @@ sitemap: false
 permalink: /
 ---
 
-<p align="left" padding-bottom="5px">
-<b>Welcome to the Hydroinformatics Research Group at the University of Virginia</b>
-</p>
-<p align="left" padding-bottom="10px">
+
+<h2>Welcome to the Hydroinformatics Research Group at the University of Virginia</h2>
+
+<p align="center" padding-bottom="10px">
  We are a team of researchers exploring new ways to bring advancements in computing and informatics to society's most challenging water resources management problems.  
 </p>
 
@@ -66,6 +66,6 @@ permalink: /
 </div>
 
 
-<p align="left">
+<p align="center">
 Our group is housed within the interdisciplinary [Link Lab](http://linklab.virginia.edu/), a 17,000 square foot laboratory in the [Engineering School](https://engineering.virginia.edu/) at the [University of Virginia](https://engineering.virginia.edu/) that brings together faculty and students from across departments and disciplines with a shared interest in cyber-physical systems.
 </p>
