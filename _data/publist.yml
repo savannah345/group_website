@@ -62,19 +62,6 @@
     display: Preprint
   highlight: 1
 
-- title: A cloud-based flood warning system for forecasting impacts to transportation infrastructure systems
-  image: morsy_2018.jpg
-  description: Environ. Modell. Softw., doi:10.1016/j.envsoft.2018.05.007
-  date: May 2018
-  authors: Morsy, M.M., Goodall, J.L., O’Neil, G.L., Sadler, J.M., Voce, D., Hassan, G., and C. Huxley
-  link:
-    url: http://dx.doi.org/10.1016/j.envsoft.2018.05.007
-    display: Final Article
-  linkpdf:
-    pdf: http://faculty.virginia.edu/goodall/Morsy_EMS_2018_Preprint.pdf
-    display: Preprint
-  highlight: 1
-
 - title: Modeling urban coastal flood severity from crowd-sourced flood reports using Poisson regression and Random Forest
   image: sadler_2018.jpg
   description: J. Hydrol., 559, 43–55, doi:10.1016/j.jhydrol.2018.01.044
