@@ -6,7 +6,7 @@ sitemap: false
 permalink: /projects/
 ---
 
-# Current and Recent Projects
+# Example Current and Recent Projects
 
 ### dMIST: Data-driven Management for Interdependent Stormwater and Transportation Systems
 

@@ -1,12 +1,11 @@
-#- name:
-#  photo: rock.jpg
-#  info:
-#  email:
-#  number_educ:
-#  education1:
-#  education2:
-#  education3:
-#  education4:
+# Alumni
+
+- name: Julia Davatzes
+  photo: Julia-Davatzes.jpg
+  email: jad4tm@virginia.edu
+  number_educ: 1
+  education1: B.S., Civil and Environmental Engineering
+  statement: Julia researched coastal infrastructure resilience focusing on the Hampton Roads region of Virginia.
 
 - name: Edward Morgan
   photo: morgan.jpg
@@ -20,7 +19,7 @@
   email: mr4rb@virginia.edu
   number_educ: 1
   education1: B.S., Civil and Environmental Engineering
-  statement: Mary-Michael researchered remote sensing and GIS-based methods for wetland screening.
+  statement: Mary-Michael researched remote sensing and GIS-based methods for wetland screening.
 
 - name: Rodney Hawkings
   photo: Hawkins.jpg

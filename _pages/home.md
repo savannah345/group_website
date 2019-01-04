@@ -31,28 +31,28 @@ permalink: /
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/lawn2.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/lawn2.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/posters2.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/posters2.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/hiking.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/hiking.jpg" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/UVA_Rotunda2.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/UVA_Rotunda2.jpg" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Essawy_Morsy.jpg" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/Essawy_Morsy.jpg" alt="Slide 5" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/AGU_2018.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/AGU_2018.jpg" alt="Slide 6" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Thornton_Hall.jpg" alt="Slide 7" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/Thornton_Hall.jpg" alt="Slide 7" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/house.jpg" alt="Slide 8" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/house.jpg" alt="Slide 8" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -67,5 +67,9 @@ permalink: /
 
 
 <p align="center">
-Our group is housed within the interdisciplinary [Link Lab](http://linklab.virginia.edu/), a 17,000 square foot laboratory in the [Engineering School](https://engineering.virginia.edu/) at the [University of Virginia](https://engineering.virginia.edu/) that brings together faculty and students from across departments and disciplines with a shared interest in cyber-physical systems.
+Our group is housed within the interdisciplinary [Link Lab](http://linklab.virginia.edu/), a 17,000 square foot laboratory in the [Engineering School](https://engineering.virginia.edu/) at the [University of Virginia](https://engineering.virginia.edu/) that brings together faculty and students from across departments and disciplines with a shared interest in cyber-physical systems. If you are interested in joining our group, please check out our <a href="{{ site.url }}{{ site.baseurl }}/openings">openings</a>.
+</p>
+
+<p align="center">
+In addition to the material on this website, we also maintain a <a href="https://github.com/uva-hydroinformatics" target="_blank" >Github organization<a/> where much of the the code resulting from our research is released free and open source.
 </p>
