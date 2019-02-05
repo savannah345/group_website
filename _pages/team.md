@@ -23,7 +23,7 @@ Jump to [team](#team), [alumni](#alumni).
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br />email: {{ member.email }}{% if member.website %} <br /> website: <a href="{{ member.website }}">{{ member.website }}</a> {% endif %}</i>
+  <i>{{ member.info }}<br />email: {{ member.email }}{% if member.website %} <br /> {{ member.website }} {% endif %}</i>
 
 
   <ul style="overflow: hidden">

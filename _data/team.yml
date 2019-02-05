@@ -4,6 +4,7 @@
   photo: goodall.jpg
   info: Associate Professor, Civil Engineering
   email: goodall@virginia.edu
+  website: <a href="https://engineering.virginia.edu/faculty/jonathan-l-goodall">UVA webpage</a>
   number_educ: 3
   education1: Ph.D., Civil Engineering, University of Texas at Austin, 2005, Adviser <a href="http://www.caee.utexas.edu/prof/maidment/CAEE/maidment.htm">David R. Maidment</a>
   education2: MS, Civil Engineering, University of Texas at Austin, 2003
@@ -82,7 +83,7 @@
   photo: sadler.jpg
   info: Ph.D. Candidate
   email: jms3fb@virginia.edu
-  website: http://jsadler2.github.io/
+  website: <a href="http://jsadler2.github.io">jsadler2.github.io</a>
   number_educ: 2
   education1: B.S. CEE, Brigham Young University
   education2: M.S. CEE, Brigham Young University
@@ -128,10 +129,3 @@
   email: dav3nu@virginia.edu
   number_educ: 0
   statement: Danny is building software for water and environmental management applications.
-
-- name: Meredith Sutton
-  photo: Sutton3.jpg
-  info: B.S. Student - Civil and Environmental Engineering
-  email: mks7ad@virginia.edu
-  number_educ: 0
-  statement: Meredith is researching the use of Python notebooks and HPC for hydrologic modeling.
