@@ -114,6 +114,17 @@
   education1: B.A. Environmental Studies, Guilford
   statement: Linnea is studying watershed modeling and market-based pollution control. She is currently working with VDOT to create a nutrient credit decision support system using ArcGIS Online. She is co-advised with Prof. Larry Band.
 
+#Masters students
+
+- name: Xiafei Yang
+  photo: yang.jpg
+  info: M.S. Student
+  email: xy2wf@virginia.edu
+  number_educ: 1
+  education1: B.S. Electrical Engineering and B.A. Physics, University of Virginia
+  statement: Xiafei is studying smart stormwater system, incorporated with the idea of Internet of Things (IoT) and cyber-physical systems (CPS), to monitor and control moisture content at bioretention basins through long-distance wireless communication network.
+
+
 #Undergrad Students
 
 - name: Imaan Hameed
