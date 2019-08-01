@@ -1,11 +1,62 @@
 # Alumni
 
+- name: Gina O'Neil
+  photo: gina-1.jpg
+  email: glo6ck@virginia.edu
+  number_educ: 3
+  education1: Ph.D CE, University of Virginia
+  education2: M.S. CE, University of Virginia
+  education3: B.S. CE, University of Virginia
+  statement: Gina completed her PhD exploring data science and machine learning approaches for wetland delineation using LiDAR. She now works for <a href="https://www.esri.com">ESRI</a> in Denver, CO.
+
+- name: Jeff Sadler
+  photo: sadler.jpg
+  email: jms3fb@virginia.edu
+  website: <a href="http://jsadler2.github.io">jsadler2.github.io</a>
+  number_educ: 3
+  education1: Ph.D. CE, University of Virginia
+  education2: M.S. CE, Brigham Young University
+  education3: B.S. CE, Brigham Young University
+  statement: Jeff completed his PhD in the use of cyber-physical system approaches for smart stormwater management to mitigate flooding impacts. He currently is a postdoc with the USGS in Middleton, WI as part of the <a href="https://owi.usgs.gov/datascience/">USGS Office of Water Information (OWI) Data Science team</a>through a Mendenhall Research Fellowship.
+
+- name: Imaan Hameed
+  photo: hameed.jpg
+  email: mih7gf@virginia.edu
+  number_educ: 1
+  education1: B.S. SE, University of Virginia
+  statement: Imaan designed an inexpensive, IoT rain measurement and data communication system.
+
+- name: Danny Voce
+  photo: voce.jpg
+  email: dav3nu@virginia.edu
+  number_educ: 1
+  education1: B.S. CS, University of Virginia
+  statement: Danny helped to build software for water and environmental management applications. He is now a Python Developer at Palo Alto Networks.
+
+- name: Mohamed Morsy
+  photo: morsy.jpg
+  email: mmm4dh@virginia.edu
+  number_educ: 3
+  education1: Ph.D., CE, University of Virginia
+  education2: M.S. CE, Cairo University, Egypt
+  education3: B.S. CE, Cairo University, Egypt
+  statement: Mohamed completed his PhD at UVA working on the HydroShare project, researching ways to represent hydrologic models within a resource-based hydrologic information system, and designing a flood warning system for VDOT. After serving as a postdoc at UVA, he joined <a href="http://www.dewberry.com">Dewberry</a> in 2019 as a hydrologic modeler.
+
+- name: Bakinam Essawy
+  photo: essawy.jpg
+  email: bte2rn@virginia.edu
+  number_educ: 3
+  education1: Ph.D., CE, University of Virginia
+  education2: M.S. CEE, Cairo University, Egypt
+  education3: B.S. CEE, Cairo University, Egypt
+  statement: Bakinam completed her PhD at UVA on modeling regional-scale hydrologic systems to understand water availability and drought. Her work is part of the DataNet Federation Consortium (DFC) project using iRODS to create workflows for hydrologic modeling. After serving as a postdoc at UVA, she joined <a href="http://www.dewberry.com">Dewberry</a> in 2019 as part of their resilience group.
+
 - name: Meredith Sutton
   photo: Sutton3.jpg
-  info: B.S. Student - Civil and Environmental Engineering
   email: mks7ad@virginia.edu
-  number_educ: 0
-  statement: Meredith researched the use of Python notebooks and HPC for hydrologic modeling. She also assisted in creating our group and project webpages. 
+  number_educ: 1
+  education1: B.S., Civil and Environmental Engineering
+  statement: Meredith researched the use of Python notebooks and HPC for hydrologic modeling. She also assisted in creating our group and project webpages.
 
 - name: Julia Davatzes
   photo: Julia-Davatzes.jpg
@@ -43,8 +94,8 @@
 - name: Stuart Sheffield
   photo: sheffield.jpg
   number_educ: 1
-  education1: M.S, University of Virginia, 2016 with his thesis on creating distributed environmental decision support systems.
-  statement: Stuart is an engineer with <a href="https://bohlerengineering.com/">Bohler Engineering</a>.
+  education1: M.S, University of Virginia, 2016
+  statement: Stuart completed his thesis on creating distributed environmental decision support systems. He is now an engineer with <a href="https://bohlerengineering.com/">Bohler Engineering</a>.
 
 - name: Mehmet Ercan
   photo: ercan.jpg
@@ -55,15 +106,14 @@
 - name: Ben Felton
   photo: felton.jpg
   number_educ: 1
-  education1: M.S., University of Virginia, 2015 with his thesis on GIS and remote sensing approaches for wetland screening.
-  statement: Ben is now an engineer with <a href="http://amtengineering.com/">A. Morton Thomas and Associates</a>.
+  education1: M.S., University of Virginia, 2015
+  statement: Ben completed  his thesis on GIS and remote sensing approaches for wetland screening. He is now an engineer with <a href="http://amtengineering.com/">A. Morton Thomas and Associates</a>.
 
 - name: Alicia Nobles
   photo: nobles.jpg
   number_educ: 1
-  education1: M.S., University of Virginia, 2014 with her thesis on the cost effectiveness of structure best management practices compared to purchasing nutrient credits.
-  statement: Alicia completed her Ph.D. in Systems and Information Engineering at the University of Virginia. She is now a postdoc at UC-San Diego.
-
+  education1: M.S., University of Virginia, 2014
+  statement: Alicia completed her M.S. thesis with her thesis on the cost effectiveness of structure best management practices compared to purchasing nutrient credits. She then completed a Ph.D. in Systems and Information Engineering at the University of Virginia and is now a postdoc at UC-San Diego.
 
 - name: Md. Jahangir Alam
   photo: alam.jpg
@@ -75,7 +125,7 @@
   photo: mbewe.jpg
   number_educ: 1
   education1: M.E., University of South Carolina-Columbia, 2013
-  statement: Phillis is now an engineer with <a href="http://www.naismith-engineering.com/">Naismith Engineering</a>
+  statement: Phillis is now an engineer with <a href="https://www.lja.com">LJA Engineering, Inc</a>
 
 - name: Mirza Billah
   photo: billah.jpg

@@ -13,10 +13,75 @@
   #news2:
   #news1: <a style="color:#FF0000; text-decoration:underline" href="http://science.sciencemag.org/content/345/6203/twil">News item in Science</a>
 
+- title: Leveraging open source software and parallel computing for model predictive control of urban drainage systems using EPA-SWMM5
+  image: blank.jpg
+  description: Environmental Modelling and Software, doi:10.1016/j.envsoft.2019.07.009
+  date: In Press
+  authors: J. M. Sadler, J. L. Goodall, M. Behl, M. M. Morsy, T. Culver, and B. D. Bowes
+  link:
+    url: https://doi.org/10.1016/j.envsoft.2019.07.009
+    display: Final Article
+  linkpdf:
+    pdf: http://faculty.virginia.edu/goodall/Sadler_EMS_2019_Preprint.pdf
+    display: Preprint
+  highlight: 0
+
+- title: Precipitation Extremes and Flood Frequency in a Changing Climate in Southeastern Virginia
+  image: blank.jpg
+  description: Journal of American Water Resources Association, 55(4), doi:10.1111/1752-1688.12752
+  date: August 2019
+  authors: V. Sridhar, P. Modi, M. M. Billah, P. Valayamkunnath, and J. L. Goodall
+  link:
+    url: https://doi.org/10.1111/1752-1688.12752
+    display: Final Article
+  linkpdf:
+    pdf: http://faculty.virginia.edu/goodall/Sridhar_JAWRA_2019_Preprint.pdf
+    display: Preprint
+  highlight: 0
+
+- title: Using Random Forest Classification and Nationally Available Geospatial Data to Screen for Wetlands over Large Geographic Regions
+  image: blank.jpg
+  description: Water, 11(6), 1158, doi:10.3390/w11061158
+  date: June 2019
+  authors: B. R. Felton, G. L. O’Neil, M. M. Robertson, G. M. Fitch, J. L. Goodall
+  link:
+    url: https://doi.org/10.3390/w11061158
+    display: Final Article
+  linkpdf:
+    pdf: http://faculty.virginia.edu/goodall/Felton_Water_2019_Preprint.pdf
+    display: Preprint
+  highlight: 0
+
+- title: Effects of LiDAR DEM Smoothing and Conditioning Techniques on a Topography‐Based Wetland Identification Model
+  image: blank.jpg
+  description: Water Resources Research, 55(5), doi:10.1029/2019WR024784
+  date: May 2019
+  authors: G. L. O'Neil  L. Saby  L. E. Band, and J. L. Goodall
+  link:
+    url: https://doi.org/10.1029/2019WR024784
+    display: Final Article
+  linkpdf:
+    pdf: http://faculty.virginia.edu/goodall/ONeil_WRR_2019_Preprint.pdf
+    display: Preprint
+  highlight: 0
+
+- title: Forecasting Groundwater Table in a Flood Prone Coastal City with Long Short-term Memory and Recurrent Neural Networks
+  image: blank.jpg
+  description: Water, 11(5), 1098, doi:10.3390/w11051098
+  date: May 2019
+  authors: B. D. Bowes, J. M. Sadler, M. M. Morsy, M. Behl, and J. L. Goodall
+  link:
+    url: https://doi.org/10.3390/w11051098
+    display: Final Article
+  linkpdf:
+    pdf: http://faculty.virginia.edu/goodall/Bowes_Water_2019_Preprint.pdf
+    display: Preprint
+  highlight: 0
+
 - title: Condition State Based Civil infrastructure deterioration model on a structure system level
   image: blank.jpg
-  description: J. Infrastruct. Syst., doi:10.1061/(ASCE)IS.1943-555X.0000459
-  date: In Press
+  description: J. Infrastruct. Syst., 25(1), doi:10.1061/(ASCE)IS.1943-555X.0000459
+  date: March 2019
   authors: Shen, Y., Goodall, J.L., and Chase, S.B.
   link:
     url: https://doi.org/10.1061/(ASCE)IS.1943-555X.0000459

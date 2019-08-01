@@ -9,9 +9,10 @@ permalink: /publications/
 
 # Publications
 
-## Highlights
+ For citation data, please see [Google Scholar](https://scholar.google.com/citations?sortby=pubdate&user=M9aKXDwAAAAJ).
 
-For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?sortby=pubdate&user=M9aKXDwAAAAJ)
+<!--
+## Highlights
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -52,7 +53,7 @@ For a full list see [below](#full-list) or go to [Google Scholar](https://schola
 <p> &nbsp; </p>
 
 
-## Full List
+## Full List -->
 
 {% for publi in site.data.publist %}
 

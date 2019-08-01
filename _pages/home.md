@@ -7,13 +7,6 @@ permalink: /
 ---
 
 
-<h3>Welcome to the Hydroinformatics Research Group at the University of Virginia</h3>
-
-<p align="center" padding-bottom="10px">
- We are a team of researchers exploring new ways to bring advancements in computing and data science to society's most challenging water resources management problems.  
-</p>
-
-
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -69,11 +62,14 @@ permalink: /
   </a>
 </div>
 
-
-<p align="left">
-Our group is housed within the interdisciplinary [Link Lab](http://linklab.virginia.edu/), a 17,000 square foot laboratory in the [Engineering School](https://engineering.virginia.edu/) at the [University of Virginia](https://engineering.virginia.edu/) that brings together faculty and students from across departments and disciplines with a shared interest in cyber-physical systems. If you are interested in joining our group, please check out our <a href="{{ site.url }}{{ site.baseurl }}/openings">openings</a>.
+<p align="left" padding-bottom="10px">
+ We are a <a href="{{ site.url }}{{ site.baseurl }}/team">team of researchers</a> under the direction of <a href="https://engineering.virginia.edu/faculty/jonathan-l-goodall">Professor Jonathan Goodall<a/> exploring new ways to bring advancements in computing and data science to society's most challenging water resources management problems.
 </p>
 
 <p align="left">
-In addition to the material on this website, we also maintain a <a href="https://github.com/uva-hydroinformatics" target="_blank" >Github organization<a/> where much of the the code resulting from our research is released free and open source.
+Our group is housed within the interdisciplinary [Link Lab](http://linklab.virginia.edu/), a 17,000 square foot laboratory in the [Engineering School](https://engineering.virginia.edu/) at the [University of Virginia](https://engineering.virginia.edu/) that brings together faculty and students with a shared interest in cyber-physical systems. If you are interested in joining our group, please check out our <a href="{{ site.url }}{{ site.baseurl }}/openings">openings</a>.
+</p>
+
+<p align="left">
+In addition to the <a href="{{ site.url }}{{ site.baseurl }}/publications">publications</a>, general <a href="{{ site.url }}{{ site.baseurl }}/research">research interests</a>, and <a href="{{ site.url }}{{ site.baseurl }}/projects">example projects</a> on this site, we also maintain a <a href="https://github.com/uva-hydroinformatics" target="_blank" >Github organization<a/> where much of the the code resulting from our research is released free and open source.
 </p>
