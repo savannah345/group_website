@@ -6,9 +6,12 @@ sitemap: false
 permalink: /projects/
 ---
 
-# Example Current and Recent Projects
+### Selected Projects
 
-### dMIST: Data-driven Management for Interdependent Stormwater and Transportation Systems
+Below are selected current and past  funded resarch projects that are representative of our group's work.
+
+<hr>
+#### dMIST: Data-driven Management for Interdependent Stormwater and Transportation Systems
 
 ##### Sponsor - National Science Foundation
 ##### Role - PI
@@ -16,7 +19,8 @@ permalink: /projects/
 
 The overarching objective of this Critical Resilient Interdependent Infrastructure Systems and Processes (CRISP) research project is to create a novel decision support system denoted dMIST (Data-driven Management for Interdependent Stormwater and Transportation Systems) to improve management of interdependent transportation and stormwater infrastructure systems. dMIST is designed specifically to address the critical problem of recurrent flooding caused by sea level rise and more frequent intense storms. The City of Norfolk, Virginia, a national leader in addressing the sea level rise challenge, will collaborate with the research team and serve as the project testbed. With sea level rise and more frequent intense storms, streets in many cities now flood multiple times per year. Flooding of roadways has cascading impacts to other infrastructure systems that depend on the road network including emergency services. Solving the problem of flooded roadways requires new tools capable of analyzing stormwater, transportation, and other infrastructure as interdependent systems. dMIST will be a recommendation system for assisting municipal decision makers and stakeholders in day-to-day operations to mitigate the short-term impacts of road flooding occurrences. It will also offer decision makers novel ways of testing "what if" scenarios that stretch across interdependent infrastructure systems in order to guide how large investments are used to adapt infrastructure systems to a more resilient future state. The core intellectual merit of this research is the advancement of a novel modeling and control framework called Data Predictive Control (DPC) for assisting decision makers in understanding and managing interdependent critical infrastructure systems (ICIs).
 
-### Overcoming Social and Technical Barriers for the Broad Adoption of Smart Stormwater Systems
+<hr>
+#### Overcoming Social and Technical Barriers for the Broad Adoption of Smart Stormwater Systems
 
 ##### Sponsor - National Science Foundation
 ##### Role - Co-PI
@@ -24,8 +28,8 @@ The overarching objective of this Critical Resilient Interdependent Infrastructu
 
  Stormwater infrastructure across the United States is approaching the end of its design life, which results in more flooding and degraded water quality. Instead of building new and bigger stormwater infrastructure, which is cost prohibitive for many communities, it is possible to use existing infrastructure more effectively. The goal of this proposal is to enable the next generation of smart and connected stormwater systems, which use sensors to anticipate changes in weather and the urban landscape, and adapt their operation using active flow controls (e.g., gates, valves, pumps). This will drastically improve community resilience to floods and water quality. Equipping stormwater systems with low-cost sensors and controllers will provide a cost-effective solution to transform infrastructure from static to adaptive, permitting it to be automated and instantly reconfigured to respond to changing community needs and preferences. This research will address a truly national-scale infrastructure challenge and will lay the foundation upon which to empower and educate communities to adopt smart and autonomous stormwater solutions.
 
-
-### An Interactive Software Infrastructure for Sustaining Collaborative Community Innovation in the Hydrologic Sciences
+<hr>
+#### An Interactive Software Infrastructure for Sustaining Collaborative Community Innovation in the Hydrologic Sciences
 
 ##### Sponsor - National Science Foundation
 ##### Role - Co-PI
@@ -54,7 +58,8 @@ to allow better understanding of the impacts of climate change (i.e., floods, dr
 biofuels, etc.) and to allow improved water resource development and the management
 of freshwater resources both above and below ground.
 
-### Using the Cloud to Model and Manage Large Watershed Systems
+<hr>
+#### Using the Cloud to Model and Manage Large Watershed Systems
 
 ##### Sponsor - National Science Foundation
 ##### Role - PI
@@ -70,7 +75,8 @@ impacts of climate change on water resources. This research project addresses fu
 issues with regard to understanding how a cloud computing paradigm can and should
 be used to model hydrologic systems and other scientific applications.
 
-### Simulation of Integrated Urban Infrastructure Systems using Component-based Modeling
+<hr>
+#### Simulation of Integrated Urban Infrastructure Systems using Component-based Modeling
 
 ##### Sponsor - National Science Foundation
 ##### Role - PI
@@ -92,7 +98,8 @@ various modeling components representing civil infrastructure system? (3) Do sim
 of integrated civil infrastructure lead to effective decisions for the management
 and operation of urban infrastructure systems?
 
-### CAREER - Integrated Modeling for Watershed Management
+<hr>
+#### CAREER - Integrated Modeling for Watershed Management
 
 ##### Sponsor - National Science Foundation
 ##### Role - PI
@@ -120,7 +127,8 @@ foster a community of integrated watershed modelers. If successful, this project
 will provide important guidance to integrated watershed modeling activities in the
 U.S. and abroad.
 
-### DataNet Federation Consortium
+<hr>
+#### DataNet Federation Consortium
 
 ##### Sponsor - National Science Foundation
 ##### Role - Co-PI

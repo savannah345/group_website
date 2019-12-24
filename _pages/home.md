@@ -6,6 +6,9 @@ sitemap: false
 permalink: /
 ---
 
+<p align="left" padding-bottom="10px">
+ We are a <a href="{{ site.url }}{{ site.baseurl }}/team">team of researchers</a> at the [University of Virginia](https://www.virginia.edu/) exploring new ways to bring advancements in computing and data science to society's most challenging water resources management problems.
+</p>
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -17,9 +20,6 @@ permalink: /
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
         <li data-target="#carousel" data-slide-to="6"></li>
-        <li data-target="#carousel" data-slide-to="7"></li>
-        <li data-target="#carousel" data-slide-to="8"></li>
-        <li data-target="#carousel" data-slide-to="9"></li>
     </ol>
 
     <!-- Items -->
@@ -42,15 +42,6 @@ permalink: /
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/Essawy_Morsy.jpg" alt="Slide 6" />
         </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/AGU_2018.jpg" alt="Slide 7" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/Thornton_Hall.jpg" alt="Slide 8" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/house.jpg" alt="Slide 9" />
-        </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -62,12 +53,8 @@ permalink: /
   </a>
 </div>
 
-<p align="left" padding-bottom="10px">
- We are a <a href="{{ site.url }}{{ site.baseurl }}/team">team of researchers</a> under the direction of <a href="https://engineering.virginia.edu/faculty/jonathan-l-goodall">Professor Jonathan Goodall<a/> exploring new ways to bring advancements in computing and data science to society's most challenging water resources management problems.
-</p>
-
 <p align="left">
-Our group is housed within the interdisciplinary [Link Lab](http://linklab.virginia.edu/), a 17,000 square foot laboratory in the [Engineering School](https://engineering.virginia.edu/) at the [University of Virginia](https://engineering.virginia.edu/) that brings together faculty and students with a shared interest in cyber-physical systems. If you are interested in joining our group, please check out our <a href="{{ site.url }}{{ site.baseurl }}/openings">openings</a>.
+We are members of the interdisciplinary [Link Lab](http://linklab.virginia.edu/), a 17,000 square foot laboratory in the [Engineering School](https://engineering.virginia.edu/) at the University of Virginia that brings together faculty and students with a shared interest in cyber-physical systems. If you are interested in joining our team, please check out our <a href="{{ site.url }}{{ site.baseurl }}/openings">openings</a>.
 </p>
 
 <p align="left">

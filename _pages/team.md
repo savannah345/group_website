@@ -6,11 +6,7 @@ sitemap: false
 permalink: /team/
 ---
 
-# Group Members
-
-Jump to [team](#team), [alumni](#alumni).
-
-## Team
+### Current Team
 {% assign number_printed = 0 %}
 {% for member in site.data.team %}
 
@@ -25,32 +21,28 @@ Jump to [team](#team), [alumni](#alumni).
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br />email: {{ member.email }}{% if member.website %} <br /> {{ member.website }} {% endif %}</i>
 
-
-  <ul style="overflow: hidden">
-
   {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
+  <p>{{ member.education1 }} </p>
   {% endif %}
 
   {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
+  <p> {{ member.education1 }} <br />
+  {{ member.education2 }} </p>
   {% endif %}
 
   {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
+  <p> {{ member.education1 }} <br />
+  {{ member.education2 }} <br />
+  {{ member.education3 }} </p>
   {% endif %}
 
   {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
+  <p> {{ member.education1 }} </li>
+  {{ member.education2 }} <br />
+  {{ member.education3 }} <br />
+  {{ member.education4 }} </p>
   {% endif %}
 
-  </ul>
   <p>{{ member.statement }} </p>
 </div>
 
@@ -67,10 +59,7 @@ Jump to [team](#team), [alumni](#alumni).
 </div>
 {% endif %}
 
-
-
-
-## Alumni
+### Alumni
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni %}
 
@@ -83,31 +72,28 @@ Jump to [team](#team), [alumni](#alumni).
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
+  <p>{{ member.education1 }}</p>
   {% endif %}
 
   {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
+  <p>{{ member.education1 }} <br />
+  {{ member.education2 }} </p>
   {% endif %}
 
   {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
+  <p>{{ member.education1 }} <br />
+  {{ member.education2 }} <br />
+  {{ member.education3 }} </p>
   {% endif %}
 
   {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
+  <p>{{ member.education1 }} <br />
+  {{ member.education2 }} <br />
+  {{ member.education3 }} <br />
+  {{ member.education4 }} </p>
   {% endif %}
-
-  </ul>
 
   <p>{{ member.statement }} </p>
 </div>

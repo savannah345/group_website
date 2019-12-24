@@ -7,9 +7,9 @@ permalink: /publications/
 ---
 
 
-# Publications
+# Selected Publications
 
- For citation data, please see [Google Scholar](https://scholar.google.com/citations?sortby=pubdate&user=M9aKXDwAAAAJ).
+ For citation data and an up to date list of all publications, please see [Google Scholar](https://scholar.google.com/citations?sortby=pubdate&user=M9aKXDwAAAAJ).
 
 <!--
 ## Highlights
@@ -56,7 +56,7 @@ permalink: /publications/
 ## Full List -->
 
 {% for publi in site.data.publist %}
-
+  <hr>
   <b>{{publi.title}}</b><br />
   {{ publi.authors }}<br />
   {{ publi.description }}, {{publi.date}}<br />
