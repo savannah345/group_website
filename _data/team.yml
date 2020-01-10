@@ -29,7 +29,7 @@
   number_educ: 2
   education1: M.E. Civil Engineering, University of Virginia
   education2: B.S. Environmental Science, Virginia Wesleyan College
-  statement: Ben is studying urban water infrastructure. His current research is on the response of groundwater levels to changing tidal and precipitation conditions in Norfolk, VA. This research will play an important role in regional-scale flood forecasting systems in environments with a high groundwater table.
+  statement: Ben is studying urban water infrastructure. His current research is on coastal flooding, real-time flood warning, and smart stormwater management.
 
 - name: Alex Chen
   photo: chen.jpg
@@ -38,7 +38,7 @@
   number_educ: 2
   education1: M.S. Bioenvironmental Systems Engineering, National Taiwan University, Taiwan
   education2: B.S. Hydraulic and Ocean Engineering, National Cheng Kung University, Taiwan
-  statement: Alex is currently researching smart stormwater management for coastal communities. He has been investigating the use of Personal Weather Stations (PWS) for capturing rainfall during extreme weather events in Norfolk, VA.
+  statement: Alex is researching smart stormwater management for coastal communities. He has been investigating the use of crowdsourcing, in particular Personal Weather Stations (PWS), for capturing rainfall during extreme weather events in Norfolk, VA.
 
 - name: Youngdon Choi
   photo: choi.png
@@ -56,7 +56,7 @@
   number_educ: 2
   education1: M.S. Civil Engineering, University of Tehran, Iran
   education2: B.S. Civil Engineering, Sharif University, Iran
-  statement: Iman is working on using power harvesting and dynamic power management for water monitoring in flooding and water quality applications.
+  statement: Iman is working on using power harvesting and dynamic power management for smart water monitoring in flooding and water quality applications.
 
 - name: Faria Zahura
   photo: zahura.jpg
@@ -64,7 +64,7 @@
   email: fz7xb@virginia.edu
   number_educ: 1
   education1: B.S. Civil Engineering, Bangladesh University of Engineering and Technology (BUET)
-  statement: Faria is working on better understanding transportation disruptions due to flooding in the Hampton Roads region of Virginia using social media data like Google Waze.
+  statement: Faria is applying data science approaches to better understanding transportation disruptions due to flooding. Her work is focused on the Hampton Roads region of Virginia.
 
 - name: Linnea Saby
   photo: saby.jpg
@@ -73,7 +73,7 @@
   number_educ: 2
   education1: M.E. Civil Engineering, University of Virginia
   education2: B.A. Environmental Studies, Guilford
-  statement: Linnea is studying watershed modeling and market-based pollution control. She is currently working with VDOT to create a nutrient credit decision support system using ArcGIS Online. She is co-advised with Prof. Larry Band.
+  statement: Linnea's research is at the interface of water resources engineering, environmental science, data science, and policy. She is a School of Data Science Fellow and is co-advised with Prof. Larry Band.
 
 - name: Jake Nelson
   photo: nelson.jpg
@@ -82,15 +82,15 @@
   number_educ: 2
   education1: M.S. CEE, Brigham Young University
   education2: B.S. CEE, Brigham Young Univeristy
-  statement: Jake will be part of the Cyber-Physical Systems NRT program and his research will be on smart stormwater systems.
+  statement: Jake is part of the Cyber-Physical Systems NRT program and his research is focusing on smart stormwater systems.
 
 - name: Natalie Lerma
   photo: lerma.jpg
   info: Ph.D. Student
-  email: xxx@virginia.edu
+  email: nrl5fh@virginia.edu
   number_educ: 1
-  education2: B.S. Ocean Engineering, Texas A&M University
-  statement: Natalie will be part of the Cyber-Physical Systems NRT program and her research will focus on coastal flooding.
+  education1: B.S. Ocean Engineering, Texas A&M University - Galveston
+  statement: Natalie is part of the Cyber-Physical Systems NRT program and her research is focusing on coastal flooding.
 
 #Masters students
 

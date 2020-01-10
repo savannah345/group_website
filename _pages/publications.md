@@ -30,7 +30,13 @@ permalink: /publications/
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
-  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong>  ~  <strong><a href="{{ publi.linkpdf.pdf }}">{{ publi.linkpdf.display }}</a></strong></p>
+  <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong>  
+{% if publi.linkpdf %}
+  ~  
+{% endif %}
+<strong><a href="{{ publi.linkpdf.pdf }}">{{ publi.linkpdf.display }}
+
+  </a></strong></p>
   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   <p> {{ publi.news2 }}</p>
  </div>
@@ -60,6 +66,7 @@ permalink: /publications/
   <b>{{publi.title}}</b><br />
   {{ publi.authors }}<br />
   {{ publi.description }}, {{publi.date}}<br />
-  <a href="{{ publi.link.url }}">{{ publi.link.display }}</a> ~ <a href="{{ publi.linkpdf.pdf }}">{{ publi.linkpdf.display }}</a> {{ publi.news2 }}
-
+  <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  {% if publi.linkpdf.pdf %} ~  <a href="{{ publi.linkpdf.pdf }}">{{ publi.linkpdf.display }}</a> {% endif %}
+  {{ publi.news2 }}
 {% endfor %}

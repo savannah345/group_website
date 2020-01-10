@@ -7,7 +7,7 @@
   education1: Ph.D CE, University of Virginia
   education2: M.S. CE, University of Virginia
   education3: B.S. CE, University of Virginia
-  statement: Gina completed her PhD exploring data science and machine learning approaches for wetland delineation using LiDAR. She now works for <a href="https://www.esri.com">ESRI</a> in Denver, CO.
+  statement: Gina completed her PhD on data science and machine learning approaches for wetland delineation using LiDAR. She now works for <a href="https://www.esri.com">ESRI</a> in Denver, CO.
 
 - name: Jeff Sadler
   photo: sadler.jpg
@@ -17,7 +17,7 @@
   education1: Ph.D. CE, University of Virginia
   education2: M.S. CE, Brigham Young University
   education3: B.S. CE, Brigham Young University
-  statement: Jeff completed his PhD in the use of cyber-physical system approaches for smart stormwater management to mitigate flooding impacts. He currently is a postdoc with the USGS in Middleton, WI as part of the <a href="https://owi.usgs.gov/datascience/">USGS Office of Water Information (OWI) Data Science team</a>through a Mendenhall Research Fellowship.
+  statement: Jeff completed his PhD in the use of cyber-physical system approaches for smart stormwater management to mitigate flooding impacts. He currently is a postdoc with the USGS in Middleton, WI as part of the <a href="https://owi.usgs.gov/datascience/">USGS Office of Water Information (OWI) Data Science team</a> through a Mendenhall Research Fellowship.
 
 - name: Imaan Hameed
   photo: hameed.jpg
@@ -83,7 +83,7 @@
   photo: Hawkins.jpg
   number_educ: 1
   education1: B.S., Engineering
-  statement: Rodney researched environmental justice issues related to sea level rise and flooding in coastal communities.
+  statement: Rodney was a summer research exploring environmental justice issues related to sea level rise and flooding in coastal communities.
 
 - name: Sean Allen
   photo: Allen.jpg
@@ -101,19 +101,19 @@
   photo: ercan.jpg
   number_educ: 1
   education1: Ph.D., University of South Carolina-Columbia, 2015
-  statement: Mehmet was an engineer with ARCADIS after completing his Ph.D. degree. He is now an assistant professor at Inonu University in Turkey and a consultant for <a href="https://www.emnet.net">EmNet</a>.
+  statement: Mehmet was an engineer with ARCADIS after completing his Ph.D. degree. He is now an Assistant Professor at Inonu University in Turkey and a consultant for <a href="https://www.emnet.net">EmNet</a>.
 
 - name: Ben Felton
   photo: felton.jpg
   number_educ: 1
   education1: M.S., University of Virginia, 2015
-  statement: Ben completed  his thesis on GIS and remote sensing approaches for wetland screening. He is now an engineer with <a href="http://amtengineering.com/">A. Morton Thomas and Associates</a>.
+  statement: Ben completed his MS thesis on GIS and remote sensing approaches for wetland screening. He is now an engineer with <a href="http://amtengineering.com/">A. Morton Thomas and Associates</a>.
 
 - name: Alicia Nobles
   photo: nobles.jpg
   number_educ: 1
   education1: M.S., University of Virginia, 2014
-  statement: Alicia completed her M.S. thesis with her thesis on the cost effectiveness of structure best management practices compared to purchasing nutrient credits. She then completed a Ph.D. in Systems and Information Engineering at the University of Virginia and is now a postdoc at UC-San Diego.
+  statement: Alicia completed her M.S. thesis in civil engineering and then a Ph.D. in Systems and Information Engineering at the University of Virginia with Prof Barnes. She is now a an Assistant Professor at UC-San Diego.
 
 - name: Md. Jahangir Alam
   photo: alam.jpg
@@ -125,22 +125,22 @@
   photo: mbewe.jpg
   number_educ: 1
   education1: M.E., University of South Carolina-Columbia, 2013
-  statement: Phillis is now an engineer with <a href="https://www.lja.com">LJA Engineering, Inc</a>
+  statement: Phillis is an engineer with <a href="https://www.lja.com">LJA Engineering, Inc</a>.
 
 - name: Mirza Billah
   photo: billah.jpg
   number_educ: 1
   education1: Ph.D., University of South Carolina-Columbia, 2013
-  statement: Mirza is now a hydrologist with the <a href="https://www.sfwmd.gov/">South Florida Water Management District</a>.
+  statement: Mirza completed a postdoc at Virginia Tech and is now a hydrologist with the <a href="https://www.sfwmd.gov/">South Florida Water Management District</a>.
 
 - name: Mostafa Elag
   photo: elag.jpg
   number_educ: 1
   education1: Ph.D., University of South Carolina-Columbia, 2013
-  statement: Mostafa is now an engineer at <a href="https://www.arcadis.com/en/united-states/">Arcadis</a>
+  statement: Mostafa completed a postdoc at UIUC and is now an engineer at <a href="https://www.arcadis.com/en/united-states/">Arcadis</a>.
 
 - name: Tony Castronova
   photo: castronova.jpg
   number_educ: 1
   education1: Ph.D., University of South Carolina-Columbia
-  statement: Tony is now a hydrologist at <a href="https://www.cuahsi.org/">CUAHSI</a>
+  statement: Tony was a Research Assistant Professor at Utah State University and is now a hydrologist at <a href="https://www.cuahsi.org/">CUAHSI</a>.

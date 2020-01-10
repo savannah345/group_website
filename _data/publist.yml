@@ -46,10 +46,7 @@
   authors: B. R. Felton, G. L. O’Neil, M. M. Robertson, G. M. Fitch, J. L. Goodall
   link:
     url: https://doi.org/10.3390/w11061158
-    display: Final Article
-  linkpdf:
-    pdf: http://faculty.virginia.edu/goodall/Felton_Water_2019_Preprint.pdf
-    display: Preprint
+    display: Final Article (open access)
   highlight: 0
 
 - title: Effects of LiDAR DEM Smoothing and Conditioning Techniques on a Topography‐Based Wetland Identification Model
@@ -72,10 +69,7 @@
   authors: B. D. Bowes, J. M. Sadler, M. M. Morsy, M. Behl, and J. L. Goodall
   link:
     url: https://doi.org/10.3390/w11051098
-    display: Final Article
-  linkpdf:
-    pdf: http://faculty.virginia.edu/goodall/Bowes_Water_2019_Preprint.pdf
-    display: Preprint
+    display: Final Article (open access)
   highlight: 0
 
 - title: Condition State Based Civil infrastructure deterioration model on a structure system level
