@@ -13,10 +13,62 @@
   #news2:
   #news1: <a style="color:#FF0000; text-decoration:underline" href="http://science.sciencemag.org/content/345/6203/twil">News item in Science</a>
 
+- title: Exploring real-time control of stormwater systems for sea level rise
+  image: blank.jpg
+  description: Journal of Hydrology, doi:10.1016/j.jhydrol.2020.124571
+  date: 2020, In Press
+  authors: J. M. Sadler, J. L. Goodall, M. Behl, B. D. Bowes, and M. M. Morsy
+  link:
+    url: https://doi.org/10.1016/j.jhydrol.2020.124571
+    display: Final Article
+  linkpdf:
+    pdf: http://faculty.virginia.edu/goodall/Sadler_JoH_2020_Preprint.pdf
+    display: Preprint
+  highlight: 0
+
+- title: Quantifying background nitrate removal mechanisms in an agricultural watershed with contrasting subcatchment base-flow concentrations
+  image: blank.jpg
+  description: Journal of Environmental Quality, doi:10.2134/jeq2018.11.0408
+  date: 2020, In Press
+  authors: W. Zell, T. B. Culver, W. Sanford, J. L. Goodall
+  link:
+    url: https://doi.org/10.2134/jeq2018.11.0408
+    display: Final Article
+  linkpdf:
+    pdf: http://faculty.virginia.edu/goodall/Zell_JoEQ_2020_Preprint.pdf
+    display: Preprint
+  highlight: 0
+
+- title: Estimating potential climate change effects on the Upper Neuse Watershed water balance using the SWAT model
+  image: blank.jpg
+  description: Journal of the American Water Resources Association, doi:10.1111/1752-1688.12813
+  date: 2020, In Press
+  authors: M. B. Ercan,  I. Maghami,  B. D. Bowes,  M. M. Morsy, and J. L. Goodall
+  link:
+    url: https://doi.org/10.1111/1752-1688.12813
+    display: Final Article
+  linkpdf:
+    pdf: http://faculty.virginia.edu/goodall/Ercan_JAWRA_2019_Preprint.pdf
+    display: Preprint
+  highlight: 0
+
+- title: Flood risk assessment and increased resilience for coastal urban watersheds under the combined impact of storm tide and heavy rainfall
+  image: blank.jpg
+  description: Journal of Hydrology, doi:10.1016/j.jhydrol.2019.124159
+  date: December 2019
+  authors: Y. Shen,  M. M. Morsy,  C. Huxley,  N. Tahvildari, and J. L. Goodall
+  link:
+    url: https://doi.org/10.1016/j.jhydrol.2019.124159
+    display: Final Article
+  linkpdf:
+    pdf: http://faculty.virginia.edu/goodall/Shen_JoH_2019_Preprint.pdf
+    display: Preprint
+  highlight: 0
+
 - title: Leveraging open source software and parallel computing for model predictive control of urban drainage systems using EPA-SWMM5
   image: blank.jpg
-  description: Environmental Modelling and Software, doi:10.1016/j.envsoft.2019.07.009
-  date: In Press
+  description: Environmental Modelling & Software, doi:10.1016/j.envsoft.2019.07.009
+  date: October 2019
   authors: J. M. Sadler, J. L. Goodall, M. Behl, M. M. Morsy, T. Culver, and B. D. Bowes
   link:
     url: https://doi.org/10.1016/j.envsoft.2019.07.009
@@ -74,7 +126,7 @@
 
 - title: Condition State Based Civil infrastructure deterioration model on a structure system level
   image: blank.jpg
-  description: J. Infrastruct. Syst., 25(1), doi:10.1061/(ASCE)IS.1943-555X.0000459
+  description: Journal of Infrastructure Systems, 25(1), doi:10.1061/(ASCE)IS.1943-555X.0000459
   date: March 2019
   authors: Shen, Y., Goodall, J.L., and Chase, S.B.
   link:
@@ -87,7 +139,7 @@
 
 - title: A cloud-based flood warning system for forecasting impacts to transportation infrastructure systems
   image: blank.jpg
-  description: Environ. Modell. Softw., 107, 231-244. doi:10.1016/j.envsoft.2018.05.007
+  description: Environmental Modelling & Software, 107, 231-244. doi:10.1016/j.envsoft.2018.05.007
   date: September 2018
   authors: Morsy, M.M., Goodall, J.L., O’Neil, G.L., Sadler, J.M., Voce, D., Hassan, G., and C. Huxley
   link:
@@ -110,7 +162,7 @@
 
 - title: Integrating scientific cyberinfrastructure to improve reproducibility in computational hydrology - Example using HydroShare and GeoTrust
   image: essawy_2018.jpg
-  description: Environ. Modell. Softw., 105, pg 217-229, doi:10.1016/j.envsoft.2018.03.025
+  description: Environmental Modelling & Software, 105, pg 217-229, doi:10.1016/j.envsoft.2018.03.025
   date: July 2018
   authors: Essawy, B. Goodall, J.L., Zell, W. Voce, D., Morsy, M. M., Sadler, J.M., Yuan, Z. and Malik, T.
   link:
@@ -123,7 +175,7 @@
 
 - title: Modeling urban coastal flood severity from crowd-sourced flood reports using Poisson regression and Random Forest
   image: sadler_2018.jpg
-  description: J. Hydrol., 559, 43–55, doi:10.1016/j.jhydrol.2018.01.044
+  description: Journal of Hydrology, 559, 43–55, doi:10.1016/j.jhydrol.2018.01.044
   date: April 2018
   authors: Sadler, J.M., Goodall, J.L. and Spencer, K.
   link:
@@ -136,7 +188,7 @@
 
 - title: Evaluating the potential for site-specific modification of LiDAR DEM derivatives to improve environmental planning-scale wetland identification using Random Forest classification
   image: oneil_2018.jpg
-  description: J. Hydrol., 559, 192–208, doi:10.1016/j.jhydrol.2018.02.009
+  description: Journal of Hydrology, 559, 192–208, doi:10.1016/j.jhydrol.2018.02.009
   date: April 2018
   authors: O'Neil, G.L., Goodall, J.L. and Watson, L.T.
   link:
