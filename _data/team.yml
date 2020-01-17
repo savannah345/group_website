@@ -1,6 +1,6 @@
 #team
 
-- name: Jonathan Goodall
+- name: Jonathan L. Goodall, Ph.D., P.E.
   photo: goodall.jpg
   info: Professor
   email: goodall@virginia.edu
@@ -9,7 +9,7 @@
   education1: Ph.D., Civil Engineering, University of Texas at Austin, 2005, Adviser <a href="http://www.caee.utexas.edu/prof/maidment/CAEE/maidment.htm">David R. Maidment</a>
   education2: MS, Civil Engineering, University of Texas at Austin, 2003
   education3: BS, Civil Engineering, University of Virginia, 2001
-  statement: Professor Goodall directs the UVA Hydroinformatics Research Group and is a faculty member in the Department of Engineering Systems & Environment. He is also the Associate Director of the UVA Link Lab and an affiliated faculty member with the UVA Environmental Resilience Institute and Center for Transportation Studies.
+  statement: Professor Goodall directs the UVA Hydroinformatics Research Group and is a faculty member in the Department of Engineering Systems & Environment with a courtesy appointment in Computer Science. He is also serves as the Associate Director of the <a href="http://linklab.virginia.edu">UVA Link Lab</a>.
 
 #PhD Students/Candidates
 
@@ -30,6 +30,15 @@
   education1: M.E. Civil Engineering, University of Virginia
   education2: B.S. Environmental Science, Virginia Wesleyan College
   statement: Ben is studying urban water infrastructure. His current research is on coastal flooding, real-time flood warning, and smart stormwater management.
+
+- name: Linnea Saby
+  photo: saby.jpg
+  info: Ph.D. Candidate
+  email: ls3en@virginia.edu
+  number_educ: 2
+  education1: M.E. Civil Engineering, University of Virginia
+  education2: B.A. Environmental Studies, Guilford
+  statement: Linnea's research is at the interface of water resources engineering, environmental science, data science, and policy. She is a School of Data Science Fellow and is co-advised with Prof. Larry Band.
 
 - name: Alex Chen
   photo: chen.jpg
@@ -66,15 +75,6 @@
   education1: B.S. Civil Engineering, Bangladesh University of Engineering and Technology (BUET)
   statement: Faria is applying data science approaches to better understanding transportation disruptions due to flooding. Her work is focused on the Hampton Roads region of Virginia.
 
-- name: Linnea Saby
-  photo: saby.jpg
-  info: Ph.D. Candidate
-  email: ls3en@virginia.edu
-  number_educ: 2
-  education1: M.E. Civil Engineering, University of Virginia
-  education2: B.A. Environmental Studies, Guilford
-  statement: Linnea's research is at the interface of water resources engineering, environmental science, data science, and policy. She is a School of Data Science Fellow and is co-advised with Prof. Larry Band.
-
 - name: Jake Nelson
   photo: nelson.jpg
   info: Ph.D. Student
@@ -102,6 +102,12 @@
   education1: B.S. Electrical Engineering and B.A. Physics, University of Virginia
   statement: Xiafei is studying smart stormwater system, incorporated with the idea of Internet of Things (IoT) and cyber-physical systems (CPS), to monitor and control moisture content at bioretention basins through long-distance wireless communication network.
 
+- name: Sean Allen
+  photo: Allen.jpg
+  info: M.E. Student
+  number_educ: 1
+  education1: B.S., Civil and Environmental Engineering
+  statement: Sean explored the Things Network as a way to connect smart devices for stormwater monitoring.
 
 #Undergrad Students
 

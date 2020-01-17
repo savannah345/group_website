@@ -58,13 +58,6 @@
   education1: B.S., Civil and Environmental Engineering
   statement: Meredith researched the use of Python notebooks and HPC for hydrologic modeling. She also assisted in creating our group and project webpages.
 
-- name: Julia Davatzes
-  photo: Julia-Davatzes.jpg
-  email: jad4tm@virginia.edu
-  number_educ: 1
-  education1: B.S., Civil and Environmental Engineering
-  statement: Julia researched coastal infrastructure resilience focusing on the Hampton Roads region of Virginia.
-
 - name: Edward Morgan
   photo: morgan.jpg
   email: ewm4bc@virginia.edu
@@ -84,12 +77,6 @@
   number_educ: 1
   education1: B.S., Engineering
   statement: Rodney was a summer research exploring environmental justice issues related to sea level rise and flooding in coastal communities.
-
-- name: Sean Allen
-  photo: Allen.jpg
-  number_educ: 1
-  education1: B.S., Civil and Environmental Engineering
-  statement: Sean explored the Things Network as a way to connect smart devices for stormwater monitoring.
 
 - name: Stuart Sheffield
   photo: sheffield.jpg
@@ -111,36 +98,43 @@
 
 - name: Alicia Nobles
   photo: nobles.jpg
-  number_educ: 1
-  education1: M.S., University of Virginia, 2014
+  number_educ: 2
+  education1: M.S., Civil Engineering, University of Virginia, 2014
+  education2: B.S., Civil Engineering, Georgia Tech
   statement: Alicia completed her M.S. thesis in civil engineering and then a Ph.D. in Systems and Information Engineering at the University of Virginia with Prof Barnes. She is now a an Assistant Professor at UC-San Diego.
 
 - name: Md. Jahangir Alam
   photo: alam.jpg
-  number_educ: 1
+  number_educ: 2
   education1: Ph.D., University of South Carolina-Columbia, 2013
+  education2: B.S., Bangladesh University of Engineering and Technology (BUET)
   statement: Alam was an engineer with Arcadis after completing his PhD degree and is now an engineer with <a href="http://www.hazenandsawyer.com/">Hazen and Sawyer</a>.
 
 - name: Phillis Mbewe
   photo: mbewe.jpg
-  number_educ: 1
-  education1: M.E., University of South Carolina-Columbia, 2013
+  number_educ: 2
+  education1: M.E., Civil Engineering, University of South Carolina-Columbia, 2013
+  education2: B.S., Civil Engineering, Duke University
   statement: Phillis is an engineer with <a href="https://www.lja.com">LJA Engineering, Inc</a>.
 
 - name: Mirza Billah
   photo: billah.jpg
-  number_educ: 1
-  education1: Ph.D., University of South Carolina-Columbia, 2013
+  number_educ: 2
+  education1: Ph.D., Civil Engineering, University of South Carolina-Columbia, 2013
+  education2: B.S., Bangladesh University of Engineering and Technology (BUET)
   statement: Mirza completed a postdoc at Virginia Tech and is now a hydrologist with the <a href="https://www.sfwmd.gov/">South Florida Water Management District</a>.
 
 - name: Mostafa Elag
   photo: elag.jpg
-  number_educ: 1
-  education1: Ph.D., University of South Carolina-Columbia, 2013
+  number_educ: 3
+  education1: Ph.D., Civil Engineering, University of South Carolina-Columbia, 2013
+  education2: M.S. CEE, Cairo University, Egypt
+  education3: B.S. CEE, Cairo University, Egypt
   statement: Mostafa completed a postdoc at UIUC and is now an engineer at <a href="https://www.arcadis.com/en/united-states/">Arcadis</a>.
 
 - name: Tony Castronova
   photo: castronova.jpg
-  number_educ: 1
-  education1: Ph.D., University of South Carolina-Columbia
+  number_educ: 2
+  education1: Ph.D., Civil Engineering, University of South Carolina-Columbia
+  education1: B.S., Civil Engineering, Clarkson University
   statement: Tony was a Research Assistant Professor at Utah State University and is now a hydrologist at <a href="https://www.cuahsi.org/">CUAHSI</a>.
