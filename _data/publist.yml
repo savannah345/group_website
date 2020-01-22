@@ -420,7 +420,7 @@
     Parmar, R., K. Wolfe, G. Whelan, G. F. Laniak, M Galvin, and J. L. Goodall
   link:
     url: http://scholarsarchive.byu.edu/iemssconference/2016/Stream-A/2
-    display: Session Papers 2016
+    display: Final Paper
   highlight: 0
 
 
@@ -433,7 +433,7 @@
     Horsburgh, J. S., D. G. Tarboton, R. Idaszak, D. P. Ames, J. L. Goodall, V. Merwade, A. Couch, R. P. Hooper, P. Dash, M. J. Stealey, and H. Yi
   link:
     url: http://scholarsarchive.byu.edu/iemssconference/2016/Stream-A/25
-    display: Session Papers 2016
+    display: Final Paper
   highlight: 0
 
 
@@ -452,7 +452,6 @@
     display: Preprint
   highlight: 0
 
-
 - title: A methodology for evaluating evapotranspiration estimates at the watershed-scale using GRACE
   image: dummy.png
   description:
@@ -463,9 +462,10 @@
   link:
     url: http://dx.doi.org/10.1016/j.jhydrol.2015.01.066
     display: Final Article
+  linkpdf:
+    pdf: http://escholarship.org/uc/item/3sw9d167
+    display: Preprint
   highlight: 0
-  news2: <a href="http://escholarship.org/uc/item/3sw9d167"> Preprint</a>
-
 
 - title: Calibration of SWAT models using the cloud
   image: dummy.png
@@ -479,7 +479,7 @@
     display: Final Article
   linkpdf:
     pdf: http://faculty.virginia.edu/goodall/Ercan_EMS_2014_Preprint.pdf
-    display: Preprint of Article 2014
+    display: Preprint
   highlight: 0
 
 
@@ -495,7 +495,7 @@
     display:  Final Article
   linkpdf:
     pdf: http://faculty.virginia.edu/goodall/Castronova_CompGeo_2014_Preprint.pdf
-    display: Preprint of Article 2014
+    display: Preprint
   highlight: 0
 
 
@@ -508,7 +508,7 @@
     Ercan, M.B. and J.L. Goodall
   link:
     url: http://www.iemss.org/sites/iemss2014/papers/iemss2014_submission_212.pdf
-    display: Session Papers 2014
+    display: Final Paper
   highlight: 0
 
 
@@ -520,7 +520,7 @@
   authors: Morsy, M.M., J.L. Goodall, C. Bandaragoda, A. Castronova, and J. Greenberg
   link:
     url: http://www.iemss.org/sites/iemss2014/papers/iemss2014_submission_259.pdf
-    display: Session Papers 2014
+    display: Final Paper
   highlight: 0
 
 
@@ -536,7 +536,7 @@
     display: Final Article
   linkpdf:
     pdf: http://faculty.virginia.edu/goodall/Elag_WRR_2013_Preprint.pdf
-    display: Preprint of Article 2013
+    display: Preprint
   highlight: 0
 
 
@@ -552,7 +552,7 @@
     display: Final Article
   linkpdf:
     pdf: http://faculty.virginia.edu/goodall/Goodall_EMS_2013_Preprint.pdf
-    display: Preprint of Article 2013
+    display: Preprint
   highlight: 0
 
 
@@ -568,7 +568,7 @@
     display: Final Article
   linkpdf:
     pdf: http://faculty.virginia.edu/goodall/Castronova_EMS_2013_Preprint.pdf
-    display: Preprint of Article 2013
+    display: Preprint
   highlight: 0
 
 
@@ -598,8 +598,10 @@
   link:
     url: http://dx.doi.org/10.1016/j.cageo.2012.04.019
     display: Final Artice
+  linkpdf:
+    pdf: https://www.researchgate.net/profile/Scott_Peckham2/publication/256821579_Driving_plug-and-play_models_with_data_from_web_services_A_demonstration_of_interoperability_between_CSDMS_and_CUAHSI-HIS/links/02e7e523cb6cd20aeb000000.pdf
+    display: Preprint
   highlight: 0
-  news2: <a href="https://www.researchgate.net/profile/Scott_Peckham2/publication/256821579_Driving_plug-and-play_models_with_data_from_web_services_A_demonstration_of_interoperability_between_CSDMS_and_CUAHSI-HIS/links/02e7e523cb6cd20aeb000000.pdf"> Preprint of Article 2013</a>
 
 
 - title: Integrated environmental modeling - A vision and roadmap for the future,
@@ -614,7 +616,7 @@
     display: Final Article
   linkpdf:
     pdf: http://faculty.virginia.edu/goodall/Laniak_EMS_2013_FinalPaper.pdf
-    display: Preprint of Article 2013
+    display: Preprint
   highlight: 0
 
 
@@ -799,9 +801,10 @@
   link:
     url: http://dx.doi.org/10.1016/j.jhydrol.2008.05.022
     display: Final Article
+  linkpdf:
+    pdf: https://www.researchgate.net/profile/Benjamin_Poulter/publication/222245025_Application_of_Network_Analysis_for_Adaptive_Management_of_Artificial_Drainage_Systems_in_Landscape_Vulnerable_to_Sea_Level_Rise/links/09e415118b57adcfe6000000.pdf
+    display: Preprint
   highlight: 0
-  news2: <a href="https://www.researchgate.net/profile/Benjamin_Poulter/publication/222245025_Application_of_Network_Analysis_for_Adaptive_Management_of_Artificial_Drainage_Systems_in_Landscape_Vulnerable_to_Sea_Level_Rise/links/09e415118b57adcfe6000000.pdf"> Preprint of Article 2008</a>
-
 
 - title: A first approach to web services for the National Water Information System
   image: dummy.png
@@ -846,5 +849,7 @@
   link:
     url: http://dx.doi.org/10.1016/j.dsr2.2005.09.007
     display: Final Article
+  linkpdf:
+    pdf: https://www.researchgate.net/profile/Kenneth_Dunton/publication/253665040_Multi-decadal_synthesis_of_benthic-pelagic_coupling_in_the_western_arctic_Role_of_cross-shelf_advective_processes/links/004635278d0ae4f995000000.pdf
+    display: Preprint
   highlight: 0
-  news2: <a href="https://www.researchgate.net/profile/Kenneth_Dunton/publication/253665040_Multi-decadal_synthesis_of_benthic-pelagic_coupling_in_the_western_arctic_Role_of_cross-shelf_advective_processes/links/004635278d0ae4f995000000.pdf"> Preprint of Article 2005</a>

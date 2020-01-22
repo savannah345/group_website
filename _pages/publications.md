@@ -9,7 +9,7 @@ permalink: /publications/
 
 # Selected Publications
 
- For citation data and an up to date list of all publications, please see [Google Scholar](https://scholar.google.com/citations?sortby=pubdate&user=M9aKXDwAAAAJ).
+ For citation data and an up to date list of all publications, please see Jon Goodall's [Google Scholar Profile](https://scholar.google.com/citations?sortby=pubdate&user=M9aKXDwAAAAJ). If final papers are published in a journal without open access, the preprint manuscript (the version of the manuscript before final edits and typesetting were completed) is provided in accordance with the copyright license from the journal.
 
 <!--
 ## Highlights
@@ -63,9 +63,9 @@ permalink: /publications/
 
 {% for publi in site.data.publist %}
   <hr>
-  <b>{{publi.title}}</b><br />
-  {{ publi.authors }}<br />
-  {{ publi.description }}, {{publi.date}}<br />
+  <h5>{{publi.title}}</h5>
+  <em>{{ publi.authors }}</em><br />
+  <b>{{ publi.description }}</b>, {{publi.date}}<br />
   <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
   {% if publi.linkpdf.pdf %} ~  <a href="{{ publi.linkpdf.pdf }}">{{ publi.linkpdf.display }}</a> {% endif %}
   {{ publi.news2 }}
