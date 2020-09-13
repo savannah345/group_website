@@ -9,22 +9,13 @@
   education1: Ph.D., Civil Engineering, University of Texas at Austin, 2005, Adviser <a href="http://www.caee.utexas.edu/prof/maidment/CAEE/maidment.htm">David R. Maidment</a>
   education2: MS, Civil Engineering, University of Texas at Austin, 2003
   education3: BS, Civil Engineering, University of Virginia, 2001
-  statement: Professor Goodall directs the UVA Hydroinformatics Research Group and is a faculty member in the Department of Engineering Systems & Environment with a courtesy appointment in Computer Science. He is also serves as the Associate Director of the <a href="http://linklab.virginia.edu">UVA Link Lab</a>.
+  statement: Professor Goodall directs the UVA Hydroinformatics Research Group and is a faculty member in the Department of Engineering Systems & Environment. He is also serves as the Associate Director of the <a href="http://linklab.virginia.edu">UVA Link Lab</a>.
 
 #PhD Students/Candidates
 
-- name: Yawen Shen
-  photo: Yawen-1.jpg
-  info: Ph.D. Candidate
-  email: ys5dv@virginia.edu
-  number_educ: 2
-  education1: M.S. Civil Engineering, Georgia Tech
-  education2: B.S. Civil Engineering, Wuhan University, China
-  statement: Yaween is studying resilient infrastructure systems. His current work addresses the risk of flooding impacts to transportation infrastructure including bridges and culverts in particular. His current work is using 2D hydrodynamic models to simulate flooding in urban coastal environments.
-
 - name: Ben Bowes
   photo: bowes-1.jpg
-  info: Ph.D. Candidate
+  info: Ph.D. Candidate, Civil Engineering
   email: bdb3m@virginia.edu
   number_educ: 2
   education1: M.E. Civil Engineering, University of Virginia
@@ -33,7 +24,7 @@
 
 - name: Linnea Saby
   photo: saby.jpg
-  info: Ph.D. Candidate
+  info: Ph.D. Candidate, Civil Engineering
   email: ls3en@virginia.edu
   number_educ: 2
   education1: M.E. Civil Engineering, University of Virginia
@@ -42,7 +33,7 @@
 
 - name: Alex Chen
   photo: chen.jpg
-  info: Ph.D. Candidate
+  info: Ph.D. Candidate, Civil Engineering
   email: abc8fq@virginia.edu
   number_educ: 2
   education1: M.S. Bioenvironmental Systems Engineering, National Taiwan University, Taiwan
@@ -51,7 +42,7 @@
 
 - name: Youngdon Choi
   photo: choi.png
-  info: Ph.D Candidate
+  info: Ph.D Candidate, Civil Engineering
   email: yc5ef@virginia.edu
   number_educ: 2
   education1: M.S. Civil Engineering, Pusan National University, Republic of Korea
@@ -60,7 +51,7 @@
 
 - name: Iman Maghami
   photo: maghami.jpg
-  info: Ph.D. Candidate
+  info: Ph.D. Candidate, Civil Engineering
   email: im3vp@virginia.edu
   number_educ: 2
   education1: M.S. Civil Engineering, University of Tehran, Iran
@@ -69,7 +60,7 @@
 
 - name: Faria Zahura
   photo: zahura.jpg
-  info: Ph.D. Candidate
+  info: Ph.D. Candidate, Civil Engineering
   email: fz7xb@virginia.edu
   number_educ: 1
   education1: B.S. Civil Engineering, Bangladesh University of Engineering and Technology (BUET)
@@ -77,7 +68,7 @@
 
 - name: Jake Nelson
   photo: nelson.jpg
-  info: Ph.D. Student
+  info: Ph.D. Student, Civil Engineering
   email: jn8vc@virginia.edu
   number_educ: 2
   education1: M.S. CEE, Brigham Young University
@@ -86,35 +77,55 @@
 
 - name: Natalie Lerma
   photo: lerma.jpg
-  info: Ph.D. Student
+  info: Ph.D. Student, Civil Engineering
   email: nrl5fh@virginia.edu
   number_educ: 1
   education1: B.S. Ocean Engineering, Texas A&M University - Galveston
   statement: Natalie is part of the Cyber-Physical Systems NRT program and her research is focusing on coastal flooding.
 
+- name: Ciara Horne
+  photo: horne.jpg
+  info: Ph.D. Student, Systems Engineering
+  email: ciarahorne@virginia.edu
+  number_educ: 1
+  education1: B.S. Civil Engineering, University of Maryland
+  statement: Ciara’s research consists of using data science and GIS to measure how the presence of dams and levees affect the flooding vulnerability of marginalized populations in the U.S. and thus contribute to public health and environmental injustices
+
+- name: R. Chase Dong
+  photo: dong.jpg
+  info: Ph.D. Student, Civil Engineering
+  email: rd4gn@virginia.edu
+  number_educ: 1
+  education1: B.S. Biological Systems Engineering, Virginia Tech University
+  statement: Ruochen (Chase) is a first-year Ph.D. student whose research interest centers around smart cities with particular focuses on low-impact development (LID) and urban resilience. As a student in the CPS NRT program, Chase is learning about how the interfaces between the cyber and physical worlds drive new innovations in the area of smart cities.
+
+- name: Binata Roy
+  photo: roy.jpg
+  info: Ph.D. Student, Civil Engineering
+  email: br3xk@virginia.edu
+  number_educ: 2
+  education1: M.Sc. in Water Resources Engineering, BUET, Bangladesh
+  education2: B.Sc. in Water Resources Engineering, BUET, Bangladesh
+  statement: Binata’s research interest comprises of hydrological processes in urban watershed and future consequences due to climate change. She plans to apply numerical models, RS & GIS tools, and statistical approaches for her study.
+
+- name: Yidi Wang
+  photo: wang.jpg
+  info: Ph.D. Student, Civil Engineering
+  email: yw5vq@virginia.edu
+  number_educ: 3
+  education1: M.S. Environmental and Water Resources Engineering, The University of Texas at Austin, TX, USA, 2020
+  education2: B.S. Watershed Science, Colorado State University, CO, USA, 2018
+  education3: B.S. Geographic Sciences, East China Normal University, Shanghai, China, 2018
+  statement: Yidi is interested in studying natural hazards generally, with a specific focus on floods. He is currently working on curricular preparation in order to better define and structure his research.
+
 #Masters students
 
-- name: Xiafei Yang
-  photo: yang.jpg
-  info: M.S. Student
-  email: xy2wf@virginia.edu
+- name: Ruchir Shah
+  photo: shah.jpg
+  info: M.S. Student, Computer Engineeering
+  email: rvs4xt@virginia.edu
   number_educ: 1
-  education1: B.S. Electrical Engineering and B.A. Physics, University of Virginia
-  statement: Xiafei is studying smart stormwater system, incorporated with the idea of Internet of Things (IoT) and cyber-physical systems (CPS), to monitor and control moisture content at bioretention basins through long-distance wireless communication network.
-
-- name: Sean Allen
-  photo: Allen.jpg
-  info: M.E. Student
-  number_educ: 1
-  education1: B.S., Civil and Environmental Engineering
-  statement: Sean explored the Things Network as a way to connect smart devices for stormwater monitoring.
+  education1: B.S. Power Electronics Engineering, Gujarat Technological University, India
+  statement: Ruchir is a member of Cyber-Physical Systems NRT program (1st batch) and is working with deploying environmental sensors for engineering robust real-time IoT-based flood warning system in Albemarle County.
 
 #Undergrad Students
-
-- name: Naomi Johnson
-  photo: johnson.jpg
-  info: B.A. Student - Computer Science
-  email: snj3k@virginia.edu
-  web: http://www.people.virginia.edu/~snj3k/
-  number_educ: 0
-  statement: Naomi is using image segmentation in order to identify the areal extent and depth of flood waters.
