@@ -6,7 +6,7 @@
   info: Ph.D. Candidate, Civil Engineering
   email: ys5dv@virginia.edu
   number_educ: 3
-  educatino1: Ph.D. Civil Engineering, University of Virginia
+  education1: Ph.D. Civil Engineering, University of Virginia
   education2: M.S. Civil Engineering, Georgia Tech
   education3: B.S. Civil Engineering, Wuhan University, China
   statement: Yaween's research was on resilient infrastructure systems, risk of flooding impacts to transportation infrastructure, and using 2D hydrodynamic models to simulate flooding in urban coastal environments.
@@ -22,17 +22,17 @@
 - name: Sean Allen
   photo: Allen.jpg
   number_educ: 2
-  education1: M.E., CE with focus in Cyber-Physical Systems, University of Virginia
-  education2: B.S., CE, University of Virginia
+  education1: M.E., Civil Engineering with focus in Cyber-Physical Systems, University of Virginia
+  education2: B.S., Civil Engineering, University of Virginia
   statement: Sean explored the Things Network as a way to connect smart devices for stormwater monitoring. He now an engineer with <a href="http://www.hazenandsawyer.com/">Hazen and Sawyer</a>.
 
 - name: Gina O'Neil, Ph.D.
   photo: gina-1.jpg
   email: glo6ck@virginia.edu
   number_educ: 3
-  education1: Ph.D CE, University of Virginia
-  education2: M.S. CE, University of Virginia
-  education3: B.S. CE, University of Virginia
+  education1: Ph.D Civil Engineering, University of Virginia
+  education2: M.S. Civil Engineering, University of Virginia
+  education3: B.S. Civil Engineering, University of Virginia
   statement: Gina completed her PhD on data science and machine learning approaches for wetland delineation using LiDAR. She now works for <a href="https://www.esri.com">ESRI</a> in Denver, CO.
 
 - name: Jeff Sadler, Ph.D.
@@ -40,86 +40,86 @@
   email: jms3fb@virginia.edu
   website: <a href="http://jsadler2.github.io">jsadler2.github.io</a>
   number_educ: 3
-  education1: Ph.D. CE, University of Virginia
-  education2: M.S. CE, Brigham Young University
-  education3: B.S. CE, Brigham Young University
+  education1: Ph.D. Civil Engineering, University of Virginia
+  education2: M.S. Civil Engineering, Brigham Young University
+  education3: B.S. Civil Engineering, Brigham Young University
   statement: Jeff completed his PhD in the use of cyber-physical system approaches for smart stormwater management to mitigate flooding impacts. He currently is a postdoc with the USGS in Middleton, WI as part of the <a href="https://owi.usgs.gov/datascience/">USGS Office of Water Information (OWI) Data Science team</a> through a Mendenhall Research Fellowship.
 
 - name: Imaan Hameed
   photo: hameed.jpg
   email: mih7gf@virginia.edu
   number_educ: 1
-  education1: B.S. SE, University of Virginia
+  education1: B.S. Systems Engineering, University of Virginia
   statement: Imaan designed an inexpensive, IoT rain measurement and data communication system.
 
 - name: Danny Voce
   photo: voce.jpg
   email: dav3nu@virginia.edu
   number_educ: 1
-  education1: B.S. CS, University of Virginia
+  education1: B.S. Computer Science, University of Virginia
   statement: Danny helped to build software for water and environmental management applications. He is now a Python Developer at Palo Alto Networks.
 
 - name: Mohamed Morsy, Ph.D.
   photo: morsy.jpg
   email: mmm4dh@virginia.edu
   number_educ: 3
-  education1: Ph.D., CE, University of Virginia
-  education2: M.S. CE, Cairo University, Egypt
-  education3: B.S. CE, Cairo University, Egypt
+  education1: Ph.D., Civil Engineering, University of Virginia
+  education2: M.S. Civil Engineering, Cairo University, Egypt
+  education3: B.S. Civil Engineering, Cairo University, Egypt
   statement: Mohamed completed his PhD at UVA working on the HydroShare project, researching ways to represent hydrologic models within a resource-based hydrologic information system, and designing a flood warning system for VDOT. After serving as a postdoc at UVA, he joined <a href="http://www.dewberry.com">Dewberry</a> in 2019 as a hydrologic modeler.
 
 - name: Bakinam Essawy, Ph.D.
   photo: essawy.jpg
   email: bte2rn@virginia.edu
   number_educ: 3
-  education1: Ph.D., CE, University of Virginia
-  education2: M.S. CEE, Cairo University, Egypt
-  education3: B.S. CEE, Cairo University, Egypt
+  education1: Ph.D., Civil Engineering, University of Virginia
+  education2: M.S. Civil Engineering, Cairo University, Egypt
+  education3: B.S. Civil Engineering, Cairo University, Egypt
   statement: Bakinam completed her PhD at UVA on modeling regional-scale hydrologic systems to understand water availability and drought. Her work is part of the DataNet Federation Consortium (DFC) project using iRODS to create workflows for hydrologic modeling. After serving as a postdoc at UVA, she joined <a href="http://www.dewberry.com">Dewberry</a> in 2019 as part of their resilience group.
 
 - name: Meredith Sutton
   photo: Sutton3.jpg
   email: mks7ad@virginia.edu
   number_educ: 1
-  education1: B.S., Civil and Environmental Engineering
+  education1: B.S., Civil Engineering, University of Virginia
   statement: Meredith researched the use of Python notebooks and HPC for hydrologic modeling. She also assisted in creating our group and project webpages.
 
 - name: Edward Morgan
   photo: morgan.jpg
   email: ewm4bc@virginia.edu
   number_educ: 1
-  education1: B.S., Computer Engineering
+  education1: B.S., Computer Engineering, University of Virginia
   statement: Edward designed inexpensive, durable rainfall measurement devices for flood detection.
 
 - name: Mary-Michael Robertson
   photo: marymichael.jpg
   email: mr4rb@virginia.edu
   number_educ: 1
-  education1: B.S., Civil and Environmental Engineering
+  education1: B.S., Civil Engineering, University of Virginia
   statement: Mary-Michael researched remote sensing and GIS-based methods for wetland screening.
 
 - name: Rodney Hawkings
   photo: Hawkins.jpg
   number_educ: 1
-  education1: B.S., Engineering
+  education1: B.S., Engineering, Saint Augustine's University, Raleigh, NC
   statement: Rodney was a summer research exploring environmental justice issues related to sea level rise and flooding in coastal communities.
 
 - name: Stuart Sheffield
   photo: sheffield.jpg
   number_educ: 1
-  education1: M.S, University of Virginia, 2016
+  education1: M.S, Civil Engineering, University of Virginia, 2016
   statement: Stuart completed his thesis on creating distributed environmental decision support systems. He is now an engineer with <a href="https://bohlerengineering.com/">Bohler Engineering</a>.
 
 - name: Mehmet Ercan, Ph.D.
   photo: ercan.jpg
   number_educ: 1
-  education1: Ph.D., University of South Carolina-Columbia, 2015
+  education1: Ph.D., Civil Engineering, University of South Carolina-Columbia, 2015
   statement: Mehmet was an engineer with ARCADIS after completing his Ph.D. degree. He is now an Assistant Professor at Inonu University in Turkey and a consultant for <a href="https://www.emnet.net">EmNet</a>.
 
 - name: Ben Felton
   photo: felton.jpg
   number_educ: 1
-  education1: M.S., University of Virginia, 2015
+  education1: M.S., Civil Engineering, University of Virginia, 2015
   statement: Ben completed his MS thesis on GIS and remote sensing approaches for wetland screening. He is now an engineer with <a href="http://amtengineering.com/">A. Morton Thomas and Associates</a>.
 
 - name: Alicia Nobles, Ph.D.
@@ -132,8 +132,8 @@
 - name: Md. Jahangir Alam, Ph.D.
   photo: alam.jpg
   number_educ: 2
-  education1: Ph.D., University of South Carolina-Columbia, 2013
-  education2: B.S., Bangladesh University of Engineering and Technology (BUET)
+  education1: Ph.D., Civil Engineering, University of South Carolina-Columbia, 2013
+  education2: B.S., Civil Engineering, Bangladesh University of Engineering and Technology (BUET)
   statement: Alam was an engineer with Arcadis after completing his PhD degree and is now an engineer with <a href="http://www.hazenandsawyer.com/">Hazen and Sawyer</a>.
 
 - name: Phillis Mbewe
@@ -147,15 +147,15 @@
   photo: billah.jpg
   number_educ: 2
   education1: Ph.D., Civil Engineering, University of South Carolina-Columbia, 2013
-  education2: B.S., Bangladesh University of Engineering and Technology (BUET)
+  education2: B.S., Civil Engineering, Bangladesh University of Engineering and Technology (BUET)
   statement: Mirza completed a postdoc at Virginia Tech and is now a hydrologist with the <a href="https://www.sfwmd.gov/">South Florida Water Management District</a>.
 
 - name: Mostafa Elag, Ph.D.
   photo: elag.jpg
   number_educ: 3
   education1: Ph.D., Civil Engineering, University of South Carolina-Columbia, 2013
-  education2: M.S. CEE, Cairo University, Egypt
-  education3: B.S. CEE, Cairo University, Egypt
+  education2: M.S., Civil Engineering, Cairo University, Egypt
+  education3: B.S., Civil Engineering, Cairo University, Egypt
   statement: Mostafa completed a postdoc at UIUC and is now an engineer at <a href="https://www.arcadis.com/en/united-states/">Arcadis</a>.
 
 - name: Tony Castronova, Ph.D.
