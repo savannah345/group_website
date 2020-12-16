@@ -9,7 +9,7 @@
   education1: Ph.D. Civil Engineering, University of Virginia
   education2: M.S. Civil Engineering, Georgia Tech
   education3: B.S. Civil Engineering, Wuhan University, China
-  statement: Yaween's research was on resilient infrastructure systems, risk of flooding impacts to transportation infrastructure, and using 2D hydrodynamic models to simulate flooding in urban coastal environments.
+  statement: Yaween's research was on resilient infrastructure systems, risk of flooding impacts to transportation infrastructure, and using 2D hydrodynamic models to simulate flooding in urban coastal environments. He is now an engineer with Arcadis.
 
 - name: Naomi Johnson
   photo: johnson.jpg
@@ -57,7 +57,7 @@
   email: dav3nu@virginia.edu
   number_educ: 1
   education1: B.S. Computer Science, University of Virginia
-  statement: Danny helped to build software for water and environmental management applications. He is now a Python Developer at Palo Alto Networks.
+  statement: Danny helped to build software for water and environmental management applications. He is now a Python Developer at <a href="https://www.paloaltonetworks.com/">Palo Alto Networks</a>.
 
 - name: Mohamed Morsy, Ph.D.
   photo: morsy.jpg
@@ -82,21 +82,21 @@
   email: mks7ad@virginia.edu
   number_educ: 1
   education1: B.S., Civil Engineering, University of Virginia
-  statement: Meredith researched the use of Python notebooks and HPC for hydrologic modeling. She also assisted in creating our group and project webpages.
+  statement: Meredith researched the use of Python notebooks and HPC for hydrologic modeling. She also assisted in creating our group and project webpages. She is now a PhD student at the University of Nebraska-Lincoln and an NSF GRFP awardee.
 
 - name: Edward Morgan
   photo: morgan.jpg
   email: ewm4bc@virginia.edu
   number_educ: 1
   education1: B.S., Computer Engineering, University of Virginia
-  statement: Edward designed inexpensive, durable rainfall measurement devices for flood detection.
+  statement: Edward designed inexpensive, durable rainfall measurement devices for flood detection. He is now a software developer at <a href="https://ccri.com/">Commonwealth Computer Research, Inc.</a>
 
 - name: Mary-Michael Robertson
   photo: marymichael.jpg
   email: mr4rb@virginia.edu
   number_educ: 1
   education1: B.S., Civil Engineering, University of Virginia
-  statement: Mary-Michael researched remote sensing and GIS-based methods for wetland screening.
+  statement: Mary-Michael researched remote sensing and GIS-based methods for wetland screening. She is now a graduate student in urban and environmental planning at UVA.
 
 - name: Rodney Hawkings
   photo: Hawkins.jpg

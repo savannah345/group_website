@@ -47,7 +47,7 @@
   number_educ: 2
   education1: M.S. Civil Engineering, Pusan National University, Republic of Korea
   education2: B.S. Civil Engineering, Pusan National University, Republic of Korea
-  statement: Choi is working on the HydroShare project and is currently building the pySUMMA library for the SUMMA hydrologic model.
+  statement: Choi is working on the HydroShare and Earth Cube projects and is currently building the pySUMMA library for the SUMMA hydrologic model.
 
 - name: Iman Maghami
   photo: maghami.jpg
@@ -56,7 +56,7 @@
   number_educ: 2
   education1: M.S. Civil Engineering, University of Tehran, Iran
   education2: B.S. Civil Engineering, Sharif University, Iran
-  statement: Iman is working on using power harvesting and dynamic power management for smart water monitoring in flooding and water quality applications.
+  statement: Iman is working on using power harvesting and dynamic power management for smart water monitoring in flooding and water quality applications. He is also working on the HydroShare project.
 
 - name: Faria Zahura
   photo: zahura.jpg
@@ -73,7 +73,7 @@
   number_educ: 2
   education1: M.S. CEE, Brigham Young University
   education2: B.S. CEE, Brigham Young Univeristy
-  statement: Jake is part of the Cyber-Physical Systems NRT program and his research is focusing on smart stormwater systems.
+  statement: Jake is part of the Cyber-Physical Systems NRT program and his research is focusing on smart stormwater systems. He is also researching nutrient credit markets as a means for improving water quality.
 
 - name: Natalie Lerma
   photo: lerma.jpg
