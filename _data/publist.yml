@@ -12,6 +12,25 @@
 #ability to add new news??
   #news2:
   #news1: <a style="color:#FF0000; text-decoration:underline" href="http://science.sciencemag.org/content/345/6203/twil">News item in Science</a>
+- title: Toward open and reproducible environmental modeling by integrating online data repositories, computational environments, and model Application Programming Interfaces
+  image: blank.jpg
+  description: Environmental Modelling & Software, doi:10.1016/j.envsoft.2020.104888
+  date: In Press
+  authors: Y. D. Choi, J. L. Goodall, J. M. Sadler, A. M. Castronova, A. Bennett, Z. Li, B. Nijssenc, S. Wang, M. P. Clark, D. P. Ames, J. S. Horsburgh, H. Yi, C. Bandaragoda, M. Seul, R. Hooper, D. G.Tarboton
+  link:
+    url: https://doi.org/10.1016/j.envsoft.2020.104888
+    display: Final Article (open access)
+  highlight: 0
+
+- title: Flood mitigation in coastal urban catchments using real-time stormwater infrastructure control and reinforcement learning
+  image: blank.jpg
+  description: Journal of Hydroinformatics, doi:10.2166/hydro.2020.080
+  date: In Press
+  authors: B. D. Bowes; A. Tavakoli; C. Wang; A. Heydarian; M. Behl; P. A. Beling; J. L. Goodall
+  link:
+    url: https://doi.org/10.2166/hydro.2020.080
+    display: Final Article (open access)
+  highlight: 0
 
 - title: A taxonomy for reproducible and replicable research in environmental modelling
   image: blank.jpg

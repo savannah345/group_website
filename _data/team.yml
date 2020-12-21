@@ -1,6 +1,6 @@
 #team
 
-- name: Jonathan L. Goodall, Ph.D., P.E.
+- name: Jonathan L. Goodall, Ph.D., P.E., F.ASCE
   photo: goodall.jpg
   info: Professor
   email: goodall@virginia.edu
@@ -10,8 +10,6 @@
   education2: MS, Civil Engineering, University of Texas at Austin, 2003
   education3: BS, Civil Engineering, University of Virginia, 2001
   statement: Professor Goodall directs the UVA Hydroinformatics Research Group and is a faculty member in the Department of Engineering Systems & Environment. He is also serves as the Associate Director of the <a href="http://linklab.virginia.edu">UVA Link Lab</a>.
-
-#PhD Students/Candidates
 
 - name: Ben Bowes
   photo: bowes-1.jpg
@@ -66,6 +64,16 @@
   education1: B.S. Civil Engineering, Bangladesh University of Engineering and Technology (BUET)
   statement: Faria is applying data science approaches to better understanding transportation disruptions due to flooding. Her work is focused on the Hampton Roads region of Virginia.
 
+- name: Victor Ariel Leal Sobral
+  photo: sobral.jpg
+  info: Ph.D. Candidate, Computer Engineeering
+  email: vas4d@virginia.edu
+  number_educ: 3
+  education1: M.S. Electronics and Applied Physics, ENSICAEN, France
+  education2: B.S. Electronics and Applied Physics, ENSICAEN, France
+  education3: B.S. Electrical Engineering, Universidade Federal da Bahia, Brazil
+  statement: Victor is working on the design of self-powered IoT systems for industrial, water quality and flood monitoring applications. He is co-advised by Prof. Brad Campbell.
+
 - name: Jake Nelson
   photo: nelson.jpg
   info: Ph.D. Student, Civil Engineering
@@ -118,8 +126,6 @@
   education3: B.S. Geographic Sciences, East China Normal University, Shanghai, China, 2018
   statement: Yidi is interested in studying natural hazards generally, with a specific focus on floods. He is currently working on curricular preparation in order to better define and structure his research.
 
-#Masters students
-
 - name: Ruchir Shah
   photo: shah.jpg
   info: M.S. Student, Computer Engineeering
@@ -127,5 +133,3 @@
   number_educ: 1
   education1: B.S. Power Electronics Engineering, Gujarat Technological University, India
   statement: Ruchir is a member of Cyber-Physical Systems NRT program (1st batch) and is working with deploying environmental sensors for engineering robust real-time IoT-based flood warning system in Albemarle County.
-
-#Undergrad Students
