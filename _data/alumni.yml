@@ -1,15 +1,41 @@
 # Alumni
 
+- name: Ben Bowes, Ph.D.
+  photo: bowes-1.jpg
+  info: Ph.D. Candidate, Civil Engineering
+  email: bdb3m@virginia.edu
+  number_educ: 3
+  education1: Ph.D Civil Engineering, University of Virginia
+  education2: M.E. Civil Engineering, University of Virginia
+  education3: B.S. Environmental Science, Virginia Wesleyan College
+  statement: Ben studied urban water infrastructure, specifically coastal flooding, real-time flood warning, and smart stormwater management. He is now with Paradigm Envionmental.
+
+- name: Youngdon Choi, Ph.D.
+  photo: choi.png
+  email: yc5ef@virginia.edu
+  number_educ: 3
+  education1: Ph.D Civil Engineering, University of Virginia
+  education2: M.S. Civil Engineering, Pusan National University, Republic of Korea
+  education3: B.S. Civil Engineering, Pusan National University, Republic of Korea
+  statement: Choi's research was on the HydroShare and Earth Cube projects advancing reproducible hydrologic modeling. He is now with K-Water.
+
+- name: Ruchir Shah
+  photo: shah.jpg
+  info: M.S. Student, Computer Engineeering
+  email: rvs4xt@virginia.edu
+  number_educ: 2
+  education1: M.E. Computer Engineering, University of Virginia
+  education1: B.S. Power Electronics Engineering, Gujarat Technological University, India
+  statement: Ruchir was a member of Cyber-Physical Systems NRT program and did research on deploying environmental sensors for engineering robust real-time IoT-based flood warning system. He is now with EY.
 
 - name: Yawen Shen, Ph.D.
   photo: Yawen-1.jpg
-  info: Ph.D. Candidate, Civil Engineering
   email: ys5dv@virginia.edu
   number_educ: 3
   education1: Ph.D. Civil Engineering, University of Virginia
   education2: M.S. Civil Engineering, Georgia Tech
   education3: B.S. Civil Engineering, Wuhan University, China
-  statement: Yaween's research was on resilient infrastructure systems, risk of flooding impacts to transportation infrastructure, and using 2D hydrodynamic models to simulate flooding in urban coastal environments. He is now an engineer with Arcadis.
+  statement: Yaween's research was on resilient infrastructure systems, risk of flooding impacts to transportation infrastructure, and using 2D hydrodynamic models to simulate flooding in urban coastal environments. He is now a data scientist at One Concern.
 
 - name: Naomi Johnson
   photo: johnson.jpg

@@ -11,15 +11,6 @@
   education3: BS, Civil Engineering, University of Virginia, 2001
   statement: Professor Goodall directs the UVA Hydroinformatics Research Group and is a faculty member in the Department of Engineering Systems & Environment. He is also serves as the Associate Director of the <a href="http://linklab.virginia.edu">UVA Link Lab</a>.
 
-- name: Ben Bowes
-  photo: bowes-1.jpg
-  info: Ph.D. Candidate, Civil Engineering
-  email: bdb3m@virginia.edu
-  number_educ: 2
-  education1: M.E. Civil Engineering, University of Virginia
-  education2: B.S. Environmental Science, Virginia Wesleyan College
-  statement: Ben is studying urban water infrastructure. His current research is on coastal flooding, real-time flood warning, and smart stormwater management.
-
 - name: Linnea Saby
   photo: saby.jpg
   info: Ph.D. Candidate, Civil Engineering
@@ -37,15 +28,6 @@
   education1: M.S. Bioenvironmental Systems Engineering, National Taiwan University, Taiwan
   education2: B.S. Hydraulic and Ocean Engineering, National Cheng Kung University, Taiwan
   statement: Alex is researching smart stormwater management for coastal communities. He has been investigating the use of crowdsourcing, in particular Personal Weather Stations (PWS), for capturing rainfall during extreme weather events in Norfolk, VA.
-
-- name: Youngdon Choi
-  photo: choi.png
-  info: Ph.D Candidate, Civil Engineering
-  email: yc5ef@virginia.edu
-  number_educ: 2
-  education1: M.S. Civil Engineering, Pusan National University, Republic of Korea
-  education2: B.S. Civil Engineering, Pusan National University, Republic of Korea
-  statement: Choi is working on the HydroShare and Earth Cube projects and is currently building the pySUMMA library for the SUMMA hydrologic model.
 
 - name: Iman Maghami
   photo: maghami.jpg
@@ -125,11 +107,3 @@
   education2: B.S. Watershed Science, Colorado State University, CO, USA, 2018
   education3: B.S. Geographic Sciences, East China Normal University, Shanghai, China, 2018
   statement: Yidi is interested in studying natural hazards generally, with a specific focus on floods. He is currently working on curricular preparation in order to better define and structure his research.
-
-- name: Ruchir Shah
-  photo: shah.jpg
-  info: M.S. Student, Computer Engineeering
-  email: rvs4xt@virginia.edu
-  number_educ: 1
-  education1: B.S. Power Electronics Engineering, Gujarat Technological University, India
-  statement: Ruchir is a member of Cyber-Physical Systems NRT program (1st batch) and is working with deploying environmental sensors for engineering robust real-time IoT-based flood warning system in Albemarle County.
