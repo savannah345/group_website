@@ -1,49 +1,83 @@
 # Alumni
+- name: Linnea Saby
+  photo: saby.jpg
+  number_educ: 3
+  education1: Ph.D. Civil Engineering, University of Virginia
+  education2: M.E. Civil Engineering, University of Virginia
+  education3: B.A. Environmental Studies, Guilford
+  statement: Linnea's PhD research was at the interface of water resources engineering, environmental science, data science, and policy. She was a School of Data Science Fellow and was co-advised with Prof. Larry Band. She will be a Knauss Fellow at NOAA.
+
+- name: Alex Chen, Ph.D.
+  photo: chen.jpg
+  number_educ: 3
+  education1: Ph.D. Civil Engineering, University of Virginia
+  education2: M.S. Bioenvironmental Systems Engineering, National Taiwan University, Taiwan
+  education3: B.S. Hydraulic and Ocean Engineering, National Cheng Kung University, Taiwan
+  statement: Alex researched smart stormwater management for coastal communities. His dissertation investigated the use of crowdsourcing, in particular Personal Weather Stations (PWS), for capturing rainfall during extreme weather events in Norfolk, VA. He now works for the National Weather Service in their flood forecasting center.
+
+- name: Iman Maghami, Ph.D.
+  photo: maghami.jpg
+  number_educ: 3
+  education1: Ph.D. Civil Engineering, University of Virginia
+  education2: M.S. Civil Engineering, University of Tehran, Iran
+  education3: B.S. Civil Engineering, Sharif University, Iran
+  statement: Iman's dissertation was on building cyberinfrastructure for the hydrology community, focusing on model sharing in HydroShare. He is now a postdoctoral scholar at BYU.
+
+- name: Faria Zahura, Ph.D.
+  photo: zahura.jpg
+  number_educ: 3
+  education1: Ph.D. Civil Engineering, University of Virginia
+  education2: M.E. Civil Engineering, University of Virginia
+  education3: B.S. Civil Engineering, Bangladesh University of Engineering and Technology (BUET)
+  statement: Faria's dissertation applied data science approaches to better understanding transportation disruptions due to flooding. She is now a postdoctoral researcher at the Department of Engergy.
+
+- name: R. Chase Dong
+  photo: dong.jpg
+  info: M.S., Civil Engineering
+  email: rd4gn@virginia.edu
+  number_educ: 2
+  education1: M.S. Civil Engineering, University of Virginia
+  education2: B.S. Biological Systems Engineering, Virginia Tech University
+  statement: Chase's research was on BMP maintaince and reviewing the database VDOT is building to better track BMP maintence activiteis and costs.
 
 - name: Ben Bowes, Ph.D.
   photo: bowes-1.jpg
-  info: Ph.D. Candidate, Civil Engineering
-  email: bdb3m@virginia.edu
   number_educ: 3
   education1: Ph.D Civil Engineering, University of Virginia
   education2: M.E. Civil Engineering, University of Virginia
   education3: B.S. Environmental Science, Virginia Wesleyan College
-  statement: Ben studied urban water infrastructure, specifically coastal flooding, real-time flood warning, and smart stormwater management. He is now with Paradigm Envionmental.
+  statement: Ben studied urban water infrastructure, specifically coastal flooding, real-time flood warning, and smart stormwater management. He is now an engineeer at <a href="https://paradigmh2o.com/">Paradigm Envionmental</a>.
 
 - name: Youngdon Choi, Ph.D.
   photo: choi.png
-  email: yc5ef@virginia.edu
   number_educ: 3
   education1: Ph.D Civil Engineering, University of Virginia
   education2: M.S. Civil Engineering, Pusan National University, Republic of Korea
   education3: B.S. Civil Engineering, Pusan National University, Republic of Korea
-  statement: Choi's research was on the HydroShare and Earth Cube projects advancing reproducible hydrologic modeling. He is now with K-Water.
+  statement: Choi's research was on the HydroShare and Earth Cube projects advancing reproducible hydrologic modeling. He is now a manager at <a href="https://www.kwater.or.kr/eng/main.do">K-Water</a>.
 
 - name: Ruchir Shah
   photo: shah.jpg
   info: M.S. Student, Computer Engineeering
-  email: rvs4xt@virginia.edu
   number_educ: 2
   education1: M.E. Computer Engineering, University of Virginia
   education1: B.S. Power Electronics Engineering, Gujarat Technological University, India
-  statement: Ruchir was a member of Cyber-Physical Systems NRT program and did research on deploying environmental sensors for engineering robust real-time IoT-based flood warning system. He is now with EY.
+  statement: Ruchir was a member of Cyber-Physical Systems NRT program and did research on deploying environmental sensors for engineering robust real-time IoT-based flood warning system. He is now with <a href="https://www.ey.com/en_us">EY</a>.
 
 - name: Yawen Shen, Ph.D.
   photo: Yawen-1.jpg
-  email: ys5dv@virginia.edu
   number_educ: 3
   education1: Ph.D. Civil Engineering, University of Virginia
   education2: M.S. Civil Engineering, Georgia Tech
   education3: B.S. Civil Engineering, Wuhan University, China
-  statement: Yaween's research was on resilient infrastructure systems, risk of flooding impacts to transportation infrastructure, and using 2D hydrodynamic models to simulate flooding in urban coastal environments. He is now a data scientist at One Concern.
+  statement: Yaween's research was on resilient infrastructure systems, risk of flooding impacts to transportation infrastructure, and using 2D hydrodynamic models to simulate flooding in urban coastal environments. He is now a data scientist at <a href="https://oneconcern.com/en/">One Concern</a>.
 
 - name: Naomi Johnson
   photo: johnson.jpg
-  email: snj3k@virginia.edu
   web: http://www.people.virginia.edu/~snj3k/
   number_educ: 1
   education1: B.A., Computer Science, University of Virginia
-  statement: Naomi researched using image segmentation in order to identify the areal extent and depth of flood waters. She now works at Microsoft.
+  statement: Naomi researched using image segmentation in order to identify the areal extent and depth of flood waters. She now works at <a href="https://www.microsoft.com/en-us/">Microsoft</a>.
 
 - name: Sean Allen
   photo: Allen.jpg
@@ -54,7 +88,6 @@
 
 - name: Gina O'Neil, Ph.D.
   photo: gina-1.jpg
-  email: glo6ck@virginia.edu
   number_educ: 3
   education1: Ph.D Civil Engineering, University of Virginia
   education2: M.S. Civil Engineering, University of Virginia
@@ -63,40 +96,35 @@
 
 - name: Jeff Sadler, Ph.D.
   photo: sadler.jpg
-  email: jms3fb@virginia.edu
   website: <a href="http://jsadler2.github.io">jsadler2.github.io</a>
   number_educ: 3
   education1: Ph.D. Civil Engineering, University of Virginia
   education2: M.S. Civil Engineering, Brigham Young University
   education3: B.S. Civil Engineering, Brigham Young University
-  statement: Jeff completed his PhD in the use of cyber-physical system approaches for smart stormwater management to mitigate flooding impacts. He currently is a postdoc with the USGS in Middleton, WI as part of the <a href="https://owi.usgs.gov/datascience/">USGS Office of Water Information (OWI) Data Science team</a> through a Mendenhall Research Fellowship.
+  statement: Jeff completed his PhD in the use of cyber-physical system approaches for smart stormwater management to mitigate flooding impacts. He is now an <a href='https://experts.okstate.edu/jeff.sadler'>Assistant Professor at Oklahoma State University</a> after completing a postdoc with the USGS in Middleton, WI as part of the <a href="https://owi.usgs.gov/datascience/">USGS Office of Water Information (OWI) Data Science team</a> through a Mendenhall Research Fellowship.
 
 - name: Imaan Hameed
   photo: hameed.jpg
-  email: mih7gf@virginia.edu
   number_educ: 1
   education1: B.S. Systems Engineering, University of Virginia
-  statement: Imaan designed an inexpensive, IoT rain measurement and data communication system.
+  statement: Imaan designed an inexpensive, IoT rain measurement and data communication system. He is now a softare enigneer at <a href="https://www.lockheedmartin.com/en-us/index.html">Lockheed Martin</a>.
 
 - name: Danny Voce
   photo: voce.jpg
-  email: dav3nu@virginia.edu
   number_educ: 1
   education1: B.S. Computer Science, University of Virginia
   statement: Danny helped to build software for water and environmental management applications. He is now a Python Developer at <a href="https://www.paloaltonetworks.com/">Palo Alto Networks</a>.
 
 - name: Mohamed Morsy, Ph.D.
   photo: morsy.jpg
-  email: mmm4dh@virginia.edu
   number_educ: 3
   education1: Ph.D., Civil Engineering, University of Virginia
   education2: M.S. Civil Engineering, Cairo University, Egypt
   education3: B.S. Civil Engineering, Cairo University, Egypt
-  statement: Mohamed completed his PhD at UVA working on the HydroShare project, researching ways to represent hydrologic models within a resource-based hydrologic information system, and designing a flood warning system for VDOT. After serving as a postdoc at UVA, he joined <a href="http://www.dewberry.com">Dewberry</a> in 2019 as a hydrologic modeler.
+  statement: Mohamed completed his PhD at UVA working on the HydroShare project, researching ways to represent hydrologic models within a resource-based hydrologic information system, and designing a flood warning system for VDOT. He is now a professor at <a href="https://cu.edu.eg/Home">Cairo University</a> and senior engineer at <a href="https://www.dar.com/">Dar</a>.
 
 - name: Bakinam Essawy, Ph.D.
   photo: essawy.jpg
-  email: bte2rn@virginia.edu
   number_educ: 3
   education1: Ph.D., Civil Engineering, University of Virginia
   education2: M.S. Civil Engineering, Cairo University, Egypt
@@ -105,21 +133,18 @@
 
 - name: Meredith Sutton
   photo: Sutton3.jpg
-  email: mks7ad@virginia.edu
   number_educ: 1
   education1: B.S., Civil Engineering, University of Virginia
   statement: Meredith researched the use of Python notebooks and HPC for hydrologic modeling. She also assisted in creating our group and project webpages. She is now a PhD student at the University of Nebraska-Lincoln and an NSF GRFP awardee.
 
 - name: Edward Morgan
   photo: morgan.jpg
-  email: ewm4bc@virginia.edu
   number_educ: 1
   education1: B.S., Computer Engineering, University of Virginia
   statement: Edward designed inexpensive, durable rainfall measurement devices for flood detection. He is now a software developer at <a href="https://ccri.com/">Commonwealth Computer Research, Inc.</a>
 
 - name: Mary-Michael Robertson
   photo: marymichael.jpg
-  email: mr4rb@virginia.edu
   number_educ: 1
   education1: B.S., Civil Engineering, University of Virginia
   statement: Mary-Michael researched remote sensing and GIS-based methods for wetland screening. She is now a graduate student in urban and environmental planning at UVA.

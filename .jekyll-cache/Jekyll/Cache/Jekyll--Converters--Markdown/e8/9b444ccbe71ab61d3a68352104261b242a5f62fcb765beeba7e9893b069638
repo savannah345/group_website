@@ -1,4 +1,4 @@
-I"LV<h3 id="current-team">Current Team</h3>
+I"	W<h3 id="current-team">Current Team</h3>
 
 <div class="row">
 
@@ -12,83 +12,6 @@
   BS, Civil Engineering, University of Virginia, 2001 </p>
 
     <p>Professor Goodall directs the UVA Hydroinformatics Research Group and is a faculty member in the Department of Engineering Systems &amp; Environment. He is also serves as the Associate Director of the <a href="http://linklab.virginia.edu">UVA Link Lab</a>. </p>
-  </div>
-
-  <div class="col-sm-6 clearfix">
-    <p><img src="/images/teampic/bowes-1.jpg" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4>Ben Bowes</h4>
-    <p><i>Ph.D. Candidate, Civil Engineering<br />email: bdb3m@virginia.edu</i></p>
-
-    <p> M.E. Civil Engineering, University of Virginia <br />
-  B.S. Environmental Science, Virginia Wesleyan College </p>
-
-    <p>Ben is studying urban water infrastructure. His current research is on coastal flooding, real-time flood warning, and smart stormwater management. </p>
-  </div>
-
-</div>
-
-<div class="row">
-
-  <div class="col-sm-6 clearfix">
-    <p><img src="/images/teampic/saby.jpg" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4>Linnea Saby</h4>
-    <p><i>Ph.D. Candidate, Civil Engineering<br />email: ls3en@virginia.edu</i></p>
-
-    <p> M.E. Civil Engineering, University of Virginia <br />
-  B.A. Environmental Studies, Guilford </p>
-
-    <p>Linnea’s research is at the interface of water resources engineering, environmental science, data science, and policy. She is a School of Data Science Fellow and is co-advised with Prof. Larry Band. </p>
-  </div>
-
-  <div class="col-sm-6 clearfix">
-    <p><img src="/images/teampic/chen.jpg" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4>Alex Chen</h4>
-    <p><i>Ph.D. Candidate, Civil Engineering<br />email: abc8fq@virginia.edu</i></p>
-
-    <p> M.S. Bioenvironmental Systems Engineering, National Taiwan University, Taiwan <br />
-  B.S. Hydraulic and Ocean Engineering, National Cheng Kung University, Taiwan </p>
-
-    <p>Alex is researching smart stormwater management for coastal communities. He has been investigating the use of crowdsourcing, in particular Personal Weather Stations (PWS), for capturing rainfall during extreme weather events in Norfolk, VA. </p>
-  </div>
-
-</div>
-
-<div class="row">
-
-  <div class="col-sm-6 clearfix">
-    <p><img src="/images/teampic/choi.png" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4>Youngdon Choi</h4>
-    <p><i>Ph.D Candidate, Civil Engineering<br />email: yc5ef@virginia.edu</i></p>
-
-    <p> M.S. Civil Engineering, Pusan National University, Republic of Korea <br />
-  B.S. Civil Engineering, Pusan National University, Republic of Korea </p>
-
-    <p>Choi is working on the HydroShare and Earth Cube projects and is currently building the pySUMMA library for the SUMMA hydrologic model. </p>
-  </div>
-
-  <div class="col-sm-6 clearfix">
-    <p><img src="/images/teampic/maghami.jpg" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4>Iman Maghami</h4>
-    <p><i>Ph.D. Candidate, Civil Engineering<br />email: im3vp@virginia.edu</i></p>
-
-    <p> M.S. Civil Engineering, University of Tehran, Iran <br />
-  B.S. Civil Engineering, Sharif University, Iran </p>
-
-    <p>Iman is working on using power harvesting and dynamic power management for smart water monitoring in flooding and water quality applications. He is also working on the HydroShare project. </p>
-  </div>
-
-</div>
-
-<div class="row">
-
-  <div class="col-sm-6 clearfix">
-    <p><img src="/images/teampic/zahura.jpg" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4>Faria Zahura</h4>
-    <p><i>Ph.D. Candidate, Civil Engineering<br />email: fz7xb@virginia.edu</i></p>
-
-    <p>B.S. Civil Engineering, Bangladesh University of Engineering and Technology (BUET) </p>
-
-    <p>Faria is applying data science approaches to better understanding transportation disruptions due to flooding. Her work is focused on the Hampton Roads region of Virginia. </p>
   </div>
 
   <div class="col-sm-6 clearfix">
@@ -143,20 +66,6 @@
   </div>
 
   <div class="col-sm-6 clearfix">
-    <p><img src="/images/teampic/dong.jpg" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4>R. Chase Dong</h4>
-    <p><i>Ph.D. Student, Civil Engineering<br />email: rd4gn@virginia.edu</i></p>
-
-    <p>B.S. Biological Systems Engineering, Virginia Tech University </p>
-
-    <p>Ruochen (Chase) is a first-year Ph.D. student whose research interest centers around smart cities with particular focuses on low-impact development (LID) and urban resilience. As a student in the CPS NRT program, Chase is learning about how the interfaces between the cyber and physical worlds drive new innovations in the area of smart cities. </p>
-  </div>
-
-</div>
-
-<div class="row">
-
-  <div class="col-sm-6 clearfix">
     <p><img src="/images/teampic/roy.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Binata Roy</h4>
     <p><i>Ph.D. Student, Civil Engineering<br />email: br3xk@virginia.edu</i></p>
@@ -166,6 +75,10 @@
 
     <p>Binata’s research interest comprises of hydrological processes in urban watershed and future consequences due to climate change. She plans to apply numerical models, RS &amp; GIS tools, and statistical approaches for her study. </p>
   </div>
+
+</div>
+
+<div class="row">
 
   <div class="col-sm-6 clearfix">
     <p><img src="/images/teampic/wang.jpg" class="img-responsive" width="25%" style="float: left" /></p>
@@ -179,18 +92,29 @@
     <p>Yidi is interested in studying natural hazards generally, with a specific focus on floods. He is currently working on curricular preparation in order to better define and structure his research. </p>
   </div>
 
+  <div class="col-sm-6 clearfix">
+    <p><img src="/images/teampic/cummins.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Savannah Cummins</h4>
+    <p><i>Ph.D. Student, Civil Engineering<br />email: wnt6gp@virginia.edu</i></p>
+
+    <p>B.S. Chemical Engineering, Auburn University </p>
+
+    <p>Savannah’s research is considering ways to add an equity component to decision-making models that help solve water management problems and better serve marginalized communities. </p>
+  </div>
+
 </div>
 
 <div class="row">
 
   <div class="col-sm-6 clearfix">
-    <p><img src="/images/teampic/shah.jpg" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4>Ruchir Shah</h4>
-    <p><i>M.S. Student, Computer Engineeering<br />email: rvs4xt@virginia.edu</i></p>
+    <p><img src="/images/teampic/jeong.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Jiwoo Jeong, P.E.</h4>
+    <p><i>Ph.D. Student, Civil Engineering<br />email: neq7xb@virginia.edu</i></p>
 
-    <p>B.S. Power Electronics Engineering, Gujarat Technological University, India </p>
+    <p> M.S. Civil Engineering, Seoul National University, Republic of Korea <br />
+  B.S. Civil Engineering, Seoul National University, Republic of Korea </p>
 
-    <p>Ruchir is a member of Cyber-Physical Systems NRT program (1st batch) and is working with deploying environmental sensors for engineering robust real-time IoT-based flood warning system in Albemarle County. </p>
+    <p>Jiwoo is studying the impacts of climate change on urban coastal flooding. </p>
   </div>
 
 </div>
@@ -200,6 +124,68 @@
 <div class="row">
 
   <div class="col-sm-6 clearfix">
+    <p><img src="/images/teampic/saby.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Linnea Saby</h4>
+
+    <p>Ph.D. Civil Engineering, University of Virginia <br />
+  M.E. Civil Engineering, University of Virginia <br />
+  B.A. Environmental Studies, Guilford </p>
+
+    <p>Linnea’s PhD research was at the interface of water resources engineering, environmental science, data science, and policy. She was a School of Data Science Fellow and was co-advised with Prof. Larry Band. She will be a Knauss Fellow at NOAA. </p>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="/images/teampic/chen.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Alex Chen, Ph.D.</h4>
+
+    <p>Ph.D. Civil Engineering, University of Virginia <br />
+  M.S. Bioenvironmental Systems Engineering, National Taiwan University, Taiwan <br />
+  B.S. Hydraulic and Ocean Engineering, National Cheng Kung University, Taiwan </p>
+
+    <p>Alex researched smart stormwater management for coastal communities. His dissertation investigated the use of crowdsourcing, in particular Personal Weather Stations (PWS), for capturing rainfall during extreme weather events in Norfolk, VA. He now works for the National Weather Service in their flood forecasting center. </p>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="/images/teampic/maghami.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Iman Maghami, Ph.D.</h4>
+
+    <p>Ph.D. Civil Engineering, University of Virginia <br />
+  M.S. Civil Engineering, University of Tehran, Iran <br />
+  B.S. Civil Engineering, Sharif University, Iran </p>
+
+    <p>Iman’s dissertation was on building cyberinfrastructure for the hydrology community, focusing on model sharing in HydroShare. He is now a postdoctoral scholar at BYU. </p>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="/images/teampic/zahura.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Faria Zahura, Ph.D.</h4>
+
+    <p>Ph.D. Civil Engineering, University of Virginia <br />
+  M.E. Civil Engineering, University of Virginia <br />
+  B.S. Civil Engineering, Bangladesh University of Engineering and Technology (BUET) </p>
+
+    <p>Faria’s dissertation applied data science approaches to better understanding transportation disruptions due to flooding. She is now a postdoctoral researcher at the Department of Engergy. </p>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="/images/teampic/dong.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>R. Chase Dong</h4>
+
+    <p>M.S. Civil Engineering, University of Virginia <br />
+  B.S. Biological Systems Engineering, Virginia Tech University </p>
+
+    <p>Chase’s research was on BMP maintaince and reviewing the database VDOT is building to better track BMP maintence activiteis and costs. </p>
+  </div>
+
+  <div class="col-sm-6 clearfix">
     <p><img src="/images/teampic/bowes-1.jpg" class="img-responsive" width="25%" style="float: left" /></p>
     <h4>Ben Bowes, Ph.D.</h4>
 
@@ -207,8 +193,12 @@
   M.E. Civil Engineering, University of Virginia <br />
   B.S. Environmental Science, Virginia Wesleyan College </p>
 
-    <p>Ben is studying urban water infrastructure. His current research is on coastal flooding, real-time flood warning, and smart stormwater management. </p>
+    <p>Ben studied urban water infrastructure, specifically coastal flooding, real-time flood warning, and smart stormwater management. He is now an engineeer at <a href="https://paradigmh2o.com/">Paradigm Envionmental</a>. </p>
   </div>
+
+</div>
+
+<div class="row">
 
   <div class="col-sm-6 clearfix">
     <p><img src="/images/teampic/choi.png" class="img-responsive" width="25%" style="float: left" /></p>
@@ -218,7 +208,17 @@
   M.S. Civil Engineering, Pusan National University, Republic of Korea <br />
   B.S. Civil Engineering, Pusan National University, Republic of Korea </p>
 
-    <p>Choi is working on the HydroShare and Earth Cube projects and is currently building the pySUMMA library for the SUMMA hydrologic model. </p>
+    <p>Choi’s research was on the HydroShare and Earth Cube projects advancing reproducible hydrologic modeling. He is now a manager at <a href="https://www.kwater.or.kr/eng/main.do">K-Water</a>. </p>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="/images/teampic/shah.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4>Ruchir Shah</h4>
+
+    <p>B.S. Power Electronics Engineering, Gujarat Technological University, India <br />
+   </p>
+
+    <p>Ruchir was a member of Cyber-Physical Systems NRT program and did research on deploying environmental sensors for engineering robust real-time IoT-based flood warning system. He is now with <a href="https://www.ey.com/en_us">EY</a>. </p>
   </div>
 
 </div>
@@ -233,7 +233,7 @@
   M.S. Civil Engineering, Georgia Tech <br />
   B.S. Civil Engineering, Wuhan University, China </p>
 
-    <p>Yaween’s research was on resilient infrastructure systems, risk of flooding impacts to transportation infrastructure, and using 2D hydrodynamic models to simulate flooding in urban coastal environments. He is now an engineer with Arcadis. </p>
+    <p>Yaween’s research was on resilient infrastructure systems, risk of flooding impacts to transportation infrastructure, and using 2D hydrodynamic models to simulate flooding in urban coastal environments. He is now a data scientist at <a href="https://oneconcern.com/en/">One Concern</a>. </p>
   </div>
 
   <div class="col-sm-6 clearfix">
@@ -242,7 +242,7 @@
 
     <p>B.A., Computer Science, University of Virginia</p>
 
-    <p>Naomi researched using image segmentation in order to identify the areal extent and depth of flood waters. She now works at Microsoft. </p>
+    <p>Naomi researched using image segmentation in order to identify the areal extent and depth of flood waters. She now works at <a href="https://www.microsoft.com/en-us/">Microsoft</a>. </p>
   </div>
 
 </div>
@@ -282,7 +282,7 @@
   M.S. Civil Engineering, Brigham Young University <br />
   B.S. Civil Engineering, Brigham Young University </p>
 
-    <p>Jeff completed his PhD in the use of cyber-physical system approaches for smart stormwater management to mitigate flooding impacts. He currently is a postdoc with the USGS in Middleton, WI as part of the <a href="https://owi.usgs.gov/datascience/">USGS Office of Water Information (OWI) Data Science team</a> through a Mendenhall Research Fellowship. </p>
+    <p>Jeff completed his PhD in the use of cyber-physical system approaches for smart stormwater management to mitigate flooding impacts. He is now an <a href="https://experts.okstate.edu/jeff.sadler">Assistant Professor at Oklahoma State University</a> after completing a postdoc with the USGS in Middleton, WI as part of the <a href="https://owi.usgs.gov/datascience/">USGS Office of Water Information (OWI) Data Science team</a> through a Mendenhall Research Fellowship. </p>
   </div>
 
   <div class="col-sm-6 clearfix">
@@ -291,7 +291,7 @@
 
     <p>B.S. Systems Engineering, University of Virginia</p>
 
-    <p>Imaan designed an inexpensive, IoT rain measurement and data communication system. </p>
+    <p>Imaan designed an inexpensive, IoT rain measurement and data communication system. He is now a softare enigneer at <a href="https://www.lockheedmartin.com/en-us/index.html">Lockheed Martin</a>. </p>
   </div>
 
 </div>
@@ -315,7 +315,7 @@
   M.S. Civil Engineering, Cairo University, Egypt <br />
   B.S. Civil Engineering, Cairo University, Egypt </p>
 
-    <p>Mohamed completed his PhD at UVA working on the HydroShare project, researching ways to represent hydrologic models within a resource-based hydrologic information system, and designing a flood warning system for VDOT. After serving as a postdoc at UVA, he joined <a href="http://www.dewberry.com">Dewberry</a> in 2019 as a hydrologic modeler. </p>
+    <p>Mohamed completed his PhD at UVA working on the HydroShare project, researching ways to represent hydrologic models within a resource-based hydrologic information system, and designing a flood warning system for VDOT. He is now a professor at <a href="https://cu.edu.eg/Home">Cairo University</a> and senior engineer at <a href="https://www.dar.com/">Dar</a>. </p>
   </div>
 
 </div>

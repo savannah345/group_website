@@ -11,41 +11,6 @@
   education3: BS, Civil Engineering, University of Virginia, 2001
   statement: Professor Goodall directs the UVA Hydroinformatics Research Group and is a faculty member in the Department of Engineering Systems & Environment. He is also serves as the Associate Director of the <a href="http://linklab.virginia.edu">UVA Link Lab</a>.
 
-- name: Linnea Saby
-  photo: saby.jpg
-  info: Ph.D. Candidate, Civil Engineering
-  email: ls3en@virginia.edu
-  number_educ: 2
-  education1: M.E. Civil Engineering, University of Virginia
-  education2: B.A. Environmental Studies, Guilford
-  statement: Linnea's research is at the interface of water resources engineering, environmental science, data science, and policy. She is a School of Data Science Fellow and is co-advised with Prof. Larry Band.
-
-- name: Alex Chen
-  photo: chen.jpg
-  info: Ph.D. Candidate, Civil Engineering
-  email: abc8fq@virginia.edu
-  number_educ: 2
-  education1: M.S. Bioenvironmental Systems Engineering, National Taiwan University, Taiwan
-  education2: B.S. Hydraulic and Ocean Engineering, National Cheng Kung University, Taiwan
-  statement: Alex is researching smart stormwater management for coastal communities. He has been investigating the use of crowdsourcing, in particular Personal Weather Stations (PWS), for capturing rainfall during extreme weather events in Norfolk, VA.
-
-- name: Iman Maghami
-  photo: maghami.jpg
-  info: Ph.D. Candidate, Civil Engineering
-  email: im3vp@virginia.edu
-  number_educ: 2
-  education1: M.S. Civil Engineering, University of Tehran, Iran
-  education2: B.S. Civil Engineering, Sharif University, Iran
-  statement: Iman is working on using power harvesting and dynamic power management for smart water monitoring in flooding and water quality applications. He is also working on the HydroShare project.
-
-- name: Faria Zahura
-  photo: zahura.jpg
-  info: Ph.D. Candidate, Civil Engineering
-  email: fz7xb@virginia.edu
-  number_educ: 1
-  education1: B.S. Civil Engineering, Bangladesh University of Engineering and Technology (BUET)
-  statement: Faria is applying data science approaches to better understanding transportation disruptions due to flooding. Her work is focused on the Hampton Roads region of Virginia.
-
 - name: Victor Ariel Leal Sobral
   photo: sobral.jpg
   info: Ph.D. Candidate, Computer Engineeering
@@ -81,14 +46,6 @@
   education1: B.S. Civil Engineering, University of Maryland
   statement: Ciara’s research consists of using data science and GIS to measure how the presence of dams and levees affect the flooding vulnerability of marginalized populations in the U.S. and thus contribute to public health and environmental injustices
 
-- name: R. Chase Dong
-  photo: dong.jpg
-  info: Ph.D. Student, Civil Engineering
-  email: rd4gn@virginia.edu
-  number_educ: 1
-  education1: B.S. Biological Systems Engineering, Virginia Tech University
-  statement: Ruochen (Chase) is a first-year Ph.D. student whose research interest centers around smart cities with particular focuses on low-impact development (LID) and urban resilience. As a student in the CPS NRT program, Chase is learning about how the interfaces between the cyber and physical worlds drive new innovations in the area of smart cities.
-
 - name: Binata Roy
   photo: roy.jpg
   info: Ph.D. Student, Civil Engineering
@@ -107,3 +64,20 @@
   education2: B.S. Watershed Science, Colorado State University, CO, USA, 2018
   education3: B.S. Geographic Sciences, East China Normal University, Shanghai, China, 2018
   statement: Yidi is interested in studying natural hazards generally, with a specific focus on floods. He is currently working on curricular preparation in order to better define and structure his research.
+
+- name: Savannah Cummins
+  photo: cummins.jpg
+  info: Ph.D. Student, Civil Engineering
+  email: wnt6gp@virginia.edu
+  number_educ: 1
+  education1: B.S. Chemical Engineering, Auburn University
+  statement: Savannah's research is considering ways to add an equity component to decision-making models that help solve water management problems and better serve marginalized communities.
+
+- name: Jiwoo Jeong, P.E.
+  photo: jeong.jpg
+  info: Ph.D. Student, Civil Engineering
+  email: neq7xb@virginia.edu
+  number_educ: 2
+  education1: M.S. Civil Engineering, Seoul National University, Republic of Korea
+  education2: B.S. Civil Engineering, Seoul National University, Republic of Korea
+  statement: Jiwoo is studying the impacts of climate change on urban coastal flooding.

@@ -12,6 +12,22 @@
 #ability to add new news??
   #news2:
   #news1: <a style="color:#FF0000; text-decoration:underline" href="http://science.sciencemag.org/content/345/6203/twil">News item in Science</a>
+
+- title: "Hydrologic Model Sensitivity to Temporal Aggregation of Meteorological Forcing Data: A Case Study for the Contiguous United States"
+  image: blank.jpg
+  description: Journal of Hydrometeorology
+  date: 2022
+  authors: Van Beusekom, A. E., Hay, L. E., Bennett, A. R., Choi, Y.-D., Clark, M. P., Goodall, J. L., Li, Z., Maghami, I., Nijssen, B. and Wood, A. W.
+  link:
+    url: https://doi.org/
+    display: Final Article
+  linkpdf:
+    pdf:     
+    display: Preprint
+  highlight: 0
+
+
+
 - title: Toward open and reproducible environmental modeling by integrating online data repositories, computational environments, and model Application Programming Interfaces
   image: blank.jpg
   description: Environmental Modelling & Software, doi:10.1016/j.envsoft.2020.104888

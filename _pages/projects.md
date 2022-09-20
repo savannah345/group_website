@@ -6,7 +6,7 @@ sitemap: false
 permalink: /projects/
 ---
 
-### Selected Projects
+# Selected Projects
 
 Below are selected current and past  funded resarch projects that are representative of our group's work.
 
