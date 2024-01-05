@@ -1,4 +1,13 @@
 # Alumni
+
+- name: Jake Nelson, Ph.D.
+  photo: nelson.jpg
+  number_educ: 3
+  education1: Ph.D. Civil Engineering, University of Virginia
+  education2: M.S. CEE, Brigham Young University
+  education3: B.S. CEE, Brigham Young Univeristy
+  statement: Jake was part of the Cyber-Physical Systems NRT program. His research focused on smart stormwater systems and nutrient credit markets as a means for improving water quality.
+
 - name: Linnea Saby
   photo: saby.jpg
   number_educ: 3
